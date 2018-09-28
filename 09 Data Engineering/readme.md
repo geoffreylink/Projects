@@ -10,3 +10,5 @@
 <p>ip -a</p>
 <p>Thoughtworks -> Sadalage, Fowler, Kleppman</p>
 <p>Netflix blog is likely the best to watch for Data Engineering</p>
+<p>https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905</p>
+<p>https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb</p>
