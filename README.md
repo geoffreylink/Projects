@@ -9,3 +9,4 @@
 <p>UBER ENGINEERING BLOG https://eng.uber.com/uber-big-data-platform/</p>
 <p>CLOUDERA BLOG http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/</p>
 <p>CHAOS ENGINEERING https://www.oreilly.com/ideas/chaos-engineering</p>
+<p>Indeed Engineering https://engineering.indeedblog.com/blog/</p>
