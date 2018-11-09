@@ -13,3 +13,4 @@
 <p>PRINCIPLES OF CHAOS ENGINEERING http://principlesofchaos.org </p>
 <p>Netflix Open Source Software https://netflix.github.io</p>
 <p>Docker Hub https://docs.docker.com/docker-hub/</p>
+<p>AWS Best Practices https://aws.amazon.com/architecture/well-architected/</p>
