@@ -14,3 +14,6 @@
 <p>Netflix Open Source Software https://netflix.github.io</p>
 <p>Docker Hub https://docs.docker.com/docker-hub/</p>
 <p>AWS Best Practices https://aws.amazon.com/architecture/well-architected/</p>
+<p>R2D3 http://www.r2d3.us</p>
+<p>StreamSets Blog https://streamsets.com/blog/machine-learning-with-tensorflow-and-kafka-in-data-collector/ </p>
+<p>xkcd https://xkcd.com</p>
