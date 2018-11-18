@@ -18,3 +18,4 @@
 <p>StreamSets Blog https://streamsets.com/blog/machine-learning-with-tensorflow-and-kafka-in-data-collector/ </p>
 <p>xkcd https://xkcd.com</p>
 <p>Sebastian Ruder http://ruder.io/optimizing-gradient-descent/</p>
+<p>The Neural Network Zoo http://www.asimovinstitute.org/neural-network-zoo/</p>
