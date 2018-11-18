@@ -19,3 +19,4 @@
 <p>xkcd https://xkcd.com</p>
 <p>Sebastian Ruder http://ruder.io/optimizing-gradient-descent/</p>
 <p>The Neural Network Zoo http://www.asimovinstitute.org/neural-network-zoo/</p>
+<p>The Deep Learning Book http://www.deeplearningbook.org</p>
