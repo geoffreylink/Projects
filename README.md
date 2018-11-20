@@ -21,3 +21,4 @@
 <p>The Neural Network Zoo http://www.asimovinstitute.org/neural-network-zoo/</p>
 <p>The Deep Learning Book http://www.deeplearningbook.org</p>
 <p>Serverless https://serverless.com</p>
+<p>Amazon Kinesis https://aws.amazon.com/blogs/database/stream-data-into-an-aurora-postgresql-database-using-aws-dms-and-amazon-kinesis-data-firehose/</p>
