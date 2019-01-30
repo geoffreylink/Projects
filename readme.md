@@ -10,6 +10,7 @@
 
 * [Arxiv](http://arxiv-sanity.com)
 * [DataTau](http://www.datatau.com)
+* [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [Serverless](https://serverless.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
