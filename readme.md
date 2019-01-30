@@ -10,9 +10,9 @@
 
 * [Arxiv](http://arxiv-sanity.com)
 * [DataTau](http://www.datatau.com)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 * [Neural Networks Demysitified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
