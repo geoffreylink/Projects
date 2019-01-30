@@ -10,6 +10,7 @@
 
 * [Arxiv](http://arxiv-sanity.com)
 * [DataTau](http://www.datatau.com)
+* [Serverless](https://serverless.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
