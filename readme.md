@@ -19,13 +19,14 @@
 
 * [Deep Learning](http://www.deeplearningbook.org)
 
-## Engineering Blogs
+## Blogs
 
 * [AWS](https://aws.amazon.com/blogs/aws/)
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
 * [Slack](https://slack.engineering)
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
+* [Kaggle](http://blog.kaggle.com)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
