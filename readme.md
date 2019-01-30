@@ -66,12 +66,11 @@
 
 ## Nerd Heros
 
-* [Ian Goodfellow](quora.com/profile/Ian-Goodfellow)
-* [Christopher-Olah](quora.com/profile/Christopher-Olah)
-* [Francois Chollet](quora.com/profile/François-Chollet)
-* [Andrew Ng](quora.com/profile/Andrew-Ng)
-* [Yann LeCun](quora.com/profile/Yann-LeCun)
-* [Yoshua Bengio](quora.com/profile/Yoshua-Bengio)
+* [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
+* [Francois Chollet](https://medium.com/@francois.chollet)
+* [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
+* [Yann LeCun](http://yann.lecun.com)
+* [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
