@@ -1,7 +1,7 @@
 ## Tools
 
-* [Vega](https://vega.github.io/vega/)
 * [D3.js](https://d3js.org)
+* [Vega](https://vega.github.io/vega/)
 * [Grafana](https://grafana.com)
 * [MatPlotLib](https://matplotlib.org)
 * [Plotly Dash](https://plot.ly/products/dash/)
