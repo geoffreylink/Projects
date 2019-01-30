@@ -1,6 +1,6 @@
 # Welcome!
 
-[LinkedIn: Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+[Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
 ## 5mR
 
