@@ -8,11 +8,15 @@
 
 ## Reference
 
+* [Arxiv](http://arxiv-sanity.com)
 * [DataTau](http://www.datatau.com)
 * [Serverless](https://serverless.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+* [Neural Networks Demysitified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+* [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
+* [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
@@ -43,6 +47,22 @@
 * [Bill Chambers](http://billchambers.me)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
+
+## Conferences
+
+* [KDD](https://www.kdd.org)
+* [CVPR](cvpr2017.thecvf.com)
+* [NIPS](https://nips.cc)
+* [ICML](https://icml.cc)
+* [MLSS](http://mlss.cc)
+* [Eyeo Festival](http://eyeofestival.com)
+
+## Cool Tools
+
+* [pywren](pywren.io/pages/gettingstarted.html)
+* [Scikit Learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [React Native](https://facebook.github.io/react-native/)
+* [Big-O Cheet Sheet](http://bigocheatsheet.com)
 
 ## Nerd Humor
 
