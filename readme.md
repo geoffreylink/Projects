@@ -2,7 +2,7 @@
 
 [LinkedIn: Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
-## Interesting Reads
+## 5 minute reads
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
