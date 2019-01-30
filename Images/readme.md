@@ -1,5 +1,0 @@
-![](https://github.com/geoffreylink/Projects/blob/master/Images/GraphTypes.png)
-![](https://github.com/geoffreylink/Projects/blob/master/Images/Graphana_Kafka.png)
-![](https://github.com/geoffreylink/Projects/blob/master/Images/HighLevel_Pipeline.png)
-![](https://github.com/geoffreylink/Projects/blob/master/Images/Layering_Kafka.png)
-![](https://github.com/geoffreylink/Projects/blob/master/Images/Streaming_Netflix.png)
