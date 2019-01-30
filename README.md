@@ -1,5 +1,6 @@
 # Projects
 
+<p>https://slack.com</p>
 <p>GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG https://cloud.google.com/blog/big-data/</p>
 <p>THE NETFLIX TECH BLOG https://medium.com/netflix-techblog</p>
 <p>THE BLOCKROCK ENGINEERING BLOG http://rockthecode.io</p>
