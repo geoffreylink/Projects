@@ -10,7 +10,6 @@
 
 * [Arxiv](http://arxiv-sanity.com)
 * [DataTau](http://www.datatau.com)
-* [Serverless](https://serverless.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
