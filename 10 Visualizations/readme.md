@@ -16,11 +16,9 @@
 
 ## Visualizations_02.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_02.png)
-![](https://github.com/geoffreylink/Projects/blob/master/Images/Visualizations_02.png)
 
 ## Visualizations_03.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_03.png)
-![](https://github.com/geoffreylink/Projects/blob/master/Images/Visualizations_03.png)
 
 ## Visualizations_04.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_04.png)
