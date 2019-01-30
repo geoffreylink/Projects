@@ -10,6 +10,7 @@
 
 * [DataTau](http://www.datatau.com)
 * [Serverless](https://serverless.com)
+* [Bill Chambers](http://billchambers.me)
 * [Peter@Norvig.com](http://norvig.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
