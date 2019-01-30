@@ -64,6 +64,20 @@
 * [React Native](https://facebook.github.io/react-native/)
 * [Big-O Cheet Sheet](http://bigocheatsheet.com)
 
-## Nerd Humor
+## Nerd Heros
+
+* [Ian Goodfellow](quora.com/profile/Ian-Goodfellow)
+* [Christopher-Olah](quora.com/profile/Christopher-Olah)
+* [Francois Chollet](quora.com/profile/François-Chollet)
+* [Andrew Ng](quora.com/profile/Andrew-Ng)
+* [Yann LeCun](quora.com/profile/Yann-LeCun)
+* [Yoshua Bengio](quora.com/profile/Yoshua-Bengio)
+* [Christopher Manning](https://nlp.stanford.edu/manning/)
+* [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
+* [Stephen Boyd](http://web.stanford.edu/~boyd/index.html):w
+
+
+## Geek Humor
 
 * [XKCD Machine Learning](https://xkcd.com/1838/)
