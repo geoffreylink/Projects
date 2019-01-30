@@ -1,5 +1,6 @@
-## Favorite Tools
+## Favorite Visualization Tools
 
 * [Plotly Dash](https://plot.ly/products/dash/)
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Grafana](https://grafana.com)
+* [Jupyter Dashboards](https://jupyter-dashboards-layout.readthedocs.io/en/latest/)
+* [MatPlotLib](https://matplotlib.org)
