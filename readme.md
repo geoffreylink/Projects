@@ -8,14 +8,30 @@
 
 ## Reference
 
-* [Slack](https://slack.com)
-* [Google Cloud](https://cloud.google.com/blog/big-data/)
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+## Blogs
+
+* [Slack Engineering](https://slack.engineering)
+* [Google Big Data](https://cloud.google.com/blog/big-data/)
 * [Netflix Tech](https://medium.com/netflix-techblog)
-* [Blackrock Tech](http://rockthecode.io)
-
-
-<p>AWS NEWS BLOG https://aws.amazon.com/blogs/aws/</p>
-<p>TWITTER ENGINEERING BLOG https://blog.twitter.com/engineering/en_us.html</p>
+* [Blackrock Engineering](http://rockthecode.io)
+* [AWS](https://aws.amazon.com/blogs/aws/)
+* [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 <p>https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks</p>
 <p>UBER ENGINEERING BLOG https://eng.uber.com/uber-big-data-platform/</p>
 <p>CLOUDERA BLOG http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/</p>
