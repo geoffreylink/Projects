@@ -8,10 +8,14 @@
 
 ## Reference
 
+* [Serverless](https://serverless.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
+## Books
+
+* [Deep Learning](http://www.deeplearningbook.org)
 
 ## Engineering Blogs
 
@@ -37,8 +41,6 @@
 * []()
 <p>Sebastian Ruder http://ruder.io/optimizing-gradient-descent/</p>
 <p>The Neural Network Zoo http://www.asimovinstitute.org/neural-network-zoo/</p>
-<p>The Deep Learning Book http://www.deeplearningbook.org</p>
-<p>Serverless https://serverless.com</p>
 
 ## Nerd Humor
 
