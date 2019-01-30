@@ -73,11 +73,11 @@
 * [Yann LeCun](quora.com/profile/Yann-LeCun)
 * [Yoshua Bengio](quora.com/profile/Yoshua-Bengio)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
-* [Geoffrey Hinton](cs.toronto.edu/~hinton/)
-* [Fei Fei Lee](vision.stanford.edu/feifeili/)
-* [Stephen Boyd](web.stanford.edu/~boyd/index.html)
+* [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
+* [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 
 
 ## Geek Humor
 
-* [XKCD Machine Learning](xkcd.com/1838/)
+* [XKCD Machine Learning](https://xkcd.com/1838/)
