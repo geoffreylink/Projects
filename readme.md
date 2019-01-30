@@ -12,6 +12,8 @@
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+* [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 
 ## Books
 
@@ -27,20 +29,6 @@
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-<p>Sebastian Ruder http://ruder.io/optimizing-gradient-descent/</p>
-<p>The Neural Network Zoo http://www.asimovinstitute.org/neural-network-zoo/</p>
 
 ## Nerd Humor
 
