@@ -8,8 +8,8 @@
 
 ## Reference
 
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [Principles of Chaos](http://principlesofchaos.org)
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 
