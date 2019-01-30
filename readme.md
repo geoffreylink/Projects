@@ -9,6 +9,7 @@
 ## Reference
 
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* [Principles of Chaos](http://principlesofchaos.org)
 
 ## Engineering Blogs
 
@@ -16,7 +17,8 @@
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
 * [Slack](https://slack.engineering)
 * [Google](https://cloud.google.com/blog/big-data/)
-* [Netflix](https://medium.com/netflix-techblog)
+* [Indeed](https://engineering.indeedblog.com/blog/)
+* [Netflix](https://medium.com/netflix-techblog) - [Netflix](https://medium.com/netflix-techblog)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
 * []()
@@ -31,12 +33,6 @@
 * []()
 * []()
 * []()
-* []()
-<p>UBER ENGINEERING BLOG https://eng.uber.com/uber-big-data-platform/</p>
-<p>CLOUDERA BLOG http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/</p>
-<p>CHAOS ENGINEERING https://www.oreilly.com/ideas/chaos-engineering</p>
-<p>Indeed Engineering https://engineering.indeedblog.com/blog/</p>
-<p>PRINCIPLES OF CHAOS ENGINEERING http://principlesofchaos.org </p>
 <p>Netflix Open Source Software https://netflix.github.io</p>
 <p>Docker Hub https://docs.docker.com/docker-hub/</p>
 <p>AWS Best Practices https://aws.amazon.com/architecture/well-architected/</p>
