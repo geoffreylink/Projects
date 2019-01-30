@@ -1,3 +1,9 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/Images/GraphTypes.png)
-
-
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Graphana_Kafka.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/HighLevel_Pipeline.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Layering_Kafka.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Streaming_Netflix.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Visualizations_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Visualizations_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Visualizations_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/Images/Visualizations_04.png)
