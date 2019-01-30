@@ -20,6 +20,7 @@
 ## Books
 
 * [Deep Learning](http://www.deeplearningbook.org)
+* [A Course in Machine Learning](http://ciml.info)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
