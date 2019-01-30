@@ -18,7 +18,7 @@
 * [Slack](https://slack.engineering)
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
-* [Netflix](https://medium.com/netflix-techblog) - [Netflix](https://medium.com/netflix-techblog)
+* [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
 * []()
@@ -33,7 +33,6 @@
 * []()
 * []()
 * []()
-<p>Netflix Open Source Software https://netflix.github.io</p>
 <p>Docker Hub https://docs.docker.com/docker-hub/</p>
 <p>AWS Best Practices https://aws.amazon.com/architecture/well-architected/</p>
 <p>R2D3 http://www.r2d3.us</p>
