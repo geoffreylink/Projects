@@ -18,6 +18,7 @@
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 
 ## Books
 
