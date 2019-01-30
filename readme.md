@@ -35,13 +35,11 @@
 * []()
 * []()
 * []()
-<p>AWS Best Practices https://aws.amazon.com/architecture/well-architected/</p>
-<p>R2D3 http://www.r2d3.us</p>
-<p>StreamSets Blog https://streamsets.com/blog/machine-learning-with-tensorflow-and-kafka-in-data-collector/ </p>
-<p>xkcd https://xkcd.com</p>
 <p>Sebastian Ruder http://ruder.io/optimizing-gradient-descent/</p>
 <p>The Neural Network Zoo http://www.asimovinstitute.org/neural-network-zoo/</p>
 <p>The Deep Learning Book http://www.deeplearningbook.org</p>
 <p>Serverless https://serverless.com</p>
-<p>Amazon Kinesis https://aws.amazon.com/blogs/database/stream-data-into-an-aurora-postgresql-database-using-aws-dms-and-amazon-kinesis-data-firehose/</p>
 
+## Nerd Humor
+
+* [XKCD Machine Learning](https://xkcd.com/1838/)
