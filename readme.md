@@ -10,14 +10,15 @@
 
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
-## Blogs
+## Engineering Blogs
 
-* [Slack Engineering](https://slack.engineering)
-* [Google Big Data](https://cloud.google.com/blog/big-data/)
-* [Netflix Tech](https://medium.com/netflix-techblog)
-* [Blackrock Engineering](http://rockthecode.io)
 * [AWS](https://aws.amazon.com/blogs/aws/)
-* [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
+* [Uber](https://eng.uber.com/uber-big-data-platform/)
+* [Slack](https://slack.engineering)
+* [Google](https://cloud.google.com/blog/big-data/)
+* [Netflix](https://medium.com/netflix-techblog)
+* [Twitter](https://blog.twitter.com/engineering/en_us.html)
+* [Blackrock](http://rockthecode.io)
 * []()
 * []()
 * []()
@@ -31,8 +32,6 @@
 * []()
 * []()
 * []()
-* []()
-<p>https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks</p>
 <p>UBER ENGINEERING BLOG https://eng.uber.com/uber-big-data-platform/</p>
 <p>CLOUDERA BLOG http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/</p>
 <p>CHAOS ENGINEERING https://www.oreilly.com/ideas/chaos-engineering</p>
