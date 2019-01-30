@@ -10,8 +10,6 @@
 
 * [DataTau](http://www.datatau.com)
 * [Serverless](https://serverless.com)
-* [Bill Chambers](http://billchambers.me)
-* [Peter@Norvig.com](http://norvig.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
@@ -37,10 +35,14 @@
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
 * [Kaggle](http://blog.kaggle.com)
-* [DataBricks](https://databricks.com/blog)
+* [Colah's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
+* [DataBricks](https://databricks.com/blog)
+* [Bill Chambers](http://billchambers.me)
+* [Peter@Norvig.com](http://norvig.com)
+
 
 ## Nerd Humor
 
