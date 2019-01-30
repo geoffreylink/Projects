@@ -1,6 +1,6 @@
-# Hello and Welcome! [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+# Hello and Welcome!
 
-This is the Github page for [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+[LinkedIn: Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
 ## Interesting Reads
 
