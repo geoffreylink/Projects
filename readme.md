@@ -1,4 +1,4 @@
-# Hello and Welcome!
+# Welcome!
 
 [LinkedIn: Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
