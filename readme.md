@@ -10,6 +10,7 @@
 
 * [Arxiv](http://arxiv-sanity.com)
 * [DataTau](http://www.datatau.com)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
@@ -78,4 +79,4 @@
 
 ## Geek Humor
 
-* [XKCD Machine Learning](https://xkcd.com/1838/)
+* [XKCD](https://xkcd.com/1838/)
