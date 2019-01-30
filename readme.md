@@ -12,6 +12,7 @@
 * [Principles of Chaos](http://principlesofchaos.org)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+* [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 
@@ -27,6 +28,7 @@
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
 * [Kaggle](http://blog.kaggle.com)
+* [DataBricks](https://databricks.com/blog)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
