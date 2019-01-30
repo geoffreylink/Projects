@@ -1,4 +1,6 @@
-# Welcome to My Github Projects!
+# Welcome!
+
+This are the Github Projects for [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
 One Paragraph of project description goes here
 
