@@ -41,8 +41,8 @@
 * [Blackrock](http://rockthecode.io)
 * [DataBricks](https://databricks.com/blog)
 * [Bill Chambers](http://billchambers.me)
+* [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
-
 
 ## Nerd Humor
 
