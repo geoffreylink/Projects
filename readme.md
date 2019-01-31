@@ -68,8 +68,8 @@
 * [tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 * [ipecho](https://ipecho.net)
 * [pywren](pywren.io/pages/gettingstarted.html)
-* [Scikit Learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [React Native](https://facebook.github.io/react-native/)
+* [Scikit Learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [explain shell](https://explainshell.com)
 * [Big-O Cheet Sheet](http://bigocheatsheet.com)
 
