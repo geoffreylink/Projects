@@ -62,6 +62,8 @@
 ## Cool Tools
 
 * [jq](https://stedolan.github.io/jq/)
+* [htop](https://hisham.hm/htop/)
+* [tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 * [ipecho](https://ipecho.net)
 * [pywren](pywren.io/pages/gettingstarted.html)
 * [Scikit Learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
