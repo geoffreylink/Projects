@@ -24,18 +24,12 @@
 * Offline data.  Not data that you need to get an answer from quickly.  Spark is well suited to this sort of deployment.  Persist the model to disk (not low latency, very high!)
 * Database (usually a key-value store).  This works well for something like recommendation but poorly for something like classification or regression where you cannot just look up a value for a given user but must calculate one based on the input
 
+## Format
 
-
-<p>---</p>
-<p>p427 of Spark: The Definitive Guide:</p>
-<p>-</p>
-<p>Formating Models According to Your Use Case:</p>
-<p>- In the case of most classification and regression algorithms, you want to get your data into a column of type Double to represent the label and a column of type Vector (either dense or sparse) to represent the features.</p>
-<p>- In the case of recommendations, you want to get your data into a column of users, a column of items (say movies or books), and a column of ratings.</p>
-<p>- In the case of unsupervised learning, a column of type Vector (either dense or sparse) is needed to represent the features.</p>
-<p>- In the case of graph analytics, you will want a DataFrame of vertices and a DataFrame of edges.</p>
-<p>---</p>
-
+* In the case of graph analytics, you will want a DataFrame of vertices and a DataFrame of edges
+* In the case of unsupervised learning, a column of type Vector (either dense or sparse) is needed to represent the features
+* In the case of recommendations, you want to get your data into a column of users, a column of items (say movies or books), and a column of ratings
+* In the case of most classification and regression algorithms, you want to get your data into a column of type Double to represent the label and a column of type Vector (either dense or sparse) to represent the features
 
 ## GraphTypes.png
 
