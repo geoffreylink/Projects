@@ -1,11 +1,4 @@
 p>Removal, Anonymization, Encryption, Tokenization, Differential Privacy</p>
-<p>https://stedolan.github.io/jq/</p>
-<p>ipecho.net</p>
-<p>explainshell.com</p>
-<p>nginx</p>
-<p>flask</p>
-<p>Rails(Ruby) App Server</p>
-<p>Drupal</p>
 <p>lsb_release -a</p>
 <p>htop</p>
 <p>tmux</p>
