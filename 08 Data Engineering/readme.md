@@ -6,18 +6,14 @@
 * Anonymization
 * Differential Privacy
 
-
-
-## Spark Use Cases
-
-* Hat tip to a
+## Spark
 
 * Preprocessing data (cleaning data and feature engineering)
-<p>- Supervised learning, including classification and regression, where the goal is to predict a label for each data point based on various features.</p>
-<p>- Recommendation engines to suggest products to users based on behaviour.</p>
-<p>- Unsupervised learning, including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data.</p>
-<p>- Graph analytics tasks such as searching for patterns in a social network.</p>
-<p>- Deep Learning</p>
+* Supervised learning, including classification and regression, where the goal is to predict a label for each data point based on various features
+* Recommendation engines to suggest products to users based on behaviour
+* Unsupervised learning, including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data
+* Graph analytics tasks such as searching for patterns in a social network
+* Deep Learning
 <p>- Frequent Pattern Mining</p>
 <p>- Probablistic Modeling</p>
 <p>---</p>
