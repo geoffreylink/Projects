@@ -1,4 +1,8 @@
-p>Removal, Anonymization, Encryption, Tokenization, Differential Privacy</p>
+## Common Privacy Techniques
+
+<p>Removal, Anonymization, Encryption, Tokenization, Differential Privacy</p>
+
+
 <p>Thoughtworks -> Sadalage, Fowler, Kleppman</p>
 <p>---</p>
 <p>p402 of Spark: The Definitive Guide:</p>
