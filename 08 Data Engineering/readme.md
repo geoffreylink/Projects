@@ -1,6 +1,12 @@
-## Privacy Methodologies
+## Privacy
 
-<p>Removal, Anonymization, Encryption, Tokenization, Differential Privacy</p>
+* Removal
+* Encryption
+* Tokenization
+* Anonymization
+* Differential Privacy
+
+
 
 ## Spark Use Cases
 
