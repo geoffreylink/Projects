@@ -1,14 +1,12 @@
-## Common Privacy Techniques
+## Privacy Methodologies
 
 <p>Removal, Anonymization, Encryption, Tokenization, Differential Privacy</p>
 
+## Spark Use Cases
 
-<p>Thoughtworks -> Sadalage, Fowler, Kleppman</p>
-<p>---</p>
-<p>p402 of Spark: The Definitive Guide:</p>
-<p>-</p>
-<p>The most common tasks include:</p>
-<p>- Preprocessing data (cleaning data and feature engineering)</p>
+* Hat tip to a
+
+* Preprocessing data (cleaning data and feature engineering)
 <p>- Supervised learning, including classification and regression, where the goal is to predict a label for each data point based on various features.</p>
 <p>- Recommendation engines to suggest products to users based on behaviour.</p>
 <p>- Unsupervised learning, including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data.</p>
