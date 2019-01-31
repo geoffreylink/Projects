@@ -19,7 +19,7 @@
 
 ## Deployment
 
-* PMML.  Convert distributed model to one that can run locally
+* [PMML](https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language).  Convert distributed model to one that can run locally
 * Online data.  Structured Streaming - can be complex for some models
 * Offline data.  Not data that you need to get an answer from quickly.  Spark is well suited to this sort of deployment.  Persist the model to disk (not low latency, very high!)
 * Database (usually a key-value store).  This works well for something like recommendation but poorly for something like classification or regression where you cannot just look up a value for a given user but must calculate one based on the input
