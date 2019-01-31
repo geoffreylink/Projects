@@ -61,6 +61,7 @@
 
 ## Cool Tools
 
+* [jq](https://stedolan.github.io/jq/)
 * [pywren](pywren.io/pages/gettingstarted.html)
 * [Scikit Learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [React Native](https://facebook.github.io/react-native/)
