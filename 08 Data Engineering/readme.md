@@ -1,7 +1,5 @@
 p>Removal, Anonymization, Encryption, Tokenization, Differential Privacy</p>
 <p>Thoughtworks -> Sadalage, Fowler, Kleppman</p>
-<p>https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905</p>
-<p>https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb</p>
 <p>---</p>
 <p>p402 of Spark: The Definitive Guide:</p>
 <p>-</p>
