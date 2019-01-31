@@ -85,6 +85,6 @@
 * [Francois Chollet](https://medium.com/@francois.chollet)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
 
-## Geek Humor
+## Cerebral Humor
 
 * [XKCD](https://xkcd.com/1838/)
