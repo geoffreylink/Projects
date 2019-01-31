@@ -75,14 +75,14 @@
 
 ## Nerd Heros
 
+* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Yann LeCun](http://yann.lecun.com)
-* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+* [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Francois Chollet](https://medium.com/@francois.chollet)
-* [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
 
 ## Geek Humor
