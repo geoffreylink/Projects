@@ -12,13 +12,13 @@
 * [Finviz](https://finviz.com/map.ashx?t=sec)
 
 ## Visualizations_01.png
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_01.png)
 
 ## Visualizations_02.png
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_02.png)
 
 ## Visualizations_03.png
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_03.png)
 
 ## Visualizations_04.png
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/Visualizations_04.png)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_04.png)
