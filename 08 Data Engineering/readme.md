@@ -9,8 +9,13 @@
 ## Spark
 
 * Deep Learning
+* Fraud Detection
+* Anomaly Detection
+* Pattern Recognition
 * Probablistic Modeling
+* Prediction (IoT & NLP)
 * Frequent Pattern Mining
+* Predictive Maintenance
 * Preprocessing data (cleaning data and feature engineering)
 * Recommendation engines to suggest products to users based on behaviour
 * Graph analytics tasks such as searching for patterns in a social network
