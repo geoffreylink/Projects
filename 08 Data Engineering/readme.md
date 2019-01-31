@@ -17,15 +17,15 @@
 * Unsupervised learning, including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data
 * Supervised learning, including classification and regression, where the goal is to predict a label for each data point based on various features
 
+## Deployment
 
-<p>---</p>
-<p>p424 of Spark: The Definitive Guide:</p>
-<p>-</p>
-<p>Deployment Patterns:</p>
-<p>- Offline data.  Not data that you need to get an answer from quickly.  Spark is well suited to this sort of deployment.  Persist the model to disk (not low latency, very high!)</p>
-<p>- Database (usually a key-value store).  This works well for something like recommendation but poorly for something like classification or regression where you cannot just look up a value for a given user but must calculate one based on the input.</p>
-<p>- PMML.  Convert distributed model to one that can run locally.</p>
-<p>- Online data.  Structured Streaming - can be complex for some models.</p>
+* Offline data.  Not data that you need to get an answer from quickly.  Spark is well suited to this sort of deployment.  Persist the model to disk (not low latency, very high!)
+* Database (usually a key-value store).  This works well for something like recommendation but poorly for something like classification or regression where you cannot just look up a value for a given user but must calculate one based on the input
+* PMML.  Convert distributed model to one that can run locally
+* Online data.  Structured Streaming - can be complex for some models
+
+
+
 <p>---</p>
 <p>p427 of Spark: The Definitive Guide:</p>
 <p>-</p>
