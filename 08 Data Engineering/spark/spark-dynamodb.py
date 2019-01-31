@@ -1,4 +1,4 @@
-### Create DynamoDB Tables and Populate Data ###
+### Create DynamoDB Tables and Populate Data via Hive metadata ###
 
 https://aws.amazon.com/blogs/aws/aws-howto-using-amazon-elastic-mapreduce-with-dynamodb/
 
