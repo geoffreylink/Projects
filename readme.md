@@ -5,6 +5,8 @@
 ## 5mR
 
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
+* [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
+* [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
 
 ## Reference
 
@@ -82,7 +84,6 @@
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
-
 
 ## Geek Humor
 
