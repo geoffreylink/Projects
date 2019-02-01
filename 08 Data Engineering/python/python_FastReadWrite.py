@@ -12,13 +12,18 @@ import boto3
 #cmd = 'gunzip /home/ec2-user/*.gz'
 #os.system(cmd)
 
-file_count    = 1
+def line_manipulation(line_to_manipulate):
+  return line_to_manipulate
+
 line_count    = 0
+file_count    = 0
 file_number   = "%05d" % file_count
 file_to_write = open('/home/ec2-user/text_' + file_number + '.txt', 'a')
 
 for root, dirs, files in os.walk('/home/ec2-user/'):
+
   for filename in files:
+
     if filename[-3:] == 'tsv':
 
       file_to_read = open('/home/ec2-user/' + filename, 'r')
@@ -28,15 +33,16 @@ for root, dirs, files in os.walk('/home/ec2-user/'):
 
         while line_count < 100000:
 
-          file_to_write.write(line_to_read)
+          file_to_write.write(line_manipulation(line_to_read))
           line_count  += 1
           line_to_read = file_to_read.readline()
 
-        line_count    = 0
-        file_count   += 1
-        file_number   = "%05d" % file_count
-        file_to_write.close()
         if line_to_read:
+
+          line_count    = 0
+          file_count   += 1
+          file_number   = "%05d" % file_count
+          file_to_write.close()
           file_to_write = open('/home/ec2-user/text_' + file_number + '.txt', 'a')
 
 file_to_read.close()
