@@ -47,14 +47,6 @@ for root, dirs, files in os.walk('/home/ec2-user/'):
 
         if line_to_read:
 
-        while line_count < 100000:
-
-          file_to_write.write(line_manipulation(line_to_read))
-          line_count  += 1
-          line_to_read = file_to_read.readline()
-
-        if line_to_read:
-
           line_count    = 0
           file_count   += 1
           file_number   = "%05d" % file_count
