@@ -1,4 +1,4 @@
-# t2.nano, 161Gb volume
+# t2.nano, 165Gb volume
 
 import os
 import time
