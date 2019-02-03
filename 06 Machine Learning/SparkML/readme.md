@@ -5,3 +5,4 @@
 * BASIC = Basic Spark Functionality
 * FE = Feature Extractors
 * FT = Feature Transformers
+* PIPE = Pipeline Construction
