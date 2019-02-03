@@ -2,6 +2,7 @@ from pyspark.ml.feature import Word2Vec
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 documentDF = spark.createDataFrame([
                                     ("Hi I heard about Spark".split(" "),),

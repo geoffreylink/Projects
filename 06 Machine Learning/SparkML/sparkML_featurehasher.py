@@ -2,6 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.ml.feature import FeatureHasher
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 dataset = spark.createDataFrame([
                                  (2.2, True, "1", "foo"),

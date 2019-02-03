@@ -4,6 +4,7 @@ from pyspark.sql.types import IntegerType
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 countTokens       = udf(lambda words: len(words), IntegerType())
 

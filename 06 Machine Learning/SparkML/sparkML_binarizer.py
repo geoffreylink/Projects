@@ -2,6 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.ml.feature import Binarizer
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 continuousDataFrame = spark.createDataFrame([
                                              (0, 0.1),

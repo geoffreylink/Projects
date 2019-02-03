@@ -2,6 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.ml.feature import CountVectorizer
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 df = spark.createDataFrame([
                             (0, "a b c".split(" ")),

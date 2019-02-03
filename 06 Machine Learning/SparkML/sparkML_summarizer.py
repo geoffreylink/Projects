@@ -4,6 +4,7 @@ from pyspark.sql import Row
 from pyspark.ml.linalg import Vectors
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 sc = spark.sparkContext
 

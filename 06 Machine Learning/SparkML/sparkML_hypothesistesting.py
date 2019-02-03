@@ -3,6 +3,7 @@ from pyspark.ml.linalg import Vectors
 from pyspark.ml.stat import ChiSquareTest
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 data = [
         (0.0, Vectors.dense(0.5, 10.0)),

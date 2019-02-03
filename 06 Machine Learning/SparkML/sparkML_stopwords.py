@@ -2,6 +2,7 @@ from pyspark.ml.feature import StopWordsRemover
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 sentenceData = spark.createDataFrame([
                                       (0, ["I", "saw", "the", "red", "balloon"]),

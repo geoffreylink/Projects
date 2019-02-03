@@ -3,6 +3,7 @@ from pyspark.ml.linalg import Vectors
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 df = spark.createDataFrame([
                             (Vectors.dense([2.0, 1.0]),),

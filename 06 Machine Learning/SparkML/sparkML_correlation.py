@@ -3,6 +3,7 @@ from pyspark.ml.stat import Correlation
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 data = [
         (Vectors.dense([21.0 , 110 , 3.90]),),

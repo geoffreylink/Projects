@@ -3,6 +3,7 @@ from pyspark.ml.classification import LogisticRegression
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 training = spark.createDataFrame([
                                   (1.0, Vectors.dense([0.0, 1.1, 0.1])),

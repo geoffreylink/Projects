@@ -4,6 +4,7 @@ from pyspark.ml.feature import HashingTF, Tokenizer
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 training = spark.createDataFrame([
                                   (0, "a b c d e spark", 1.0),

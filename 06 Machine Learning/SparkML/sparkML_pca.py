@@ -3,6 +3,7 @@ from pyspark.ml.linalg import Vectors
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 data   = [
           (Vectors.sparse(5, [(1, 1.0), (3, 7.0)]),),

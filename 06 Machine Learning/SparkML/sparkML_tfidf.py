@@ -2,6 +2,7 @@ from pyspark.ml.feature import HashingTF, IDF, Tokenizer
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.getOrCreate()
+spark.sparkContext.setLogLevel("ERROR")
 
 sentenceData = spark.createDataFrame([
                                       (0.0, "a b b a a a b"),
