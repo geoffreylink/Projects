@@ -1,4 +1,4 @@
-# t2.nano, 165Gb volume, ~380Mb/minute
+# t2.nano, 165Gb gp2 volume, ~380Mb/minute
 
 import os
 import time
