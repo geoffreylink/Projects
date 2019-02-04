@@ -7,6 +7,7 @@
 * [Spark MLlib 2.4.0](https://spark.apache.org/docs/latest/ml-guide.html)
 * BASIC = Basic Functionality
 * CL = Classification
+* CU = Clustering
 * FE = Feature Extractors
 * FS = Feature Selector
 * FT = Feature Transformers
