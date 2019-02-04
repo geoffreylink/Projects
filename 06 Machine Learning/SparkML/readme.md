@@ -11,3 +11,4 @@
 * FS = Feature Selector
 * FT = Feature Transformers
 * PIPE = Pipeline Construction
+* RG = Regression
