@@ -10,6 +10,5 @@
 * FE = Feature Extractors
 * FS = Feature Selector
 * FT = Feature Transformers
-* LM = Linear Methods
 * PIPE = Pipeline Construction
 * RG = Regression
