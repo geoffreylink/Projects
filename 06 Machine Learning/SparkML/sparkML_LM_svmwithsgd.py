@@ -18,5 +18,5 @@ labelsAndPreds = parsedData.map(lambda p: (p.label, model.predict(p.features)))
 trainErr = labelsAndPreds.filter(lambda lp: lp[0] != lp[1]).count() / float(parsedData.count())
 print("Training Error = " + str(trainErr))
 
-model.save(sc, "/home/hadoop/pythonSVMWithSGDModel-01")
-sameModel = SVMModel.load(sc, "/home/hadoop/pythonSVMWithSGDModel-01")
+model.save(sc, "file:///home/hadoop/pythonSVMWithSGDModel-01")
+sameModel = SVMModel.load(sc, "file:///home/hadoop/pythonSVMWithSGDModel-01")
