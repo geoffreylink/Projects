@@ -15,3 +15,4 @@
 * FT = Feature Transformers
 * PIPE = Pipeline Construction
 * RG = Regression
+* TU = Tuning
