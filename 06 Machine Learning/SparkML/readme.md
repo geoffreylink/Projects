@@ -6,6 +6,7 @@
   
 * [Spark MLlib 2.4.0](https://spark.apache.org/docs/latest/ml-guide.html)
 * BASIC = Basic Functionality
+* CF = Collaborative Filtering
 * CL = Classification
 * CU = Clustering
 * FE = Feature Extractors
