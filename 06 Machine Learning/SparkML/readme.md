@@ -10,6 +10,7 @@
 * CL = Classification
 * CU = Clustering
 * FE = Feature Extractors
+* FP = Frequent Pattern
 * FS = Feature Selector
 * FT = Feature Transformers
 * PIPE = Pipeline Construction
