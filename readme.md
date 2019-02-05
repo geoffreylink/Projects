@@ -55,11 +55,11 @@
 
 ## Conferences
 
-* [SIGKDD](https://www.kdd.org)
 * [CVPR](cvpr2017.thecvf.com)
 * [NIPS](https://nips.cc)
 * [ICML](https://icml.cc)
 * [MLSS](http://mlss.cc)
+* [SIGKDD](https://www.kdd.org)
 * [Eyeo Festival](http://eyeofestival.com)
 
 ## Cool Tools
