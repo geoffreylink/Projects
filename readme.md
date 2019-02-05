@@ -7,6 +7,7 @@
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
+* [Choosing the right estimator] (https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 ## Reference
 
@@ -54,7 +55,7 @@
 
 ## Conferences
 
-* [KDD](https://www.kdd.org)
+* [SIGKDD](https://www.kdd.org)
 * [CVPR](cvpr2017.thecvf.com)
 * [NIPS](https://nips.cc)
 * [ICML](https://icml.cc)
