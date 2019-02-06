@@ -8,5 +8,6 @@ df    = pd.read_csv('amazon_reviews_us_Wireless_v1_00.tsv', sep='\t', error_bad_
 
 table = pa.Table.from_pandas(df)
 
-pq.write_table(table, 'amazon_reviews_us_Wireless_v1_00.parquet', compression='gzip')
+#pq.write_table(table, 'amazon_reviews_us_Wireless_v1_00.parquet', compression='gzip')
 
+pq.write_to_dataset(table, '/home/ec2-user/', partition_cols=['product_category','review_date'], compression='gzip')
