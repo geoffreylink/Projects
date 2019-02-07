@@ -1,4 +1,4 @@
-# m5.4xlarge, 125Gb gp2 volume
+# m5.4xlarge, 120Gb gp2 volume
 
 import os
 import boto3
