@@ -23,6 +23,8 @@ for root, dirs, files in os.walk('/home/ec2-user/'):
     if filename[-3:] == 'tsv':
       print filename
 #      s3.Object('pywren1', filename).upload_file(Filename=filename)
+#      cmd = 'rm ' + filename
+#      os.system(cmd)
 
 def line_manipulation(line_to_manipulate):
 
