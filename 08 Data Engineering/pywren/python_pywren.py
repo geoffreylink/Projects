@@ -3,12 +3,16 @@
 import os
 import sys
 import boto3
+import pywren
 
 pywren_bucket = 'pywren1'
-s3            = boto3.resource('s3')
 client        = boto3.client('s3')
+s3            = boto3.resource('s3')
 
 def split_tsv_file(tsv_filename):
+
+  client        = boto3.client('s3')
+  s3            = boto3.resource('s3')
 
   def line_manipulation(line_to_manipulate):
 
@@ -19,7 +23,7 @@ def split_tsv_file(tsv_filename):
   build_file = ''
   file_count = 0
   line_count = 0
-  obj        = s3.Object(pywren_bucket, tsv_filename) #obj.key)
+  obj        = s3.Object(pywren_bucket, tsv_filename)
   body       = obj.get()['Body']
   blocksize  = 1024*1024
   buf        = body.read(blocksize)
@@ -42,7 +46,6 @@ def split_tsv_file(tsv_filename):
           build_file    = build_file + line_manipulation(line)
           file_number   = "%05d" % file_count
           client.put_object(Body=build_file, Bucket=pywren_bucket, Key=obj.key + '_' + file_number)
-          print obj.key + '_' + file_number
           build_file    = ''
           line_count    = 0
           file_count   += 1
@@ -55,13 +58,11 @@ def split_tsv_file(tsv_filename):
   if line_count > 0:
     file_number   = "%05d" % file_count
     client.put_object(Body=build_file, Bucket=pywren_bucket, Key=obj.key + '_' + file_number)
-    print obj.key + '_' + file_number
     build_file    = ''
     line_count    = 0
     file_count   += 1
 
-#for obj in s3.Bucket(pywren_bucket).objects.all():
-
+  return tsv_filename
 
 if __name__ == '__main__':
 
@@ -79,5 +80,12 @@ if __name__ == '__main__':
     for filename in files:
       if filename[-3:] == 'tsv':
         print filename
+#        s3.Object('pywren1', filename).upload_file(Filename=filename)
+#        cmd = 'rm ' + filename
+#        os.system(cmd)
 
-  split_tsv_file('amazon_reviews_us_Gift_Card_v1_00.tsv')
+#for obj in s3.Bucket(pywren_bucket).objects.all():
+
+  wrenexec = pywren.default_executor()
+  futures  = wrenexec.map(split_tsv_file, ['amazon_reviews_us_Gift_Card_v1_00.tsv'])
+  print pywren.get_all_results(futures)
