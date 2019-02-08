@@ -34,14 +34,13 @@ line_count = 0
 
 for obj in bucket.objects.all():
 
-  print obj.key
-
   obj       = s3.Object('pywren1', obj.key)
   body      = obj.get()['Body']
   blocksize = 1024*1024
   buf       = body.read(blocksize)
 
   while len(buf) > 0:
+
 
     lines = buf.split('\n')
 
@@ -58,21 +57,23 @@ for obj in bucket.objects.all():
 
           build_file    = build_file + line_manipulation(line)
           file_number   = "%05d" % file_count
-          file_to_write = open('/home/ec2-user/text_' + file_number + '.txt', 'a')
+          file_to_write = open('/home/ec2-user/' + obj.key + '_' + file_number, 'a')
           file_to_write.write(build_file)
           file_to_write.close()
           build_file    = ''
           line_count    = 0
           file_count   += 1
 
-    buf = line + body.read(blocksize)
+    if line.count('\t') < 14:
+      buf = line + body.read(blocksize)
+    else:
+      buf = body.read(blocksize)
 
   if line_count > 0:
     file_number   = "%05d" % file_count
-    file_to_write = open('/home/ec2-user/text_' + file_number + '.txt', 'a')
+    file_to_write = open('/home/ec2-user/' + obj.key + '_' + file_number, 'a')
     file_to_write.write(build_file)
     file_to_write.close()
     build_file    = ''
     line_count    = 0
     file_count   += 1
-
