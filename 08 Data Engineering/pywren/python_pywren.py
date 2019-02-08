@@ -1,24 +1,27 @@
-# t2.micro, 100Gb gp2 volume
+# t2.micro, 85Gb gp2 volume
 
 import os
 import sys
 import boto3
 
-s3     = boto3.resource('s3')
-bucket = s3.Bucket('amazon-reviews-pds')
+pywren_bucket = 'pywren1'
+s3            = boto3.resource('s3')
+client        = boto3.client('s3')
 
-for obj in bucket.objects.all():
+for obj in s3.Bucket('amazon-reviews-pds').objects.all():
   if obj.key[:3] == 'tsv' and len(obj.key) > 4:
     cmd = 'aws s3 cp s3://amazon-reviews-pds/' + obj.key + ' /home/ec2-user/'
+    print cmd
 #    os.system(cmd)
 
 cmd = 'gunzip /home/ec2-user/*.gz'
+print cmd
 #os.system(cmd)
 
 for root, dirs, files in os.walk('/home/ec2-user/'):
   for filename in files:
     if filename[-3:] == 'tsv':
-      continue
+      print filename
 #      s3.Object('pywren1', filename).upload_file(Filename=filename)
 
 def line_manipulation(line_to_manipulate):
@@ -27,20 +30,18 @@ def line_manipulation(line_to_manipulate):
 
   return line_to_manipulate
 
-bucket     = s3.Bucket('pywren1')
 build_file = ''
 file_count = 0
 line_count = 0
 
-for obj in bucket.objects.all():
+for obj in s3.Bucket(pywren_bucket).objects.all():
 
-  obj       = s3.Object('pywren1', obj.key)
+  obj       = s3.Object(pywren_bucket, obj.key)
   body      = obj.get()['Body']
   blocksize = 1024*1024
   buf       = body.read(blocksize)
 
   while len(buf) > 0:
-
 
     lines = buf.split('\n')
 
@@ -57,9 +58,8 @@ for obj in bucket.objects.all():
 
           build_file    = build_file + line_manipulation(line)
           file_number   = "%05d" % file_count
-          file_to_write = open('/home/ec2-user/' + obj.key + '_' + file_number, 'a')
-          file_to_write.write(build_file)
-          file_to_write.close()
+          client.put_object(Body=build_file, Bucket=pywren_bucket, Key=obj.key + '_' + file_number)
+          print obj.key + '_' + file_number
           build_file    = ''
           line_count    = 0
           file_count   += 1
@@ -71,9 +71,8 @@ for obj in bucket.objects.all():
 
   if line_count > 0:
     file_number   = "%05d" % file_count
-    file_to_write = open('/home/ec2-user/' + obj.key + '_' + file_number, 'a')
-    file_to_write.write(build_file)
-    file_to_write.close()
+    client.put_object(Body=build_file, Bucket=pywren_bucket, Key=obj.key + '_' + file_number)
+    print obj.key + '_' + file_number
     build_file    = ''
     line_count    = 0
     file_count   += 1
