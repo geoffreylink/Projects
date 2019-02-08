@@ -84,8 +84,11 @@ if __name__ == '__main__':
 #        cmd = 'rm ' + filename
 #        os.system(cmd)
 
-#for obj in s3.Bucket(pywren_bucket).objects.all():
+  files_to_split = []
+  for obj in s3.Bucket(pywren_bucket).objects.all():
+    files_to_split.append(obj.key)
+  print files_to_split
 
   wrenexec = pywren.default_executor()
-  futures  = wrenexec.map(split_tsv_file, ['amazon_reviews_us_Gift_Card_v1_00.tsv'])
+  futures  = wrenexec.map(split_tsv_file, files_to_split)
   print pywren.get_all_results(futures)
