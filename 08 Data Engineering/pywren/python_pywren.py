@@ -1,7 +1,8 @@
-# t2.micro, 85Gb gp2 volume
+# t2.micro, 40Gb gp2 volume
 
 import os
 import sys
+import time
 import boto3
 import pywren
 
@@ -11,8 +12,8 @@ s3            = boto3.resource('s3')
 
 def split_tsv_file(tsv_filename):
 
-  client        = boto3.client('s3')
-  s3            = boto3.resource('s3')
+  client = boto3.client('s3')
+  s3     = boto3.resource('s3')
 
   def line_manipulation(line_to_manipulate):
 
@@ -67,28 +68,31 @@ def split_tsv_file(tsv_filename):
 if __name__ == '__main__':
 
   for obj in s3.Bucket('amazon-reviews-pds').objects.all():
-    if obj.key[:3] == 'tsv' and len(obj.key) > 4:
+    if obj.key[:3] == 'tsv' and len(obj.key) > 4 and obj.size / 1024 / 1024 / 1024 < 1:
       cmd = 'aws s3 cp s3://amazon-reviews-pds/' + obj.key + ' /home/ec2-user/'
       print cmd
-#      os.system(cmd)
+      os.system(cmd)
 
   cmd = 'gunzip /home/ec2-user/*.gz'
   print cmd
-#  os.system(cmd)
+  os.system(cmd)
 
   for root, dirs, files in os.walk('/home/ec2-user/'):
     for filename in files:
       if filename[-3:] == 'tsv':
         print filename
-#        s3.Object('pywren1', filename).upload_file(Filename=filename)
-#        cmd = 'rm ' + filename
-#        os.system(cmd)
+        s3.Object(pywren_bucket, filename).upload_file(Filename=filename)
 
   files_to_split = []
   for obj in s3.Bucket(pywren_bucket).objects.all():
     files_to_split.append(obj.key)
   print files_to_split
 
+  start = time.time()
+
   wrenexec = pywren.default_executor()
   futures  = wrenexec.map(split_tsv_file, files_to_split)
   print pywren.get_all_results(futures)
+
+  end = time.time()
+  print(end - start)/60
