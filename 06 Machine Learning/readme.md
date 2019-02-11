@@ -1,1 +1,1 @@
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/GraphTypes.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/Classification-Machine-Learning-Algorithm.png)
