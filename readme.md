@@ -84,6 +84,7 @@
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Francois Chollet](https://medium.com/@francois.chollet)
+* [Sebastian Raschka](https://sebastianraschka.com)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
 
 ## Cerebral Humor
