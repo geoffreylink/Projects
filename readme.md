@@ -20,6 +20,7 @@
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 * [Neural Networks Demysitified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+* [Google's Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
