@@ -81,6 +81,7 @@
 * [Yann LeCun](http://yann.lecun.com)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+* [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Francois Chollet](https://medium.com/@francois.chollet)
