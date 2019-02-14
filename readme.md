@@ -4,10 +4,10 @@
 
 ## 5mR
 
-* [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
-* [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
-* [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
+* [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
+* [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
 
 ## Reference
 
@@ -46,11 +46,11 @@
 * [Indeed](https://engineering.indeedblog.com/blog/)
 * [Kaggle](http://blog.kaggle.com)
 * [Colah's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
 * [DataBricks](https://databricks.com/blog)
 * [Bill Chambers](http://billchambers.me)
+* [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
 
