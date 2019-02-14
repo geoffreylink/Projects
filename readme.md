@@ -49,8 +49,8 @@
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Blackrock](http://rockthecode.io)
 * [DataBricks](https://databricks.com/blog)
-* [Bill Chambers](http://billchambers.me)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
+* [Bill Chambers](http://billchambers.me)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
 
