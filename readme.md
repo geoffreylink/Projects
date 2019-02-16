@@ -34,8 +34,8 @@
 * [A Course in Machine Learning](http://ciml.info)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
-* [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+* [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
 
 ## Blogs
