@@ -38,8 +38,8 @@
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
-* [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
 * [Scikit-Learn Machine Learning Simplified](https://github.com/PacktPublishing/scikit-learn-Machine-Learning-Simplified)
+* [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
 
 ## Blogs
 
