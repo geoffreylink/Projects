@@ -33,6 +33,7 @@
 * [Deep Learning](http://www.deeplearningbook.org)
 * [A Course in Machine Learning](http://ciml.info)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Python Data Science Handbook colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=vXNXC8thyPej)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
