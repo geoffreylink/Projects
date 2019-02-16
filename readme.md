@@ -82,6 +82,7 @@
 * [Yann LeCun](http://yann.lecun.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
+* [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
 * [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
