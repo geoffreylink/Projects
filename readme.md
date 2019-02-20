@@ -63,8 +63,8 @@
 
 * [NIPS](https://nips.cc)
 * [ICML](https://icml.cc)
-* [MLSS](http://mlss.cc)
 * [CVPR](cvpr2017.thecvf.com)
+* [MLSS](http://mlss.cc)
 * [SIGKDD](https://www.kdd.org)
 * [Eyeo Festival](http://eyeofestival.com)
 
