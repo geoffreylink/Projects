@@ -32,8 +32,8 @@
 
 * [Deep Learning](http://www.deeplearningbook.org)
 * [A Course in Machine Learning](http://ciml.info)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python Data Science Handbook lab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=vXNXC8thyPej)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
@@ -50,8 +50,8 @@
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
 * [Kaggle](http://blog.kaggle.com)
-* [Colah's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
+* [Colah's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Blackrock](http://rockthecode.io)
 * [DataBricks](https://databricks.com/blog)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
@@ -61,10 +61,10 @@
 
 ## Conferences
 
-* [CVPR](cvpr2017.thecvf.com)
 * [NIPS](https://nips.cc)
 * [ICML](https://icml.cc)
 * [MLSS](http://mlss.cc)
+* [CVPR](cvpr2017.thecvf.com)
 * [SIGKDD](https://www.kdd.org)
 * [Eyeo Festival](http://eyeofestival.com)
 
@@ -86,11 +86,11 @@
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Yann LeCun](http://yann.lecun.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
-* [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
+* [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
-* [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
+* [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Francois Chollet](https://medium.com/@francois.chollet)
 * [Alexander Fabisch](http://alexanderfabisch.github.io/t-sne-in-scikit-learn.html)
