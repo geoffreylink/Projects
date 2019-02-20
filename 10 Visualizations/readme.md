@@ -11,6 +11,9 @@
 
 * [Finviz](https://finviz.com/map.ashx?t=sec)
 
+## Choosing the Correct Data Visualization
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/ChoosingTheCorrectDataVisualization.jpeg)
+
 ## Visualizations_01.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_01.png)
 
