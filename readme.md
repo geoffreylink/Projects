@@ -12,8 +12,8 @@
 ## Reference
 
 * [Arxiv](http://arxiv-sanity.com)
-* [Go Deep](http://www.godeep.ml)
 * [DataTau](http://www.datatau.com)
+* [Go Deep](http://www.godeep.ml)
 * [Serverless](https://serverless.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [Principles of Chaos](http://principlesofchaos.org)
