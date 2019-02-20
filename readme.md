@@ -40,6 +40,7 @@
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Scikit-Learn Machine Learning Simplified](https://github.com/PacktPublishing/scikit-learn-Machine-Learning-Simplified)
 * [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
+* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## Blogs
 
