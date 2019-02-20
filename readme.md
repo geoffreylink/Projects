@@ -12,6 +12,7 @@
 ## Reference
 
 * [Arxiv](http://arxiv-sanity.com)
+* [Go Deep](http://www.godeep.ml)
 * [DataTau](http://www.datatau.com)
 * [Serverless](https://serverless.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
@@ -37,6 +38,7 @@
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python Data Science Handbook lab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=vXNXC8thyPej)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
