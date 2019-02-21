@@ -54,8 +54,8 @@
 
 * [AWS](https://aws.amazon.com/blogs/aws/)
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
-* [Slack](https://slack.engineering)
 * [Intuit](https://quickbooks-engineering.intuit.com)
+* [Slack](https://slack.engineering)
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
 * [Kaggle](http://blog.kaggle.com)
