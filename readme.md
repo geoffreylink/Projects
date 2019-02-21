@@ -12,10 +12,12 @@
 ## Reference
 
 * [Arxiv](http://arxiv-sanity.com)
+* [FastAI](https://course.fast.ai)
 * [DataTau](http://www.datatau.com)
 * [Go Deep](http://www.godeep.ml)
 * [Serverless](https://serverless.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
+* [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
@@ -96,6 +98,8 @@
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
 * [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+* [Sebastian Ruder](http://ruder.io)
+* [David S. Batista](http://www.davidsbatista.net)
 * [Francois Chollet](https://medium.com/@francois.chollet)
 * [Alexander Fabisch](http://alexanderfabisch.github.io/t-sne-in-scikit-learn.html)
 * [Sebastian Raschka](https://sebastianraschka.com)
