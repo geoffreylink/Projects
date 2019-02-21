@@ -94,11 +94,11 @@
 
 ## Nerd Heros
 
+* [Chis Albon](https://chrisalbon.com)
+* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Yann LeCun](http://yann.lecun.com)
-* [Chis Albon](https://chrisalbon.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
-* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
