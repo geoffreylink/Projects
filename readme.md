@@ -18,6 +18,7 @@
 * [Serverless](https://serverless.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
+* [EliteDataScience](https://elitedatascience.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
@@ -62,6 +63,7 @@
 * [Kaggle](http://blog.kaggle.com)
 * [Twitter](https://blog.twitter.com/engineering/en_us.html)
 * [Colah's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Berkeley](https://ml.berkeley.edu/blog)
 * [Blackrock](http://rockthecode.io)
 * [DataBricks](https://databricks.com/blog)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
@@ -92,10 +94,11 @@
 
 ## Nerd Heros
 
-* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Yann LeCun](http://yann.lecun.com)
+* [Chis Albon](https://chrisalbon.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
+* [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
