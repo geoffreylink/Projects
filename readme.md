@@ -23,6 +23,7 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+* [Machine Learning Mastery](https://machinelearningmastery.com)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Neural Networks Demysitified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
