@@ -100,6 +100,7 @@
 ## Nerd Heros
 
 * [Chis Albon](https://chrisalbon.com)
+* [Alice Zheng](https://alicezheng.org)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Yann LeCun](http://yann.lecun.com)
