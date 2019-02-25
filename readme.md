@@ -119,8 +119,8 @@
 * [Alexander Fabisch](http://alexanderfabisch.github.io/t-sne-in-scikit-learn.html)
 * [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
 * [Sebastian Raschka](https://sebastianraschka.com)
-* [Christopher Manning](https://nlp.stanford.edu/manning/)
 * [Michael Irwin Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
+* [Christopher Manning](https://nlp.stanford.edu/manning/)
 
 ## Cerebral Humor
 
