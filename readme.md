@@ -116,4 +116,5 @@
 
 ## Cerebral Humor
 
-* [XKCD](https://xkcd.com/1838/)
+* [Extrapolating](https://xkcd.com/605/)
+* [Machine Learning](https://xkcd.com/1838/)
