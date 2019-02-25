@@ -100,9 +100,9 @@
 ## Nerd Heros
 
 * [Chis Albon](https://chrisalbon.com)
-* [Alice Zheng](https://alicezheng.org)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
+* [Alice Zheng](https://alicezheng.org)
 * [Yann LeCun](http://yann.lecun.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
 * [Peter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
