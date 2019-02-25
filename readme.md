@@ -107,8 +107,12 @@
 * [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+* [Peter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
+* [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
+* [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/)
+* [Ilya Sutskever](https://openai.com)
 * [Ian Goodfellow](https://en.wikipedia.org/wiki/Ian_Goodfellow)
-* [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
+* [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/)
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
 * [Sebastian Ruder](http://ruder.io)
 * [David S. Batista](http://www.davidsbatista.net)
@@ -116,6 +120,7 @@
 * [Alexander Fabisch](http://alexanderfabisch.github.io/t-sne-in-scikit-learn.html)
 * [Sebastian Raschka](https://sebastianraschka.com)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
+* [Michael Irwin Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 
 ## Cerebral Humor
 
