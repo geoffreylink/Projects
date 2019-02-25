@@ -4,6 +4,7 @@
 
 ## 5mR
 
+* [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
