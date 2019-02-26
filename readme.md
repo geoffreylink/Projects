@@ -24,6 +24,7 @@
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [EliteDataScience](https://elitedatascience.com)
+* [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
