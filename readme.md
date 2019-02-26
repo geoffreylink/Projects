@@ -12,6 +12,7 @@
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 * [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
+* [The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
 
 ## Reference
