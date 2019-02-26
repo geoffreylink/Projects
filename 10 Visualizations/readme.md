@@ -11,6 +11,7 @@
 
 * [Finviz](https://finviz.com/map.ashx?t=sec)
 * [The Python Graph Gallery](https://python-graph-gallery.com)
+* [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
 
 ## Choosing the Correct Data Visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/ChoosingTheCorrectDataVisualization.jpeg)
