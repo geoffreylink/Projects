@@ -1,7 +1,7 @@
 # Welcome!
 
-[Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
-[Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb)
+* [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+* [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb)
 
 ## 5mR
 
