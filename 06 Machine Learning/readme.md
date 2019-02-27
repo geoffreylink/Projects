@@ -8,4 +8,4 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/ClassificationAndRegressionLossFunctions.png)
 
 ## Common Evaluation Metrics
-~[](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/CommonEvaluationMetrics.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/CommonEvaluationMetrics.png)
