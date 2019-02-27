@@ -20,8 +20,10 @@
 
 * [Arxiv](http://arxiv-sanity.com)
 * [FastAI](https://course.fast.ai)
+* [DeepAI](https://deepai.org)
 * [DataTau](http://www.datatau.com)
 * [Go Deep](http://www.godeep.ml)
+* [DataSchool](https://www.dataschool.io)
 * [Serverless](https://serverless.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
