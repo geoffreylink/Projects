@@ -109,8 +109,8 @@
 
 * [Chis Albon](https://chrisalbon.com)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
-* [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Evan Miller](http://www.evanmiller.org)
+* [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)
 * [Alice Zheng](https://alicezheng.org)
 * [Yann LeCun](http://yann.lecun.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
