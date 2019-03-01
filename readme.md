@@ -23,6 +23,7 @@
 * [DeepAI](https://deepai.org)
 * [DataTau](http://www.datatau.com)
 * [Go Deep](http://www.godeep.ml)
+* [TheMLBook](http://themlbook.com/wiki/doku.php)
 * [Serverless](https://serverless.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [DataSchool](https://www.dataschool.io)
