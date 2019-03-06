@@ -16,3 +16,15 @@
 * PIPE = Pipeline Construction
 * RG = Regression
 * TU = Tuning
+
+# Common Use cases
+
+* Preprocessing data (cleaning data and feature engineering)
+* Supervised learning, including classification and regression, where the goal is to predict a label for each data point based on various features.
+* Recommendation engines to suggest products to users based on behaviour.
+* Unsupervised learning, including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data.
+* Graph analytics tasks such as searching for patterns in a social network.
+* Deep Learning
+* Frequent Pattern Mining
+* Probablistic Modeling
+
