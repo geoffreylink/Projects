@@ -87,6 +87,7 @@
 * [NVIDIA](https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/)
 * [Colah's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Berkeley](https://ml.berkeley.edu/blog)
+* [DataRobot](https://blog.datarobot.com)
 * [Blackrock](http://rockthecode.io)
 * [DataBricks](https://databricks.com/blog)
 * [Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
