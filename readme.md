@@ -18,6 +18,14 @@
 
 ## Reference
 
+* [TopCoder](https://www.topcoder.com)
+* [StatMethods](https://www.statmethods.net)
+* [Tensorflow](https://www.tensorflow.org/tutorials)
+* [Pythex](https://pythex.org)
+* [Academic Torrents](http://academictorrents.com)
+* [Anaconda](https://www.anaconda.com/anaconda-webinars/)
+* [SFL Scientific](https://sflscientific.com)
+* [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [FastAI](https://course.fast.ai)
 * [DeepAI](https://deepai.org)
@@ -68,10 +76,12 @@
 
 ## Blogs
 
+* [NVIDIA](https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/)
 * [AWS](https://aws.amazon.com/blogs/aws/)
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
 * [Intuit](https://quickbooks-engineering.intuit.com)
 * [Slack](https://slack.engineering)
+* [NVIDIA](https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/)
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
 * [Kaggle](http://blog.kaggle.com)
