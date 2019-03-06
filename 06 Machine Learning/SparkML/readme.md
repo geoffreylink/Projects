@@ -23,8 +23,8 @@
 * Probablistic Modeling
 * Frequent Pattern Mining
 * Preprocessing data: cleaning data and feature engineering
+* Graph analytics tasks such as searching for patterns in a social network
 * Recommendation engines to suggest products to users based upon behaviour
-* Graph analytics tasks such as searching for patterns in a social network.
-* Unsupervised learning including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data
 * Supervised learning including classification and regression, where the goal is to predict a label for each data point based on various features
+* Unsupervised learning including clustering, anomaly detection, and topic modelling, where the goal is to discover structure in the data
 
