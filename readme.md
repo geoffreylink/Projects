@@ -20,8 +20,8 @@
 
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
-* [Pythex](https://pythex.org)
 * [FastAI](https://course.fast.ai)
+* [Pythex](https://pythex.org)
 * [DeepAI](https://deepai.org)
 * [DataTau](http://www.datatau.com)
 * [Go Deep](http://www.godeep.ml)
