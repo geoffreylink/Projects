@@ -64,8 +64,9 @@
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 
-## Books
+## Online Books
 
+* [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [A Course in Machine Learning](http://ciml.info)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
