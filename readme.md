@@ -128,7 +128,6 @@
 
 ## Nerd Heros
 
-* [Edwin Chen](http://blog.echen.me)
 * [Chis Albon](https://chrisalbon.com)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Evan Miller](http://www.evanmiller.org)
@@ -136,6 +135,7 @@
 * [Alice Zheng](https://alicezheng.org)
 * [Yann LeCun](http://yann.lecun.com)
 * [Leon Bottou](http://www.cs.princeton.edu/courses/archive/spring10/cos424/w/syllabus)
+* [Edwin Chen](http://blog.echen.me)
 * [Peter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
 * [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
