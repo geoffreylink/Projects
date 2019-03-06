@@ -143,6 +143,12 @@
 * [Michael Irwin Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
 
+## Online Education
+
+* [Stanford](https://cs.stanford.edu)
+* [Georgia Tech](https://www.cc.gatech.edu)
+* [University of Pennsylvania](https://cis.upenn.edu/index.php)
+
 ## Cerebral Humor
 
 * [Extrapolating](https://xkcd.com/605/)
