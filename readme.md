@@ -76,7 +76,6 @@
 
 ## Blogs
 
-* [NVIDIA](https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/)
 * [AWS](https://aws.amazon.com/blogs/aws/)
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
 * [Intuit](https://quickbooks-engineering.intuit.com)
