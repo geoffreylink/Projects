@@ -22,6 +22,7 @@
 ## Reference
 
 * [H2O](https://www.h2o.ai)
+* [CS109](http://cs109.github.io/2015/pages/videos.html)
 * [Arxiv](http://arxiv-sanity.com)
 * [FastAI](https://course.fast.ai)
 * [Pythex](https://pythex.org)
