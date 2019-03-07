@@ -177,9 +177,9 @@
 
 ## A Visual Guide to Data Science
 
-![](https://github.com/geoffreylink/Projects/blob/master/StatisticsMachineLearning.png)
-![](https://github.com/geoffreylink/Projects/blob/master/DataScienceSkillset2.png)
-![](https://github.com/geoffreylink/Projects/blob/master/DataScienceEcosystem.jpg)
-![](https://github.com/geoffreylink/Projects/blob/master/DataScienceHistory.png)
-![](https://github.com/geoffreylink/Projects/blob/master/DataScienceTeam.png)
-![](https://github.com/geoffreylink/Projects/blob/master/DescriptiveDiagnosticPredictivePrescriptive.gif)
+![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceSkillset2.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceEcosystem.jpg)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceHistory.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceTeam.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DescriptiveDiagnosticPredictivePrescriptive.gif)
