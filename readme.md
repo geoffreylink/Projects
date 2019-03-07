@@ -26,6 +26,7 @@
 * [FastAI](https://course.fast.ai)
 * [CS109](http://cs109.github.io/2015/pages/videos.html)
 * [CS224](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
+* [CSC321](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * [Pythex](https://pythex.org)
 * [DeepAI](https://deepai.org)
 * [DataTau](http://www.datatau.com)
