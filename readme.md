@@ -49,6 +49,7 @@
 * [Academic Torrents](http://academictorrents.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
+* [Andrew Ng - Coursera](https://www.youtube.com/watch?v=qeHZOdmJvFU&index=1&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
