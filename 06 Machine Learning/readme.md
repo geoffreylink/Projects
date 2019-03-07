@@ -9,3 +9,6 @@
 
 ## Common Evaluation Metrics
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/CommonEvaluationMetrics.png)
+
+## Common Machine Learning Alogrithms
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/CommonMachineLearningAlgorithms.jpg)
