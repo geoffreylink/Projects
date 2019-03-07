@@ -36,6 +36,7 @@
 * [DataSchool](https://www.dataschool.io)
 * [TheMLBook](http://themlbook.com/wiki/doku.php)
 * [StatMethods](https://www.statmethods.net)
+* [StatsModels](https://www.statsmodels.org/stable/index.html)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [SFL Scientific](https://sflscientific.com)
 * [Google Scholar](https://scholar.google.ca)
