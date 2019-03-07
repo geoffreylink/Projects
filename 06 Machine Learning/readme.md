@@ -12,5 +12,5 @@
 
 ## Common Machine Learning Alogrithms
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/CommonMachineLearningAlgorithms.jpg)
-![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningAlgorithms1.jpg)
-![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningAlgorithms2.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningAlgorithms_01.jpg)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningAlgorithms_02.png)
