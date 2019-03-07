@@ -177,8 +177,8 @@
 
 ## A Visual Guide to Data Science
 
-![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AlgorithmsInDecisionMaking.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceHistory.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceEcosystem.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceSkillset2.png)
