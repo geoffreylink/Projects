@@ -173,6 +173,7 @@
 
 * [Extrapolating](https://xkcd.com/605/)
 * [Machine Learning](https://xkcd.com/1838/)
+* [Significant P-values](https://xkcd.com/882/)
 
 ## A Visual Guide to Data Science
 
