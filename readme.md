@@ -178,7 +178,7 @@
 ## A Visual Guide to Data Science
 
 ![](https://github.com/geoffreylink/Projects/blob/master/StatisticsMachineLearning.png)
-![](https://github.com/geoffreylink/Projects/blob/master/DataScienceSkillset.png)
+![](https://github.com/geoffreylink/Projects/blob/master/DataScienceSkillset2.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/DataScienceEcosystem.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/DataScienceHistory.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/DataScienceTeam.png)
