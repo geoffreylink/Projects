@@ -9,7 +9,7 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TypeOneTypeTwo.png)
 
-## Time Series Process
+## Time Series Data Analysis Process
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TimeSeriesProcess.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Mean.png)
