@@ -1,6 +1,7 @@
 ## Reference
 
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
+* [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 * [Statistical forecasting: notes on regression and time series analysis](http://people.duke.edu/~rnau/411home.htm)
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
