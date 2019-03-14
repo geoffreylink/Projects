@@ -171,8 +171,8 @@
 
 ## Cerebral Humor
 
-* [Fast, Good Cheap](https://fastgood.cheap)
 * [Extrapolating](https://xkcd.com/605/)
+* [Fast, Good Cheap](https://fastgood.cheap)
 * [Machine Learning](https://xkcd.com/1838/)
 * [Significant P-values](https://xkcd.com/882/)
 
