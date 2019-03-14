@@ -2,6 +2,8 @@
 
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
 * [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+* [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+* [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 * [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
