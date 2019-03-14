@@ -8,3 +8,10 @@
 ## Type 1 and Type 2 Errors
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TypeOneTypeTwo.png)
+
+## Time Series Process
+
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TimeSeriesProcess.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Mean.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Variance.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Covariance.png)
