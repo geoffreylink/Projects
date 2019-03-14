@@ -1,5 +1,7 @@
 ## Reference
 
+* [How to Create an ARIMA Model for Time Series Forecasting in Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
+* [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
 * [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
