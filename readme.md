@@ -71,7 +71,7 @@
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 
-## Online Books
+## Free Online Books
 
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
@@ -81,6 +81,7 @@
 * [Python Data Science Handbook lab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=vXNXC8thyPej)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Scikit-Learn Machine Learning Simplified](https://github.com/PacktPublishing/scikit-learn-Machine-Learning-Simplified)
