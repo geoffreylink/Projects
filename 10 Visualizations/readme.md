@@ -1,8 +1,8 @@
 ## Reference
 
-* [Mike Bostock](https://bost.ocks.org/mike/)
 * [Stephen Few](http://www.perceptualedge.com)
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
+* [Mike Bostock](https://bost.ocks.org/mike/)
 
 ## Tools
 
