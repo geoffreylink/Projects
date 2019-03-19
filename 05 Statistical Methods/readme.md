@@ -21,6 +21,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/ConditionalProbability.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/IndependentEvents.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/BayesRule.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/NormalCurve.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/SkewnessAndKurtosis.png)
 
 ## Time Series Data Analysis Process
 
