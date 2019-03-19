@@ -15,6 +15,10 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TypeOneTypeTwo.png)
 
+## Validity and Reliability
+
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/ValidityAndReliability.png)
+
 ## Time Series Data Analysis Process
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TimeSeriesProcess.png)
