@@ -16,6 +16,12 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TypeOneTypeTwo.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/ValidityAndReliability.png)
 
+## Probability
+
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/ConditionalProbability.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/IndependentEvents.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/BayesRule.png)
+
 ## Time Series Data Analysis Process
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TimeSeriesProcess.png)
