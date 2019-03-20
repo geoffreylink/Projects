@@ -11,6 +11,11 @@
 * [How to Create an ARIMA Model for Time Series Forecasting in Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 
+## Wisdom
+
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/AllModelsAreWrong_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/AllModelsAreWrong_02.png)
+
 ## Sampling
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Bias.png)
