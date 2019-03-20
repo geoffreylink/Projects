@@ -107,6 +107,7 @@
 * [Blackrock](http://rockthecode.io)
 * [Guidewire](https://www.guidewire.com/blog)
 * [DataRobot](https://blog.datarobot.com)
+* [Anomaly.io](https://anomaly.io/blog/)
 * [DataBricks](https://databricks.com/blog)
 * [Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
