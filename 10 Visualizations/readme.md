@@ -10,6 +10,7 @@
 * [Vega](https://vega.github.io/vega/)
 * [Grafana](https://grafana.com)
 * [MatPlotLib](https://matplotlib.org)
+* [Observable](https://observablehq.com)
 * [Plotly Dash](https://plot.ly/products/dash/)
 * [Jupyter Dashboards](https://jupyter-dashboards-layout.readthedocs.io/en/latest/)
 
