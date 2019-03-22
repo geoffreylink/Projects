@@ -20,6 +20,7 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Bias.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/CLT.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/StatisticsAndHypothesis.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TwoBranchesOfStatistics.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/FrequentistBayesian.png)
 
