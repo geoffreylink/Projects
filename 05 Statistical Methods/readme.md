@@ -21,6 +21,9 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Bias.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/CLT.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/FrequentistBayesian.png)
+
+p-value: Probability of getting data as extreme as the data we observe, assuming the null hypothesis is true.
+
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TypeOneTypeTwo.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/ValidityAndReliability.png)
 
