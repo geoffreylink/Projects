@@ -24,6 +24,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Statistics.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TwoBranchesOfStatistics.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/FrequentistBayesian.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/p-value_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/p-value_01.png)
 
 p-value: Probability of getting data as extreme as the data we observe, assuming the null hypothesis is true.
 
