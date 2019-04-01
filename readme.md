@@ -75,9 +75,9 @@
 
 ## Free Online Books
 
-* [H2O Resources](https://www.h2o.ai/resources/)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
+* [H2O Resources](https://www.h2o.ai/resources/)
 * [A Course in Machine Learning](http://ciml.info)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
