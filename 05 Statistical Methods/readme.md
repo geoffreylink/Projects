@@ -2,6 +2,7 @@
 
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
 * [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+* [GLMs at Scale with H2O](https://www.youtube.com/watch?v=5UCZngHX7EI)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
