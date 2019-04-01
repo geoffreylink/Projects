@@ -42,6 +42,13 @@ p-value: Probability of getting data as extreme as the data we observe, assuming
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/NormalCurve.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/SkewnessAndKurtosis.png)
 
+## Generalized Linear Models
+
+![](GLM Families](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html#families)
+
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/GLMs_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/GLMs_02.png)
+
 ## Time Series Data Analysis Process
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TimeSeriesProcess.png)
