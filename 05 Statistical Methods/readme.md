@@ -44,6 +44,11 @@ p-value: Probability of getting data as extreme as the data we observe, assuming
 
 ## Generalized Linear Models
 
+Generalized linear models (GLMs) are an extension of traditional linear models that have gained popularity in statistical data analysis due to:
+
+* the flexibility of the model structure unifying the typical regression methods (such as linear regression and logistic regression for binary classification)
+* the recent availability of model-fitting software
+* the ability to scale well with large datasets
 * [GLM Families](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html#families)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/GLMs_01.png)
