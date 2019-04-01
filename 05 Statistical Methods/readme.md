@@ -51,6 +51,8 @@ Generalized linear models (GLMs) are an extension of traditional linear models t
 * the ability to scale well with large datasets
 * [GLM Families](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html#families)
 
+The estimation of the model is obtained by maximizing the log-likelihood over the parameter vector for the observed data.
+
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/GLMs_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/GLMs_02.png)
 
