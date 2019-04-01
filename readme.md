@@ -75,6 +75,7 @@
 
 ## Free Online Books
 
+* [H2O Resources](https://www.h2o.ai/resources/)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [A Course in Machine Learning](http://ciml.info)
