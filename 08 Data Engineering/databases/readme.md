@@ -16,6 +16,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/DynamicDataManagementSystemsVendorShare2017.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/NonrelationalDatabaseManagementSystemsVendorShare2017.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/PopularityOfOpen-SourceDBMSVersusCommercialDBMS.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/OpenSourceBusinessModels.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/Open-SourceLicensingModels.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/PopularityBrokenDownByDatabaseModel2019.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/DatabaseArchitectureBeforeAndAfterMicroservices.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/OperationalDatabaseCompetitiveLandscape.png)
