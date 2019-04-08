@@ -5,12 +5,12 @@
 ## What is a Database?
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/StrategicImportanceDatabase.png)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/ABriefHistoryDatabase.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/PrimaryDatabaseTypesAndUseCases.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/DatabaseMarketCompetitiveLandscape.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/NonrelationalDatabaseTypes.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/NonrelationalDatabaseVendorsAndProductsByType.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/databases/images/MultimodelDatabase.png)
 ![]()
 ![]()
 ![]()
