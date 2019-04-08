@@ -63,3 +63,6 @@
 ## Streaming_Spark.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/OpenSourceBusinessModels.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Open-SourceLicensingModels.png)
