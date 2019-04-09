@@ -6,9 +6,9 @@
 
 ## Tools
 
-* [Bokeh](https://bokeh.pydata.org/en/latest/)
 * [D3.js](https://d3js.org)
 * [Vega](https://vega.github.io/vega/)
+* [Bokeh](https://bokeh.pydata.org/en/latest/)
 * [Grafana](https://grafana.com)
 * [MatPlotLib](https://matplotlib.org)
 * [Observable](https://observablehq.com)
