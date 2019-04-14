@@ -47,6 +47,7 @@
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [SFL Scientific](https://sflscientific.com)
 * [Google Scholar](https://scholar.google.ca)
+* [Capsule Networks](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 * [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
 * [EliteDataScience](https://elitedatascience.com)
 * [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
