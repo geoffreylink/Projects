@@ -15,11 +15,14 @@
 * [Plotly Dash](https://plot.ly/products/dash/)
 * [Jupyter Dashboards](https://jupyter-dashboards-layout.readthedocs.io/en/latest/)
 
-## Sites
+## Reference
 
 * [Finviz](https://finviz.com/map.ashx?t=sec)
 * [The Python Graph Gallery](https://python-graph-gallery.com)
+* [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
 * [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
+* [How to map complex customer journeys](https://medium.com/geckoboard-under-the-hood/how-to-map-complex-customer-journeys-8e2379bb6572)
+* [Visualizing The Customer Journey With Google Analytics Data](https://www.bounteous.com/insights/2017/09/12/visualizing-customer-journey-google-analytics-data/?ns=l)
 
 ## Choosing the Correct Data Visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/ChoosingTheCorrectDataVisualization.jpeg)
