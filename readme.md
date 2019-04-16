@@ -25,9 +25,9 @@
 
 ## Reference
 
-* [PyMC](https://docs.pymc.io/nb_examples/index.html)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
+* [PyMC](https://docs.pymc.io/nb_examples/index.html)
 * [FastAI](https://course.fast.ai)
 * [CS109](http://cs109.github.io/2015/pages/videos.html)
 * [CS224](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
