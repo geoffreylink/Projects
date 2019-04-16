@@ -25,6 +25,7 @@
 
 ## Reference
 
+* [PyMC](https://docs.pymc.io/nb_examples/index.html)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [FastAI](https://course.fast.ai)
