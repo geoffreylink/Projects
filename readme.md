@@ -86,6 +86,7 @@
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python Data Science Handbook lab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=vXNXC8thyPej)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
