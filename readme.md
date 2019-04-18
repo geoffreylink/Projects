@@ -25,6 +25,7 @@
 
 ## Reference
 
+* [MLCOURSE.AI](https://mlcourse.ai)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
