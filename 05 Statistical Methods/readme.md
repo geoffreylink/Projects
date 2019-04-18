@@ -1,11 +1,11 @@
 ## Reference
 
-* [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
 * [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Time Series in Python](https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788)
 * [GLMs at Scale with H2O](https://www.youtube.com/watch?v=5UCZngHX7EI)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+* [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
