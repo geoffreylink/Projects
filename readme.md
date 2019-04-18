@@ -25,7 +25,6 @@
 
 ## Reference
 
-* [MLCOURSE.AI](https://mlcourse.ai)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
@@ -44,6 +43,7 @@
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [DataHubbs](https://www.datahubbs.com)
 * [DataSchool](https://www.dataschool.io)
+* [MLCOURSE.AI](https://mlcourse.ai)
 * [TheMLBook](http://themlbook.com/wiki/doku.php)
 * [StatMethods](https://www.statmethods.net)
 * [StatsModels](https://www.statsmodels.org/stable/index.html)
