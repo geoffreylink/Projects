@@ -25,7 +25,6 @@
 
 ## Reference
 
-* [DataHubbs](https://www.datahubbs.com)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
@@ -39,6 +38,7 @@
 * [Go Deep](http://www.godeep.ml)
 * [TopCoder](https://www.topcoder.com)
 * [Anaconda](https://www.anaconda.com/anaconda-webinars/)
+* [DataHubbs](https://www.datahubbs.com)
 * [Serverless](https://serverless.com)
 * [Tensorflow](https://www.tensorflow.org/tutorials)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
