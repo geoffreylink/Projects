@@ -5,8 +5,8 @@
 
 ## 10mR
 
-* [Explained Visually](http://setosa.io/ev/)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
+* [Explained Visually](http://setosa.io/ev/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
