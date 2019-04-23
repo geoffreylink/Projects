@@ -5,6 +5,7 @@
 
 ## 10mR
 
+* [Explained Visually](http://setosa.io/ev/)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
@@ -25,7 +26,6 @@
 
 ## Reference
 
-* [Explained Visually](http://setosa.io/ev/)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
