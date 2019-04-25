@@ -5,7 +5,6 @@
 
 ## 10mR
 
-* [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -17,6 +16,7 @@
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+* [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
