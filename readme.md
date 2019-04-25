@@ -5,6 +5,7 @@
 
 ## 10mR
 
+* [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
