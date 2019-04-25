@@ -27,7 +27,6 @@
 
 ## Reference
 
-* [Curious Insight](https://www.johnwittenauer.net)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
@@ -53,6 +52,7 @@
 * [SFL Scientific](https://sflscientific.com)
 * [MLCOURSE.AI](https://mlcourse.ai)
 * [Google Scholar](https://scholar.google.ca)
+* [Curious Insight](https://www.johnwittenauer.net)
 * [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
 * [EliteDataScience](https://elitedatascience.com)
 * [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
