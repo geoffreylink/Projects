@@ -1,6 +1,7 @@
 ## Reference
 
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
+* [Anomaly Detection](https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/ch04.html)
 * [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Time Series in Python](https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788)
 * [Python & Holt-Winters](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
