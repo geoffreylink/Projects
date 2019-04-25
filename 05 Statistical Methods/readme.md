@@ -1,5 +1,6 @@
 ## Reference
 
+* [Time Series in Python](https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788)
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
 * [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Time Series in Python](https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788)
