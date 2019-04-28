@@ -27,7 +27,6 @@
 
 ## Reference
 
-* [Kulbear](https://github.com/Kulbear)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
@@ -37,6 +36,7 @@
 * [Pythex](https://pythex.org)
 * [DeepAI](https://deepai.org)
 * [CSC321](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+* [Kulbear](https://github.com/Kulbear)
 * [DataTau](http://www.datatau.com)
 * [Go Deep](http://www.godeep.ml)
 * [TopCoder](https://www.topcoder.com)
