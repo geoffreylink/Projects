@@ -50,6 +50,7 @@
 * [StatMethods](https://www.statmethods.net)
 * [StatsModels](https://www.statsmodels.org/stable/index.html)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
+* [Piotr Skalski](https://github.com/SkalskiP)
 * [SFL Scientific](https://sflscientific.com)
 * [MLCOURSE.AI](https://mlcourse.ai)
 * [Google Scholar](https://scholar.google.ca)
