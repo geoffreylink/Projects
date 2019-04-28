@@ -27,6 +27,7 @@
 
 ## Reference
 
+* [Kulbear](https://github.com/Kulbear)
 * [H2O](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [PyMC](https://docs.pymc.io/nb_examples/index.html)
