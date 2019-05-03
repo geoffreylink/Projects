@@ -47,6 +47,7 @@
 * [DataHubbs](https://www.datahubbs.com)
 * [DataSchool](https://www.dataschool.io)
 * [TheMLBook](http://themlbook.com/wiki/doku.php)
+* [Turi Create](https://github.com/apple/turicreate)
 * [StatMethods](https://www.statmethods.net)
 * [StatsModels](https://www.statsmodels.org/stable/index.html)
 * [Piotr Skalski](https://github.com/SkalskiP)
