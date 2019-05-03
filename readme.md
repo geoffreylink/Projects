@@ -197,11 +197,14 @@
 * [Significant P-values](https://xkcd.com/882/)
 * [Frequentists vs. Bayesians](https://xkcd.com/1132/)
 
-## Bots (Chat) and Automation
+## Bots and Automation
+
+* [Chatbots Life](https://chatbotslife.com/ingredients-to-build-a-successful-chatbot-3ed87934e31d)
+* [McKinsey Global Institute -> Automation](https://www.mckinsey.com/~/media/mckinsey/featured%20insights/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works-Executive-summary.ashx) 
 
 ## IoT
 
-* [McKinsey Global Institute](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/The%20Internet%20of%20Things%20The%20value%20of%20digitizing%20the%20physical%20world/The-Internet-of-things-Mapping-the-value-beyond-the-hype.ashx)
+* [McKinsey Global Institute -> IoT](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/The%20Internet%20of%20Things%20The%20value%20of%20digitizing%20the%20physical%20world/The-Internet-of-things-Mapping-the-value-beyond-the-hype.ashx)
 
 ## BlockChain
 
