@@ -1,5 +1,6 @@
 ## Reference
 
+* [DOMINO - Recommender Systems through Collaborative Filtering](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
 * [New York Data Science Metarecommendr](https://nycdatascience.com/blog/student-works/capstone/metarecommendr-recommendation-system-video-games-movies-tv-shows/)
 * [List of Recommender Systems and Resources](https://github.com/grahamjenson/list_of_recommender_systems)
 * [TechnoCalifornia - Introduction to Recommender Systems](http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html?m=1&from=singlemessage&isappinstalled=0)
