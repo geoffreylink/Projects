@@ -5,3 +5,6 @@
 
 ## Customer 360
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/Customer360.png)
+
+## Recommender Systems
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommenderSystems.png)
