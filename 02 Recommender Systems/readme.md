@@ -9,12 +9,15 @@
 ## Customer 360
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/Customer360.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/LongTail.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RatingFrequency.png)
 
 ## Recommender Systems
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommenderSystems.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/EverythingisaRecommendation.png)
 
-## Collaborative Filtering
+## Collaborative/Content-Base Filtering
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/CollaborativeFilteringExample.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/CollaborativeContent.png)
 
 ## Microsoft Recommendation Engines
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/MicrosoftRecommendationEngines.png)
