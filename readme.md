@@ -180,6 +180,7 @@
 * [Sebastian Raschka](https://sebastianraschka.com)
 * [Michael Irwin Jordan](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
+* [Jesse Steinweg-Woods](https://jessesw.com)
 
 ## Online Education
 
