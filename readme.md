@@ -197,7 +197,7 @@
 * [Significant P-values](https://xkcd.com/882/)
 * [Frequentists vs. Bayesians](https://xkcd.com/1132/)
 
-## Bots, Chatbots, and Automation
+## Bots (Chat) and Automation
 
 ## IoT
 
