@@ -201,6 +201,8 @@
 
 ## IoT
 
+* [McKinsey Global Institute](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/The%20Internet%20of%20Things%20The%20value%20of%20digitizing%20the%20physical%20world/The-Internet-of-things-Mapping-the-value-beyond-the-hype.ashx)
+
 ## BlockChain
 
 * [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
