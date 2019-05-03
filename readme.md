@@ -54,6 +54,7 @@
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [SFL Scientific](https://sflscientific.com)
 * [MLCOURSE.AI](https://mlcourse.ai)
+* [Awesome Python](https://awesome-python.com)
 * [Google Scholar](https://scholar.google.ca)
 * [Curious Insight](https://www.johnwittenauer.net)
 * [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
