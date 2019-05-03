@@ -199,6 +199,8 @@
 
 ## A Visual Guide to Data Science
 
+![](https://github.com/geoffreylink/Projects/blob/master/images/BCGGammaDataScienceApproach.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceUseCases.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DescriptiveDiagnosticPredictivePrescriptive.gif)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AlgorithmsInDecisionMaking.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
