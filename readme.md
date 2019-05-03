@@ -197,6 +197,18 @@
 * [Significant P-values](https://xkcd.com/882/)
 * [Frequentists vs. Bayesians](https://xkcd.com/1132/)
 
+## Bots, Chatbots, and Automation
+
+## IoT
+
+## BlockChain
+
+* [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
+
+## Augmented Reality
+
+* [IKEA](https://www.youtube.com/watch?v=vDNzTasuYEw)
+
 ## A Visual Guide to Data Science
 
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceApproach.png)
