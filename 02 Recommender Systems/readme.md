@@ -11,6 +11,9 @@
 ## Recommender Systems
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommenderSystems.png)
 
+## Collaborative Filtering
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/CollaborativeFilteringExample.png)
+
 ## Microsoft Recommendation Engines
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/MicrosoftRecommendationEngines.png)
 
