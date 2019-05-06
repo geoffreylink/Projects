@@ -4,3 +4,4 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/BotEvolution.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/AnatomyOfaChatbot.png)
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/CosineSimilarityBetweenWords.png)
