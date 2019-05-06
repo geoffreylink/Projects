@@ -130,6 +130,7 @@
 * [Bill Chambers](http://billchambers.me)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
+* [Machine Learning Blog](https://machinelearning-blog.com)
 * [The State of the Octoverse](https://octoverse.github.com)
 
 ## Conferences
