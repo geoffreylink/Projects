@@ -4,6 +4,7 @@
 * [deeplearning.ai](https://www.deeplearning.ai)
 * [Easy Tensorflow](http://www.easy-tensorflow.com)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
+* [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 
 ## Entropy
 
