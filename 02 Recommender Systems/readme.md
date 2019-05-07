@@ -28,3 +28,5 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommendationEngineExample_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommendationEngineExample_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommendationEngineExample_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/CollaborativeFiltering.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/CollaborativeFilteringModel.png)
