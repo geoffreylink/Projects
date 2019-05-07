@@ -3,9 +3,9 @@
 * [New York Data Science Metarecommendr](https://nycdatascience.com/blog/student-works/capstone/metarecommendr-recommendation-system-video-games-movies-tv-shows/)
 * [List of Recommender Systems and Resources](https://github.com/grahamjenson/list_of_recommender_systems)
 * [TechnoCalifornia - Introduction to Recommender Systems](http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html?m=1&from=singlemessage&isappinstalled=0)
+* [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 * [DOMINO - Recommender Systems through Collaborative Filtering](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
 * [Building recommender systems with Azure Machine Learning service](https://azure.microsoft.com/en-us/blog/building-recommender-systems-with-azure-machine-learning-service/)
-* [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 
 ## Customer 360
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/Customer360.png)
