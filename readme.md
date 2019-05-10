@@ -32,8 +32,6 @@
 
 ## Stop
 
-* [Awesome Python](https://awesome-python.com)
-* [Capsule Networks](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
