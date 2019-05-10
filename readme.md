@@ -20,11 +20,10 @@
 ## Reference
 
 * [DataTau](http://www.datatau.com)
-* [Go Deep](http://www.godeep.ml)
 * [TopCoder](https://www.topcoder.com)
-* [Anaconda](https://www.anaconda.com/anaconda-webinars/)
-* [Serverless](https://serverless.com)
-* [Tensorflow](https://www.tensorflow.org/tutorials)
+
+## Stop
+
 * [Turi Create](https://github.com/apple/turicreate)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [DataHubbs](https://www.datahubbs.com)
