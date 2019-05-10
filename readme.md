@@ -23,14 +23,12 @@
 * [TopCoder](https://www.topcoder.com)
 * [DataHubbs](https://www.datahubbs.com)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
+* [SFL Scientific](https://sflscientific.com)
+* [Google Scholar](https://scholar.google.ca)
+* [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
 
 ## Stop
 
-* [SFL Scientific](https://sflscientific.com)
-* [MLCOURSE.AI](https://mlcourse.ai)
-* [Google Scholar](https://scholar.google.ca)
-* [Curious Insight](https://www.johnwittenauer.net)
-* [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
 * [EliteDataScience](https://elitedatascience.com)
 * [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
 * [Awesome Python](https://awesome-python.com)
@@ -104,6 +102,7 @@
 * [Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
 * [Bill Chambers](http://billchambers.me)
+* [Curious Insight](https://www.johnwittenauer.net)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
 * [Machine Learning Blog](https://machinelearning-blog.com)
