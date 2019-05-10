@@ -19,10 +19,6 @@
 
 ## Reference
 
-* [Pythex](https://pythex.org)
-* [DeepAI](https://deepai.org)
-* [Kulbear](https://github.com/Kulbear)
-* [CSC321](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * [DataTau](http://www.datatau.com)
 * [Go Deep](http://www.godeep.ml)
 * [TopCoder](https://www.topcoder.com)
