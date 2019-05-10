@@ -25,11 +25,6 @@
 
 ## Stop
 
-* [Maël Fabien](https://maelfabien.github.io/#)
-* [StatMethods](https://www.statmethods.net)
-* [StatsModels](https://www.statsmodels.org/stable/index.html)
-* [Piotr Skalski](https://github.com/SkalskiP)
-* [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [SFL Scientific](https://sflscientific.com)
 * [MLCOURSE.AI](https://mlcourse.ai)
 * [Google Scholar](https://scholar.google.ca)
@@ -105,6 +100,8 @@
 * [Anomaly.io](https://anomaly.io/blog/)
 * [Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
+* [Maël Fabien](https://maelfabien.github.io/#)
+* [Piotr Skalski](https://github.com/SkalskiP)
 * [Bill Chambers](http://billchambers.me)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Peter@Norvig.com](http://norvig.com)
