@@ -30,15 +30,12 @@
 * [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
 * [Academic Torrents](http://academictorrents.com)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [Google's Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+* [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
+
 
 ## Stop
 
-* [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-* [Neural Networks Demysitified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
-* [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)
-* [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
-* [Google's Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-* [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
