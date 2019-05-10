@@ -17,7 +17,6 @@
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-* [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 * [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
