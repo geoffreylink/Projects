@@ -22,6 +22,7 @@
 * [DataTau](http://www.datatau.com)
 * [TopCoder](https://www.topcoder.com)
 * [DataHubbs](https://www.datahubbs.com)
+* [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 
 ## Stop
 
