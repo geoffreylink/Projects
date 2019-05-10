@@ -3,6 +3,7 @@
 * [deepschool.io](https://github.com/RyanSydney/deepschool.io)
 * [deeplearning.ai](https://www.deeplearning.ai)
 * [Easy Tensorflow](http://www.easy-tensorflow.com)
+* [Practical Deep Learning for Coders](https://course.fast.ai)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
