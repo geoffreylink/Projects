@@ -7,6 +7,7 @@
 * [deepschool.io](https://github.com/RyanSydney/deepschool.io)
 * [deeplearning.ai](https://www.deeplearning.ai)
 * [Easy Tensorflow](http://www.easy-tensorflow.com)
+* [Capsule Networks](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
