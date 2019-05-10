@@ -21,14 +21,10 @@
 
 * [DataTau](http://www.datatau.com)
 * [TopCoder](https://www.topcoder.com)
+* [DataHubbs](https://www.datahubbs.com)
 
 ## Stop
 
-* [Turi Create](https://github.com/apple/turicreate)
-* [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
-* [DataHubbs](https://www.datahubbs.com)
-* [DataSchool](https://www.dataschool.io)
-* [TheMLBook](http://themlbook.com/wiki/doku.php)
 * [Maël Fabien](https://maelfabien.github.io/#)
 * [StatMethods](https://www.statmethods.net)
 * [StatsModels](https://www.statsmodels.org/stable/index.html)
