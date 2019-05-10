@@ -1,6 +1,10 @@
-## Resources
+## Reference
 
 * [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
+* [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
+* [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
+* [Why Are There So Many Pythons? A Python Implementation Comparison](https://www.toptal.com/python/why-are-there-so-many-pythons)
+* [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 
 ## Privacy
 
