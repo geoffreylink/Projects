@@ -1,6 +1,8 @@
 ## Reference
 
 * [DeepAI](https://deepai.org)
+* [Go Deep](http://www.godeep.ml)
+* [Tensorflow](https://www.tensorflow.org/tutorials)
 * [deepschool.io](https://github.com/RyanSydney/deepschool.io)
 * [deeplearning.ai](https://www.deeplearning.ai)
 * [Easy Tensorflow](http://www.easy-tensorflow.com)
