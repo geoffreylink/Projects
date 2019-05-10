@@ -3,6 +3,8 @@
 * [Stephen Few](http://www.perceptualedge.com)
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Mike Bostock](https://bost.ocks.org/mike/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
+* [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
 
 ## Tools
 
