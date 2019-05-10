@@ -32,8 +32,8 @@
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [Google's Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [CS565500 Large-Scale Machine Learning](http://www.cs.nthu.edu.tw/~shwu/courses/ml/)
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 ## Free Online Books
 
