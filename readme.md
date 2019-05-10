@@ -33,11 +33,6 @@
 
 ## Stop
 
-* [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
-* [Machine Learning Mastery](https://machinelearningmastery.com)
-* [CS229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
-* [Machine Learning Explained](http://mlexplained.com)
-* [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Neural Networks Demysitified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)
