@@ -6,7 +6,10 @@
 * [PyMC3](https://docs.pymc.io/nb_examples/index.html)
 * [Kulbear](https://github.com/Kulbear)
 * [Anaconda](https://www.anaconda.com/anaconda-webinars/)
+* [Turi Create](https://github.com/apple/turicreate)
+* [Data School](https://www.dataschool.io)
 * [TNSE vs PCA](https://medium.com/@sourajit16.02.93/tsne-t-distributed-stochastic-neighborhood-embedding-state-of-the-art-c2b4b875b7da)
+* [100 page ML Book](http://themlbook.com/wiki/doku.php)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
