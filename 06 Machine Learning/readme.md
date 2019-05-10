@@ -11,6 +11,7 @@
 * [TNSE vs PCA](https://medium.com/@sourajit16.02.93/tsne-t-distributed-stochastic-neighborhood-embedding-state-of-the-art-c2b4b875b7da)
 * [100 page ML Book](http://themlbook.com/wiki/doku.php)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
 ## Machine Learning Decision Tree
