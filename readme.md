@@ -26,14 +26,14 @@
 * [SFL Scientific](https://sflscientific.com)
 * [Google Scholar](https://scholar.google.ca)
 * [Better Explained](https://betterexplained.com/articles/linear-algebra-guide/)
+* [EliteDataScience](https://elitedatascience.com)
+* [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
+* [Academic Torrents](http://academictorrents.com)
 
 ## Stop
 
-* [EliteDataScience](https://elitedatascience.com)
-* [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
 * [Awesome Python](https://awesome-python.com)
 * [Capsule Networks](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
-* [Academic Torrents](http://academictorrents.com)
 * [Principles of Chaos](http://principlesofchaos.org)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
