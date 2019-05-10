@@ -29,14 +29,10 @@
 * [EliteDataScience](https://elitedatascience.com)
 * [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
 * [Academic Torrents](http://academictorrents.com)
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 
 ## Stop
 
-* [Principles of Chaos](http://principlesofchaos.org)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
-* [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-* [Andrew Ng - Coursera](https://www.youtube.com/watch?v=qeHZOdmJvFU&index=1&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 * [Machine Learning Mastery](https://machinelearningmastery.com)
 * [CS229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
