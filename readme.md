@@ -183,6 +183,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScientistTechnologySkills.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceTeam.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningFlywheel.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/ImageNet.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/NoFreeLunchTheorem.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ExplorationExploitation.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AIProjectCanvas.png)
