@@ -24,6 +24,7 @@
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Introduction to Convolutional Neural Networks (CNN) with TensorFlow](https://towardsdatascience.com/introduction-to-convolutional-neural-networks-cnn-with-tensorflow-57e2f4837e18)
 * [Analyzing different types of activation functions in neural networks — which one to prefer?](https://towardsdatascience.com/analyzing-different-types-of-activation-functions-in-neural-networks-which-one-to-prefer-e11649256209)
+* [The Secret Layer Behind Every Successful Deep Learning Model: Representation Learning and Knowledge Quality](https://towardsdatascience.com/the-secret-layer-behind-every-successful-deep-learning-model-representation-learning-and-knowledge-8f352018c561)
 
 ## Entropy
 
