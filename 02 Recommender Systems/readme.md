@@ -1,7 +1,9 @@
 ## Reference
 
 * [New York Data Science Metarecommendr](https://nycdatascience.com/blog/student-works/capstone/metarecommendr-recommendation-system-video-games-movies-tv-shows/)
+* [AWS Real-time Product Recommendations](https://d1.awsstatic.com/Marketplace/scenarios/bi/Q42017/BIA13-realtime-product-recommendations-scenario-brief.pdf)
 * [List of Recommender Systems and Resources](https://github.com/grahamjenson/list_of_recommender_systems)
+* [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
 * [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 * [TechnoCalifornia - Introduction to Recommender Systems](http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html?m=1&from=singlemessage&isappinstalled=0)
 * [DOMINO - Recommender Systems through Collaborative Filtering](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
