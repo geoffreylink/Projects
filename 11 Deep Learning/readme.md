@@ -76,9 +76,6 @@ There are 5 popular activation functions that play a significant role in buildin
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
-
-* __Gradient Clipping__
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
 
 * __Deep Generative Models__
