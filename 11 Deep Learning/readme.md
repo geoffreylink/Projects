@@ -81,3 +81,10 @@ There are 5 popular activation functions that play a significant role in buildin
 * __Deep Generative Models__
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
+
+* __Transfer Learning__
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_04.png)
