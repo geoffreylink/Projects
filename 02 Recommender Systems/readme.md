@@ -15,7 +15,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RatingFrequency.png)
 
 ## Recommender Systems
-![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommenderSystems.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommenderSystemApproach_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommenderSystemApproach_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/EverythingisaRecommendation.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/MatrixFactorization.png)
 
