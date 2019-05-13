@@ -12,6 +12,7 @@
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Practical Deep Learning for Coders](https://course.fast.ai)
+* [An Introduction to Transfer Learning](https://medium.com/georgian-impact-blog/transfer-learning-part-1-ed0c174ad6e7)
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
