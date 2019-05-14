@@ -5,6 +5,7 @@
 * [Mike Bostock](https://bost.ocks.org/mike/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Make Your Data Visualizations Interactive with Plotly](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
 
 ## Tools
