@@ -13,6 +13,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/CosineSimilarityBetweenWords.png)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopSixPythonNLPLibraries.png)
+
+## Text Cleaning and Entity Recognition
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TextCleaningPipeline.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/GrammerDependencyTrees.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModellingNamedEntityRecognition.png)
