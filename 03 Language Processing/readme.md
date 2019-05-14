@@ -10,5 +10,4 @@
 ## Cosine Similiary Between Words
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/CosineSimilarityBetweenWords.png)
 
-## Top 6 Python NLP Libraries
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopSixPythonNLPLibraries.png)
