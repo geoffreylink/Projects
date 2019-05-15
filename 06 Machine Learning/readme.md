@@ -37,4 +37,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningAlgorithms_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningAlgorithms_03.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/EvolutionOfXGBoostAlgorithmFromDecisionTrees.png)
+
+## Methods to Deploy Algorithms to Production
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/DeployAlgorithmsToProduction.png)
