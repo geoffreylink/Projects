@@ -1,5 +1,7 @@
 ## Reference
 
+* [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
+* [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
 * [H20](https://www.h2o.ai)
 * [Arxiv](http://arxiv-sanity.com)
 * [CS109](http://cs109.github.io/2015/pages/videos.html)
