@@ -50,8 +50,15 @@
 * In the case of recommendations, you want to get your data into a column of users, a column of items (say movies or books), and a column of ratings
 * In the case of most classification and regression algorithms, you want to get your data into a column of type Double to represent the label and a column of type Vector (either dense or sparse) to represent the features
 
+## Visual Guide to Data Engineering
+
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/DataEngineering.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudInfrastructureMarketShare.png)
+
+## Cloud Computing Patterns & Variants
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
 
 ## GraphTypes.png
 
@@ -76,8 +83,3 @@
 ## Streaming_Spark.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
-
-## Cloud Computing Patterns & Variants
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
