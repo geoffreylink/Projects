@@ -64,6 +64,10 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
 
+## Netflix Streaming
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
+
 ## GraphTypes.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/GraphTypes.png)
@@ -79,7 +83,3 @@
 ## Layering_Kafka.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Layering_Kafka.png)
-
-## Streaming_Netflix.png
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
