@@ -55,6 +55,9 @@
 ## Visual Guide to Data Engineering
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/DataEngineering.png)
+
+## Data Pipeline
+
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/HighLevel_Pipeline.png)
 
 ## Cloud Computing Patterns & Variants
