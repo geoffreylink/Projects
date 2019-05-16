@@ -69,6 +69,7 @@ There are 5 popular activation functions that play a significant role in buildin
 
 ## Artificial Neural Network
 
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
 
 ## Human Neural Network
