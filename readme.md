@@ -10,6 +10,7 @@
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 * [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
+* [Top AI algorithms for Healthcare](https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
 * [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
