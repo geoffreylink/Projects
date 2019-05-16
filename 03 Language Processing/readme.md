@@ -19,5 +19,9 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/GrammerDependencyTrees.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModellingNamedEntityRecognition.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModelling.png)
+
+## Word Vectors
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/WordVectors.png)
+
+## TF-IDF (Term Frequency-Inverse Document Frequency)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TF-IDF.png)
