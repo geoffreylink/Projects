@@ -188,5 +188,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningFlywheel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ImageNet.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/NoFreeLunchTheorem.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/AmountOfData.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ExplorationExploitation.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AIProjectCanvas.png)
