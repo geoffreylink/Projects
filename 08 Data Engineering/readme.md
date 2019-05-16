@@ -58,6 +58,7 @@
 ## Cloud Computing Patterns & Variants
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/HighLevel_Pipeline.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
 
 ## Spark Streaming
@@ -75,10 +76,6 @@
 ## Graphana_Kafka.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Graphana_Kafka.png)
-
-## HighLevel_Pipeline.png
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/HighLevel_Pipeline.png)
 
 ## Layering_Kafka.png
 
