@@ -19,3 +19,5 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/GrammerDependencyTrees.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModellingNamedEntityRecognition.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModelling.png)
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/WordVectors.png)
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TF-IDF.png)
