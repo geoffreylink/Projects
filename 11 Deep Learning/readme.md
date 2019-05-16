@@ -31,6 +31,34 @@
 * [Analyzing different types of activation functions in neural networks — which one to prefer?](https://towardsdatascience.com/analyzing-different-types-of-activation-functions-in-neural-networks-which-one-to-prefer-e11649256209)
 * [The Secret Layer Behind Every Successful Deep Learning Model: Representation Learning and Knowledge Quality](https://towardsdatascience.com/the-secret-layer-behind-every-successful-deep-learning-model-representation-learning-and-knowledge-8f352018c561)
 
+## Human Neural Network
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
+
+## Artificial Neural Network
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
+
+* __Long short-term memory (LSTM)__
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LongShortTermMemory.png)
+
+* __Recurrent Neural Network__
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/RecurrentNeuralNetwork.png)
+
+* __Convolutional Neural Network__
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork.png)
+
+* __Deep Generative Models__
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
+
 ## Entropy
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Entropy.jpg)
