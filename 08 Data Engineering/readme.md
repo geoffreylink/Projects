@@ -77,10 +77,6 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
 
-## GraphTypes.png
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/GraphTypes.png)
-
-## Graphana_Kafka.png
+## Graphana Monitoring Tools
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Graphana_Kafka.png)
