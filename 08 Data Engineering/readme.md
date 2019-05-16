@@ -52,6 +52,11 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudInfrastructureMarketShare.png)
 
+## Cloud Computing Patterns & Variants
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
+
 ## Visual Guide to Data Engineering
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/DataEngineering.png)
@@ -59,11 +64,6 @@
 ## Data Pipeline
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/HighLevel_Pipeline.png)
-
-## Cloud Computing Patterns & Variants
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
 
 ## Spark Streaming
 
