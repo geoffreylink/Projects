@@ -43,7 +43,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
 
-* __Long short-term memory (LSTM)__
+* __Long Short-Term Memory (LSTM)__
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LongShortTermMemory.png)
 
@@ -98,30 +98,6 @@ There are 5 popular activation functions that play a significant role in buildin
 ## Human Neural Network
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
-
-## Artificial Neural Network
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
-
-* __Long short-term memory (LSTM)__
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LongShortTermMemory.png)
-
-* __Recurrent Neural Network__
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/RecurrentNeuralNetwork.png)
-
-* __Convolutional Neural Network__
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork.png)
-
-* __Deep Generative Models__
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
 
 * __Transfer Learning__
 
