@@ -65,6 +65,10 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/HighLevel_Pipeline.png)
 
+## Layering with Kafka
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Layering_Kafka.png)
+
 ## Spark Streaming
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
@@ -80,7 +84,3 @@
 ## Graphana_Kafka.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Graphana_Kafka.png)
-
-## Layering_Kafka.png
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Layering_Kafka.png)
