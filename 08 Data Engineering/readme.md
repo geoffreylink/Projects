@@ -60,6 +60,10 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
 
+## Spark Streaming
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
+
 ## GraphTypes.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/GraphTypes.png)
@@ -79,7 +83,3 @@
 ## Streaming_Netflix.png
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
-
-## Streaming_Spark.png
-
-![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
