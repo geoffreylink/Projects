@@ -67,14 +67,14 @@ There are 5 popular activation functions that play a significant role in buildin
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SoftmaxFunction.png)
 
+## Human Neural Network
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
+
 ## Artificial Neural Network
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
-
-## Human Neural Network
-
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
