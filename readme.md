@@ -170,6 +170,10 @@
 
 * [IKEA](https://www.youtube.com/watch?v=vDNzTasuYEw)
 
+## Healthcare
+
+![](https://github.com/geoffreylink/Projects/blob/master/images/MedicalMachineLearningAlgorithms.png)
+
 ## A Visual Guide to Data Science
 
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
