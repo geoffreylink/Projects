@@ -165,8 +165,8 @@
 ## BlockChain
 
 * [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
-* [What Is Blockchain? | Forbes](https://www.youtube.com/watch?v=nZPfu21yWhQ)
-* [How Blockchain Went From Bitcoin To Big Business | Forbes](https://www.youtube.com/watch?v=ahWcUZfSufI)
+* [What Is Blockchain?](https://www.youtube.com/watch?v=nZPfu21yWhQ)
+* [How Blockchain Went From Bitcoin To Big Business](https://www.youtube.com/watch?v=ahWcUZfSufI)
 
 ## Augmented Reality
 
