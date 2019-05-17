@@ -9,7 +9,7 @@
 
 ## Visuals
 
-In sum: NLP relies on machine learning to derive meaning from human languages by analysis of the text semantics and syntax.
+NLP relies on machine learning to derive meaning from human languages by analysis of the text semantics and syntax.
 
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLPvsNLUvsASR.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLUTasks.png)
