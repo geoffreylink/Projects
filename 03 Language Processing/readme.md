@@ -7,6 +7,12 @@
 * [An introduction to part-of-speech tagging and the Hidden Markov Model](https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24)
 * [Ultimate Guide to Understanding & Implementing Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 
+## Visuals
+
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLPvsNLUvsASR.png)
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLUTasks.png)
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/SyntaticAnalysisTechniques.png)
+
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/BotEvolution.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/AnatomyOfaChatbot.png)
 
