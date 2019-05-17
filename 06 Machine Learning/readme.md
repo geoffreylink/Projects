@@ -44,3 +44,6 @@
 
 ## Methods to Deploy Algorithms to Production
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/DeployAlgorithmsToProduction.png)
+
+## 100 Page Machine Learning Book
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/100pageMLBook.png)
