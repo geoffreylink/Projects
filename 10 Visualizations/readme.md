@@ -26,8 +26,8 @@
 * [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
 * [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
 * [How to map complex customer journeys](https://medium.com/geckoboard-under-the-hood/how-to-map-complex-customer-journeys-8e2379bb6572)
-* [Visualizing The Customer Journey With Google Analytics Data](https://www.bounteous.com/insights/2017/09/12/visualizing-customer-journey-google-analytics-data/?ns=l)
 * [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
+* [Visualizing The Customer Journey With Google Analytics Data](https://www.bounteous.com/insights/2017/09/12/visualizing-customer-journey-google-analytics-data/?ns=l)
 
 ## Choosing the Correct Data Visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/ChoosingTheCorrectDataVisualization.jpeg)
