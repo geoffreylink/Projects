@@ -106,3 +106,8 @@ There are 5 popular activation functions that play a significant role in buildin
 ## Reinforcement Learning
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ReinforcementLearning.png)
+
+## Autoencoder
+
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_02.png)
