@@ -76,6 +76,11 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
 
+## Spotify Discover Weekly
+
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/SpotifyDiscoverWeekly.png)
+
+
 ## Graphana Monitoring
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Graphana_Kafka.png)
