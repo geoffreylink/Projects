@@ -1,5 +1,6 @@
 ## Reference
 
+* [How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [New York Data Science Metarecommendr](https://nycdatascience.com/blog/student-works/capstone/metarecommendr-recommendation-system-video-games-movies-tv-shows/)
 * [AWS Real-time Product Recommendations](https://d1.awsstatic.com/Marketplace/scenarios/bi/Q42017/BIA13-realtime-product-recommendations-scenario-brief.pdf)
 * [List of Recommender Systems and Resources](https://github.com/grahamjenson/list_of_recommender_systems)
