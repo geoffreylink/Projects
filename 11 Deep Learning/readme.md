@@ -21,6 +21,7 @@
 * [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
+* [Auto-Encoder: What Is It? And What Is It Used For?](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
