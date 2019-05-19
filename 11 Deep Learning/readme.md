@@ -24,6 +24,7 @@
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
+* [Calculus — Multivariate Calculus And Machine Learning](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Diving deeper into Reinforcement Learning with Q-Learning](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
