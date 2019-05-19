@@ -36,8 +36,8 @@
 * [Google's Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
 * [CS565500 Large-Scale Machine Learning](http://www.cs.nthu.edu.tw/~shwu/courses/ml/)
-* [Top Sources For Machine Learning Datasets](https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* [Top Sources For Machine Learning Datasets](https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b)
 
 ## Free Online Books
 
