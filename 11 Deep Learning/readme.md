@@ -47,6 +47,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
 
 * __Long Short-Term Memory (LSTM)__
+
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LongShortTermMemory.png)
 
 * __Recurrent Neural Network__
