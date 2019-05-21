@@ -55,6 +55,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/L1L2Regularization.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/AUCScores.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ImbalancedClasses.png)
+
+## Precision vs Recall
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Confusion.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Accuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/PrecisionRecallF1.png)
