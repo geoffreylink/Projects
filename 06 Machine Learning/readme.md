@@ -65,6 +65,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_04.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/TrainingValidationTesting.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ShuffleDataToBalanceData.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HoldoutValidation.png)
