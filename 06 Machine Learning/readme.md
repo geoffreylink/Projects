@@ -57,3 +57,4 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Confusion.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Accuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/DataSetSize.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HoldoutValidation.png)
