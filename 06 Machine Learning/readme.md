@@ -67,6 +67,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/OptimalModel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_02.png)
+
+## Bias vs Variance
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/BiasVariance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_03.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_04.png)
