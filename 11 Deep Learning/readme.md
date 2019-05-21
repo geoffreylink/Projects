@@ -106,3 +106,9 @@ There are 5 popular activation functions that play a significant role in buildin
 ## Autoencoder
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_02.png)
+
+## Model Tuning
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/AugmentedCat.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Dropout.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/EarlyStopping.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ParsimonyWins.png)
