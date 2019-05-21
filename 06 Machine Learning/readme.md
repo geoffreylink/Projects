@@ -58,6 +58,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/BiasVariance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Confusion.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Accuracy.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/PrecisionRecallF1.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Overfitting.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/DataSetSize.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/OptimalModel.png)
