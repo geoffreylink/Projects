@@ -36,43 +36,35 @@
 * [The Secret Layer Behind Every Successful Deep Learning Model: Representation Learning and Knowledge Quality](https://towardsdatascience.com/the-secret-layer-behind-every-successful-deep-learning-model-representation-learning-and-knowledge-8f352018c561)
 
 ## Human Neural Network
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
 
 ## Artificial Neural Network
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
-
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsActivation.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Weights.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
 
 * __Long Short-Term Memory (LSTM)__
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LongShortTermMemory.png)
 
 * __Recurrent Neural Network__
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/RecurrentNeuralNetwork.png)
 
 * __Convolutional Neural Network__
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork.png)
 
 * __VGG16__
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/VGG16.png)
 
 * __Deep Generative Models__
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
 
 ## Entropy
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Entropy.jpg)
 
 ## Batch Normalization
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/BatchNormalization.png)
 
 ## Activation Functions
@@ -84,37 +76,29 @@ Activation functions take the weighted sum of inputs plus a bias as input to the
 There are 5 popular activation functions that play a significant role in building a neural network. Choosing the right activation function depends on the kind of task you are performing.
 
 * __Step function__ - also known as a Threshold function. Here we set a threshold value and if the Y value(output) is greater than the threshold value, the function is activated and fired, else it is not fired.
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/StepFunction.png)
 
 * __ReLU function__ - one of the most widely used activation functions. It stands for Rectified Linear Unit. It gives an output of X, if X is positive and 0 otherwise. ReLU is often used in the hidden layers.
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ReLUFunction.png)
 
 * __Sigmoid function__ - very common and is used to predict the probability as an output. The output of this function always lies between 0 and 1. Sigmoid is used in hidden layers as well as in the output layers where the target is binary.
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SigmoidFunction.png)
 
 * __Tanh function__ - similar to a Sigmoid function but is bound between the range (-1, 1). It is also used in the hidden layers as well as in the output layer.
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TanhFunction.png)
 
 * __Softmax function__ - generally used in the output layer. It converts every output to been in the range of 0 and 1, just like the Sigmoid function. But it divides each output such that the total sum of the outputs is equal to 1.
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SoftmaxFunction.png)
 
 ## Transfer Learning
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_03.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_04.png)
 
 ## Reinforcement Learning
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ReinforcementLearning.png)
 
 ## Autoencoder
-
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_02.png)
