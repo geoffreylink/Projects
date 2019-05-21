@@ -57,6 +57,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork.png)
 
 * __VGG16__
+
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/VGG16.png)
 
 * __Deep Generative Models__
