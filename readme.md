@@ -183,6 +183,7 @@
 ## A Visual Guide to Data Science
 
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningHighLevel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceApproach.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceUseCases.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DescriptiveDiagnosticPredictivePrescriptive.gif)
