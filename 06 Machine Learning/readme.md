@@ -54,3 +54,4 @@
 ## Algorithm Tuning
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/AUCScores.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Accuracy.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/BiasVariance.png)
