@@ -87,6 +87,7 @@ There are 5 popular activation functions that play a significant role in buildin
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SigmoidFunction.png)
 
 * __Tanh function__ - similar to a Sigmoid function but is bound between the range (-1, 1). It is also used in the hidden layers as well as in the output layer.
+
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TanhFunction.png)
 
 * __Softmax function__ - generally used in the output layer. It converts every output to been in the range of 0 and 1, just like the Sigmoid function. But it divides each output such that the total sum of the outputs is equal to 1.
