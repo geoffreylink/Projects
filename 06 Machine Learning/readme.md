@@ -52,6 +52,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/100pageMLBook.png)
 
 ## Algorithm Tuning
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/L1L2Regularization.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/AUCScores.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ImbalancedClasses.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/BiasVariance.png)
