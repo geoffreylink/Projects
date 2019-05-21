@@ -25,6 +25,7 @@
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 
 ## Machine Learning Decision Tree
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/SupervisedvsUnsupervised.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Classification-Machine-Learning-Algorithm.png)
 
 ## Kaggle Winners
