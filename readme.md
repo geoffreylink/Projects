@@ -17,6 +17,7 @@
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
+* [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
 * [Why VPNs Are Suddenly Everywhere, and How to Pick the Best One](https://onezero.medium.com/why-vpns-are-suddenly-everywhere-and-how-to-pick-the-best-one-22d4cfdeff6f)
 * [How Microsoft Azure Machine Learning Studio Clarifies Data Science](https://towardsdatascience.com/how-microsoft-azure-machine-learning-studio-clarifies-data-science-8e8d3e6ed64e)
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
