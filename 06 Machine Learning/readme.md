@@ -77,6 +77,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/TrainingValidationTesting.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ShuffleDataToBalanceData.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HoldoutValidation.png)
+
+## Hyperparameter Tuning and Model Training
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HyperParameterTuning_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HyperParameterTuning_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/OnlineOfflineEvaluation.png)
