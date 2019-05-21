@@ -50,3 +50,6 @@
 
 ## 100 Page Machine Learning Book
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/100pageMLBook.png)
+
+## Algorithm Tuning
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/AUCScores.png)
