@@ -51,11 +51,10 @@
 ## 100 Page Machine Learning Book
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/100pageMLBook.png)
 
-## Algorithm Tuning
+## Model Tuning
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/L1L2Regularization.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/AUCScores.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ImbalancedClasses.png)
-![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/BiasVariance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Confusion.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Accuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/PrecisionRecallF1.png)
@@ -64,6 +63,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/OptimalModel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/BiasVariance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_03.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ValidationCurve_04.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/TrainingValidationTesting.png)
