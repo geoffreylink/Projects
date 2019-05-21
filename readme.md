@@ -21,6 +21,7 @@
 * [Why VPNs Are Suddenly Everywhere, and How to Pick the Best One](https://onezero.medium.com/why-vpns-are-suddenly-everywhere-and-how-to-pick-the-best-one-22d4cfdeff6f)
 * [How Microsoft Azure Machine Learning Studio Clarifies Data Science](https://towardsdatascience.com/how-microsoft-azure-machine-learning-studio-clarifies-data-science-8e8d3e6ed64e)
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
+* [Reinforcement Learning Applications: A Brief Guide on How to Get Business Value from RL](https://blog.goodaudience.com/reinforcement-learning-applications-a-brief-guide-on-how-to-get-business-value-from-rl-d46c12f3bc99)
 
 ## Reference
 
