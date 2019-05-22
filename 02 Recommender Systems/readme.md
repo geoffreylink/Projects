@@ -11,6 +11,9 @@
 * [DOMINO - Recommender Systems through Collaborative Filtering](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
 * [Building recommender systems with Azure Machine Learning service](https://azure.microsoft.com/en-us/blog/building-recommender-systems-with-azure-machine-learning-service/)
 
+## The Paradox of Choice
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/TheParadoxOfChoice.png)
+
 ## Customer 360
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/Customer360.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/TheGoalOfRecommenderSystems.png)
