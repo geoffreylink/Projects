@@ -35,6 +35,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/MicrosoftRecommendationEngines.png)
 
 ## Recommendation Engine Example
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/TypicalRecommenderPipeline.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/TypicalRecommendationSystem.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommendationEngineExample_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommendationEngineExample_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/RecommendationEngineExample_03.png)
