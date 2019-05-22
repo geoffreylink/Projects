@@ -29,6 +29,7 @@
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Diving deeper into Reinforcement Learning with Q-Learning](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
+* [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 * [Introduction to Convolutional Neural Networks (CNN) with TensorFlow](https://towardsdatascience.com/introduction-to-convolutional-neural-networks-cnn-with-tensorflow-57e2f4837e18)
 * [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 * [Understanding Neural Networks: From Activation Function To Back Propagation](https://medium.com/fintechexplained/neural-networks-activation-function-to-back-propagation-understanding-neural-networks-bdd036c3f29f)
@@ -55,6 +56,7 @@
 
 * __Convolutional Neural Network__
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/BasicCNN.png)
 
 * __VGG16__
 
