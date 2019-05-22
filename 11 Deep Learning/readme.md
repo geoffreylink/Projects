@@ -63,6 +63,9 @@
 * __Deep Generative Models__
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
 
+## Keras Lifecycle
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Keras_Lifecycle.png)
+
 ## Entropy
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Entropy.jpg)
 
