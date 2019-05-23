@@ -18,6 +18,7 @@
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Machine Learning In 8 Minutes](https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b)
 * [Open Machine Learning Course](https://mlcourse.ai)
+* [5 Powerful Scikit-Learn Examples](https://towardsdatascience.com/5-powerful-scikit-learn-models-e9b12375320d)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
