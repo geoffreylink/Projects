@@ -23,7 +23,6 @@ NLP relies on machine learning to derive meaning from human languages by analysi
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/CosineSimilarityBetweenWords.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/WordVectors.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/VectorSpaceModel.png)
-![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopSixPythonNLPLibraries.png)
 
 ## Text Cleaning and Entity Recognition
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TextCleaningPipeline.png)
@@ -33,3 +32,5 @@ NLP relies on machine learning to derive meaning from human languages by analysi
 
 ## TF-IDF (Term Frequency-Inverse Document Frequency)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TF-IDF.png)
+
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopSixPythonNLPLibraries.png)
