@@ -6,3 +6,4 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Computer%20Vision/images/ObjectRecognitionTasks.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Computer%20Vision/images/RegionProposals.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Computer%20Vision/images/YOLOPredictions.png)
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Computer%20Vision/images/ElephantMask.png)
