@@ -16,7 +16,7 @@ NLP relies on machine learning to derive meaning from human languages by analysi
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/BotEvolution.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/AnatomyOfaChatbot.png)
 
-## Text Cleaning and Entity Recognition
+## Text Cleaning
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TextCleaningPipeline.png)
 
 ## Syntactic Analysis Techniques
