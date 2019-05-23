@@ -26,9 +26,9 @@ NLP relies on machine learning to derive meaning from human languages by analysi
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/CosineSimilarityBetweenWords.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/WordVectors.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/VectorSpaceModel.png)
-![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModellingNamedEntityRecognition.png)
 
 ## Topic Modelling and Named-Entity Recognition
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModellingNamedEntityRecognition.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModelling.png)
 
 ## Dependency Trees
