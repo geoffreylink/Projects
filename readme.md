@@ -1,10 +1,8 @@
 # Welcome!
-
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
 
 ## 10mR
-
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -104,6 +102,10 @@
 * [MLSS](http://mlss.cc)
 * [SIGKDD](https://www.kdd.org)
 * [Eyeo Festival](http://eyeofestival.com)
+
+## Presentations
+
+* [Big Data & Bloomberg News - Using Python in Financial Markets by Saeed Amen from QuantCon 2018](https://www.youtube.com/watch?v=-jlIwFcbFl4)
 
 ## Cool Tools
 
