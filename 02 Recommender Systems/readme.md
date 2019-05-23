@@ -12,6 +12,9 @@
 * [DOMINO - Recommender Systems through Collaborative Filtering](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
 * [Building recommender systems with Azure Machine Learning service](https://azure.microsoft.com/en-us/blog/building-recommender-systems-with-azure-machine-learning-service/)
 
+## Personalization
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/Personalization.png)
+
 ## The Paradox of Choice
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/TheParadoxOfChoice.png)
 
