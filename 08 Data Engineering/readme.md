@@ -1,6 +1,7 @@
 ## Reference
 
 * [pythex](https://pythex.org)
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Awesome Python](https://awesome-python.com)
 * [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
 * [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)
