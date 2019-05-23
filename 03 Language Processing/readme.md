@@ -1,5 +1,6 @@
 ## Reference
 
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [Berkeley 266-project](https://github.com/bwputman/266-project)
 * [Beginners Guide to Topic Modeling](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
 * [Natural Language Processing with Deep Learning](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
