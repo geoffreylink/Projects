@@ -1,5 +1,6 @@
 ## Reference
 
+* [Dask](https://dask.org)
 * [pythex](https://pythex.org)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Awesome Python](https://awesome-python.com)
