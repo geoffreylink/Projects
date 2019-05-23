@@ -208,3 +208,4 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AmountOfData.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ExplorationExploitation.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AIProjectCanvas.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/4-Vs-of-big-data.jpg)
