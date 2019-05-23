@@ -10,17 +10,15 @@
 ## Visuals
 
 NLP relies on machine learning to derive meaning from human languages by analysis of the text semantics and syntax.
-
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLPvsNLUvsASR.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLUTasks.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/SyntaticAnalysisTechniques.png)
-
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/BotEvolution.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/AnatomyOfaChatbot.png)
 
 ## Cosine Similiary Between Words
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/CosineSimilarityBetweenWords.png)
-
+![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/VectorSpaceModel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopSixPythonNLPLibraries.png)
 
 ## Text Cleaning and Entity Recognition
