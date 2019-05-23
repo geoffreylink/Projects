@@ -26,7 +26,6 @@
 * [Reinforcement Learning Applications: A Brief Guide on How to Get Business Value from RL](https://blog.goodaudience.com/reinforcement-learning-applications-a-brief-guide-on-how-to-get-business-value-from-rl-d46c12f3bc99)
 
 ## Reference
-
 * [DataTau](http://www.datatau.com)
 * [TopCoder](https://www.topcoder.com)
 * [DataHubbs](https://www.datahubbs.com)
@@ -45,7 +44,6 @@
 * [Top Sources For Machine Learning Datasets](https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b)
 
 ## Free Online Books
-
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [H2O Resources](https://www.h2o.ai/resources/)
@@ -64,7 +62,6 @@
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## Blogs
-
 * [AWS](https://aws.amazon.com/blogs/aws/)
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
 * [Intuit](https://quickbooks-engineering.intuit.com)
@@ -95,7 +92,6 @@
 * [The State of the Octoverse](https://octoverse.github.com)
 
 ## Conferences
-
 * [NIPS](https://nips.cc)
 * [ICML](https://icml.cc)
 * [CVPR](http://cvpr2017.thecvf.com)
@@ -104,11 +100,9 @@
 * [Eyeo Festival](http://eyeofestival.com)
 
 ## Presentations
-
 * [Big Data & Bloomberg News - Using Python in Financial Markets by Saeed Amen from QuantCon 2018](https://www.youtube.com/watch?v=-jlIwFcbFl4)
 
 ## Cool Tools
-
 * [jq](https://stedolan.github.io/jq/)
 * [htop](https://hisham.hm/htop/)
 * [tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
@@ -121,7 +115,6 @@
 * [Big-O Cheet Sheet](http://bigocheatsheet.com)
 
 ## Nerd Heros
-
 * [Chis Albon](https://chrisalbon.com)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Evan Miller](http://www.evanmiller.org)
@@ -150,13 +143,11 @@
 * [Jesse Steinweg-Woods](https://jessesw.com)
 
 ## Online Education
-
 * [Stanford](https://cs.stanford.edu)
 * [Georgia Tech](https://www.cc.gatech.edu)
 * [University of Pennsylvania](https://cis.upenn.edu/index.php)
 
 ## Cerebral Humor
-
 * [Extrapolating](https://xkcd.com/605/)
 * [Fast, Good, Cheap](https://fastgood.cheap)
 * [Machine Learning](https://xkcd.com/1838/)
@@ -164,30 +155,24 @@
 * [Frequentists vs. Bayesians](https://xkcd.com/1132/)
 
 ## Bots and Automation
-
 * [Chatbots Life](https://chatbotslife.com/ingredients-to-build-a-successful-chatbot-3ed87934e31d)
 * [McKinsey Global Institute -> Automation](https://www.mckinsey.com/~/media/mckinsey/featured%20insights/Digital%20Disruption/Harnessing%20automation%20for%20a%20future%20that%20works/MGI-A-future-that-works-Executive-summary.ashx) 
 
 ## IoT
-
 * [McKinsey Global Institute -> IoT](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/The%20Internet%20of%20Things%20The%20value%20of%20digitizing%20the%20physical%20world/The-Internet-of-things-Mapping-the-value-beyond-the-hype.ashx)
 
 ## BlockChain
-
 * [What Is Blockchain?](https://www.youtube.com/watch?v=nZPfu21yWhQ)
 * [Walmart - IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
 * [How Blockchain Went From Bitcoin To Big Business](https://www.youtube.com/watch?v=ahWcUZfSufI)
 
 ## Augmented Reality
-
 * [IKEA](https://www.youtube.com/watch?v=vDNzTasuYEw)
 
 ## Healthcare
-
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MedicalMachineLearningAlgorithms.png)
 
 ## A Visual Guide to Data Science
-
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningHighLevel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceApproach.png)
