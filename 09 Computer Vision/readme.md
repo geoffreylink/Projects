@@ -3,6 +3,7 @@
 * [Pillow](https://python-pillow.org)
 * [OpenCV](https://opencv.org)
 * [OpenMV](https://openmv.io)
+* [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
 * [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
 
 ## Object Detection
