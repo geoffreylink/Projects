@@ -14,6 +14,7 @@
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
 * [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
+* [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [Which Data Science Bootcamp is right for you?](https://towardsdatascience.com/which-data-science-bootcamp-is-right-for-you-ab2f7bf49d28)
 * [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
