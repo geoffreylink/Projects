@@ -12,3 +12,9 @@ While edge computing exclusively refers to compute at the ingress of the network
 
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 * [Fog Computing](https://en.wikipedia.org/wiki/Fog_computing)
+* [AWS Lambda@Edge](https://aws.amazon.com/lambda/edge/)
+* [What Is Edge Computing?](https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/)
+* [Moving the Cloud to the Edge](https://www.pubnub.com/blog/moving-the-cloud-to-the-edge-computing/)
+* [A Beginner's Guide to Edge Computing](https://velotio.com/blog/2018/7/17/edge-computing)
+* [Edge Computing — The New Frontier of the Web](https://hackernoon.com/edge-computing-a-beginners-guide-8976b6886481)
+* [Why edge computing is the next wave for our increasingly digital lives](https://www.itproportal.com/features/why-edge-computing-is-the-next-wave-for-our-increasingly-digital-lives/)
