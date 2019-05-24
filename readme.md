@@ -208,3 +208,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/4-Vs-of-big-data.jpg)
 * [6 Strategies for Migrating Applications to the Cloud](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/6Rs.png)
+
+## Minimize Security Blast Radius, Maximize Development Flexibility
+
