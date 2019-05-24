@@ -2,6 +2,7 @@
 
 * [NetworkX](https://networkx.github.io)
 * [NetworKit](https://networkit.github.io)
+* [Plotly Graphs](https://plot.ly/python/network-graphs/#create-network-graph)
 * [The Marvel Universe](https://www.kaggle.com/csanhueza/the-marvel-universe-social-network)
 * [Social circles: Facebook](https://snap.stanford.edu/data/egonets-Facebook.html)
 * [Stack Overflow Tag Network](https://www.kaggle.com/stackoverflow/stack-overflow-tag-network/kernels)
