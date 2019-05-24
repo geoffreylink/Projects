@@ -212,5 +212,5 @@
 ## 7 Guiding Principles For a Mature Cloud Strategy
 ![](https://github.com/geoffreylink/Projects/blob/master/images/7GuidingPrinciplesForMatureCloudStrategy.png)
 
-## Minimize Security Blast Radius, Maximize Development Flexibility
+## Minimize Security Blast Radius, Maximize Development Agility
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MinimizeBlastRadius.png)
