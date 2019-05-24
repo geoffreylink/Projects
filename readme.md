@@ -4,6 +4,7 @@
 
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
+* [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Explained Visually](http://setosa.io/ev/)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
