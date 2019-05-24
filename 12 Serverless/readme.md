@@ -1,5 +1,6 @@
 ## Reference
 
+* [GraphQL](https://graphql.org)
 * [Serverless](https://serverless.com)
 * [OpenFAAS](https://www.openfaas.com)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
