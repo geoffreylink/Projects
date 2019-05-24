@@ -22,7 +22,7 @@
 * [Network analysis to quickly get insight into an academic field with python](https://towardsdatascience.com/network-analysis-to-quickly-get-insight-into-an-academic-field-with-python-cd891717d547)
 * [An Introduction to Graph Theory and Network Analysis (with Python codes)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
 
-Graphs are mathematical structures used to study pairwise relationships between objects and entities
+[Graphs are mathematical structures used to study pairwise relationships between objects and entities](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
 
 ## Graph Types
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Network%20Analysis/images/GraphTypes.png)
