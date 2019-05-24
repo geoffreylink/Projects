@@ -1,6 +1,7 @@
 ## Reference
 
 * [NetworkX](https://networkx.github.io)
+* [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
 * [Social Network Analysis in Python](https://www.datacamp.com/community/tutorials/social-network-analysis-python)
 * [NetworkX: Network Analysis with Python](https://www.cl.cam.ac.uk/~cm542/teaching/2011/stna-pdfs/stna-lecture11.pdf)
 * [Creating Beautiful Twitter Graphs with Python](https://towardsdatascience.com/creating-beautiful-twitter-graphs-with-python-c9b73bd6f887)
