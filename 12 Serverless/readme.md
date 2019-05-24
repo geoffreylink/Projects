@@ -35,6 +35,9 @@
 ## Effective Cost By Function Memory Size
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EffectiveCostByMemorySize.png)
 
+## Javascript Lines of Code
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/JavascriptLinesOfCode.png)
+
 ## Edge Computing
 
 Edge computing is a method of optimizing cloud computing systems by performing data processing at the edge of the network near the source of the data.
