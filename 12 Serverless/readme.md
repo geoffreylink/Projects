@@ -3,6 +3,12 @@
 * [Serverless](https://serverless.com)
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
 
+## Lambda Cold Starts
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
+
+## Effective Cost By Memory Size
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EffectiveCostByMemorySize.png)
+
 ## Edge Computing
 
 Edge computing is a method of optimizing cloud computing systems by performing data processing at the edge of the network near the source of the data.
