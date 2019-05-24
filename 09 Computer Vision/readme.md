@@ -1,6 +1,7 @@
 ## Reference
 
 * [OpenCV](https://opencv.org)
+* [Pillow](https://python-pillow.org)
 * [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
 
 ## Object Detection
