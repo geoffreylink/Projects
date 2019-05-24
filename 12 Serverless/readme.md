@@ -2,6 +2,7 @@
 
 * [Serverless](https://serverless.com)
 * [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
+* [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
