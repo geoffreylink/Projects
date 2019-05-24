@@ -4,6 +4,7 @@
 * [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_Reliability_Engineering)
 * [Principles of Chaos Engineering](http://principlesofchaos.org)
 * [How to Approach Self-Healing Systems](https://technologyconversations.com/2016/01/26/self-healing-systems/)
+* [AWS re:Invent 2018: Shift-Left SRE: Self-Healing with AWS Lambda Functions (DEV313-S)](https://youtu.be/PsI4pc0NtoI)
 * [Building Self-Healing Infrastructure-as-Code with Dynatrace, AWS Lambda, and AWS Service Catalog](https://aws.amazon.com/blogs/apn/building-self-healing-infrastructure-as-code-with-dynatrace-aws-lambda-and-aws-service-catalog/)
 
 ## Visuals
