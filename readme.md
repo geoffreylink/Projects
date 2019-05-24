@@ -196,6 +196,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceHistory.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceEcosystem.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceSkillset2.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/Unicorn.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceProfile.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScientistGeneralSkills.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScientistTechnologySkills.png)
