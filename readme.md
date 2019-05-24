@@ -209,5 +209,8 @@
 * [6 Strategies for Migrating Applications to the Cloud](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/6Rs.png)
 
-## Minimize Security Blast Radius, Maximize Development Flexibility
+## 7 Guiding Principles For a Mature Cloud Strategy
+![]()
 
+## Minimize Security Blast Radius, Maximize Development Flexibility
+![]()
