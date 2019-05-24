@@ -41,6 +41,12 @@
 ## Python vs Java Lines of Code
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/PythonvsJava.png)
 
+## Serverless Cost Comparison
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessCostComparison.png)
+
+## Free Tier Cost Comparison
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessFreeTierComparison.png)
+
 ## Edge Computing
 
 Edge computing is a method of optimizing cloud computing systems by performing data processing at the edge of the network near the source of the data.
