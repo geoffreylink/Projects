@@ -1,5 +1,4 @@
 ## Reference
-
 * [Dask](https://dask.org)
 * [pythex](https://pythex.org)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
@@ -15,7 +14,6 @@
 * [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 
 ## Privacy
-
 * Removal
 * Encryption
 * Tokenization
@@ -23,7 +21,6 @@
 * Differential Privacy
 
 ## Spark
-
 * Deep Learning
 * Fraud Detection
 * Anomaly Detection
@@ -39,14 +36,12 @@
 * Supervised learning, including classification and regression, where the goal is to predict a label for each data point based on various features
 
 ## Deployment
-
 * [PMML](https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language).  Convert distributed model to one that can run locally
 * Online data.  Structured Streaming - can be complex for some models
 * Offline data.  Not data that you need to get an answer from quickly.  Spark is well suited to this sort of deployment.  Persist the model to disk (not low latency, very high!)
 * Database (usually a key-value store).  This works well for something like recommendation but poorly for something like classification or regression where you cannot just look up a value for a given user but must calculate one based on the input
 
 ## Format
-
 * In the case of graph analytics, you will want a DataFrame of vertices and a DataFrame of edges
 * In the case of unsupervised learning, a column of type Vector (either dense or sparse) is needed to represent the features
 * In the case of recommendations, you want to get your data into a column of users, a column of items (say movies or books), and a column of ratings
@@ -54,36 +49,30 @@
 
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudInfrastructureMarketShare.png)
 
-## Cloud Computing Patterns & Variants
+## Containerization
+![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Containerization.png)
 
+## Cloud Computing Patterns & Variants
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingPatterns.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/CloudComputingVariants.png)
 
 ## Visual Guide to Data Engineering
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/DataEngineering.png)
 
 ## Data Pipeline
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/HighLevel_Pipeline.png)
 
 ## Layering with Kafka
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Layering_Kafka.png)
 
 ## Spark Streaming
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
 
 ## Netflix Streaming
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
 
 ## Spotify Discover Weekly
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/SpotifyDiscoverWeekly.png)
 
-
 ## Graphana Monitoring
-
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Graphana_Kafka.png)
