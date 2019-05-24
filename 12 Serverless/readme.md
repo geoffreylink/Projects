@@ -20,6 +20,9 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/BasicServerlessArchitecture.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/DeploymentAbstractions.png)
 
+## The Hidden Costs of Serverless
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/HiddenCostOfServerless.png)
+
 ## Lambda Cold Starts
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
 
