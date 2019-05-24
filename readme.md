@@ -175,6 +175,11 @@
 ## Healthcare
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MedicalMachineLearningAlgorithms.png)
 
+## Dynamic Pricing
+![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_03.png)
+
 ## A Visual Guide to Data Science
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningHighLevel.png)
