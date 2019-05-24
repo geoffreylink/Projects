@@ -5,6 +5,7 @@
 * [OpenMV](https://openmv.io)
 * [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
 * [Beginner's Guide to Google's Vision API in Python](https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api)
+* [Introduction to Computer Vision With OpenCV and Python](https://dzone.com/articles/introduction-to-computer-vision-with-opencv-and-py)
 * [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
 
 ## Object Detection
