@@ -11,6 +11,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/ContinuousIntegrationDeliveryDeployment_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/ContinuousIntegrationDeliveryDeployment_03.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/ContinuousIntegrationDeliveryDeployment_05.png)
+![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/UnbreakableCloudNativePipelines.png)
 
 ## The Agile-Scrum Framework
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileScrumFramework.png)
@@ -18,4 +19,3 @@
 ## DevOps
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/DevOps.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileDevOps1.png)
-![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/UnbreakableCloudNativePipelines.png)
