@@ -25,6 +25,7 @@
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
+* [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
 
 ## Machine Learning Decision Tree
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/SupervisedvsUnsupervised.png)
