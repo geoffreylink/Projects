@@ -149,9 +149,9 @@
 
 ## Cerebral Humor
 * [Extrapolating](https://xkcd.com/605/)
-* [Fast, Good, Cheap](https://fastgood.cheap)
 * [Machine Learning](https://xkcd.com/1838/)
 * [Analysis Paralysis](https://xkcd.com/1801/)
+* [Fast, Good, Cheap](https://fastgood.cheap)
 * [Significant P-values](https://xkcd.com/882/)
 * [Frequentists vs. Bayesians](https://xkcd.com/1132/)
 
