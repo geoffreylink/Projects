@@ -6,7 +6,7 @@
 ## Lambda Cold Starts
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
 
-## Effective Cost By Memory Size
+## Effective Cost By Function Memory Size
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EffectiveCostByMemorySize.png)
 
 ## Edge Computing
