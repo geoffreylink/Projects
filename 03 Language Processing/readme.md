@@ -42,7 +42,7 @@ NLP relies on machine learning to derive meaning from human languages by analysi
 ## TF-IDF (Term Frequency-Inverse Document Frequency)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TF-IDF.png)
 
-## Latent Dirichlet Allocation
+## Latent Dirichlet Allocation (Topic Modelling)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/LDA_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/LDA_02.png)
 
