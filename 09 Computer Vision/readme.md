@@ -3,6 +3,7 @@
 * [Pillow](https://python-pillow.org)
 * [OpenCV](https://opencv.org)
 * [OpenMV](https://openmv.io)
+* [AI with Python – Computer Vision](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_computer_vision.htm)
 * [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
 * [Beginner's Guide to Google's Vision API in Python](https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api)
 * [Introduction to Computer Vision With OpenCV and Python](https://dzone.com/articles/introduction-to-computer-vision-with-opencv-and-py)
