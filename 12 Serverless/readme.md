@@ -1,6 +1,7 @@
 ## Reference
 
 * [Serverless](https://serverless.com)
+* [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
 
 ## Edge Computing
 
