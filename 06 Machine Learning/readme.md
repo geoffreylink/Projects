@@ -85,3 +85,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HyperParameterTuning_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HyperParameterTuning_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/OnlineOfflineEvaluation.png)
+
+## Machine Learning Checklist
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningChecklist.png)
