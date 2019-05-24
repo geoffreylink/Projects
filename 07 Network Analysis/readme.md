@@ -5,6 +5,7 @@
 * [Plotly Graphs](https://plot.ly/python/network-graphs/#create-network-graph)
 * [The Marvel Universe](https://www.kaggle.com/csanhueza/the-marvel-universe-social-network)
 * [Social circles: Facebook](https://snap.stanford.edu/data/egonets-Facebook.html)
+* [Introduction to Networks](https://s3.amazonaws.com/assets.datacamp.com/production/course_3286/slides/ch1_slides.pdf)
 * [Stack Overflow Tag Network](https://www.kaggle.com/stackoverflow/stack-overflow-tag-network/kernels)
 * [Social Network Analysis in Python](https://www.datacamp.com/community/tutorials/social-network-analysis-python)
 * [Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
