@@ -1,8 +1,8 @@
 ## Reference
 
 * [Serverless](https://serverless.com)
-* [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
+* [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
 * [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
 * [AWS Lambda Language Comparison: Pros and Cons](https://epsagon.com/blog/aws-lambda-programming-language-comparison/)
