@@ -3,6 +3,7 @@
 * [Serverless](https://serverless.com)
 * [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
+* [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
 ## Lambda Cold Starts
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
