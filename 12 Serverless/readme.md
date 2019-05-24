@@ -26,8 +26,10 @@
 ## The 5 Cost Categories of Serverless
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/5CostCategoriesOfServerless.png)
 
-## Lambda Language Comparison and Cold Starts
+## Language Comparison
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/AWSLanguageComparison.png)
+
+## Lambda Cold Starts
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
 
 ## Effective Cost By Function Memory Size
