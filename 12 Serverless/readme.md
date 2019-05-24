@@ -18,3 +18,12 @@ While edge computing exclusively refers to compute at the ingress of the network
 * [A Beginner's Guide to Edge Computing](https://velotio.com/blog/2018/7/17/edge-computing)
 * [Edge Computing — The New Frontier of the Web](https://hackernoon.com/edge-computing-a-beginners-guide-8976b6886481)
 * [Why edge computing is the next wave for our increasingly digital lives](https://www.itproportal.com/features/why-edge-computing-is-the-next-wave-for-our-increasingly-digital-lives/)
+
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/CloudFogEdge_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/CloudFogEdge_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/CloudEdge.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/DeviceEdge.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EdgeEcosystem.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ConnectedCows.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/AWSGreenGrass.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EndOfCloudComputing.png)
