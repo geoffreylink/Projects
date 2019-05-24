@@ -2,6 +2,7 @@
 
 * [NetworkX](https://networkx.github.io)
 * [NetworKit](https://networkit.github.io)
+* [The Marvel Universe](https://www.kaggle.com/csanhueza/the-marvel-universe-social-network)
 * [Social Network Analysis in Python](https://www.datacamp.com/community/tutorials/social-network-analysis-python)
 * [Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
 * [Awesome Network Analysis Resources](https://github.com/briatte/awesome-network-analysis)
