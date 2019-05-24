@@ -7,9 +7,6 @@
 * [AWS re:Invent 2018: Shift-Left SRE: Self-Healing with AWS Lambda Functions (DEV313-S)](https://youtu.be/PsI4pc0NtoI)
 * [Building Self-Healing Infrastructure-as-Code with Dynatrace, AWS Lambda, and AWS Service Catalog](https://aws.amazon.com/blogs/apn/building-self-healing-infrastructure-as-code-with-dynatrace-aws-lambda-and-aws-service-catalog/)
 
-## Auto-tune Service Catalog Artifacts
-![](https://github.com/geoffreylink/Projects/blob/master/04%20Self-Healing%20Systems/images/AutoTuneServiceCatalogArtifacts.png)
-
 ## Types of Metrics to Monitor
 ![](https://github.com/geoffreylink/Projects/blob/master/04%20Self-Healing%20Systems/images/TypesOfMetrics.png)
 
@@ -19,3 +16,6 @@
 
 ## Auto-remediation
 ![](https://github.com/geoffreylink/Projects/blob/master/04%20Self-Healing%20Systems/images/Auto-remediation.png)
+
+## Auto-tune Service Catalog Artifacts
+![](https://github.com/geoffreylink/Projects/blob/master/04%20Self-Healing%20Systems/images/AutoTuneServiceCatalogArtifacts.png)
