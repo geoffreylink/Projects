@@ -18,8 +18,6 @@
 
 ## Basic Serverless Architecture
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/BasicServerlessArchitecture.png)
-
-## Deployment Abstractions
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/DeploymentAbstractions.png)
 
 ## Lambda Cold Starts
