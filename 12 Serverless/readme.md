@@ -11,7 +11,9 @@
 * [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
 * [AWS Lambda Language Comparison: Pros and Cons](https://epsagon.com/blog/aws-lambda-programming-language-comparison/)
+* [How Much Does It Cost To Run A Serverless API on AWS?](https://alestic.com/2016/12/aws-invoice-example/)
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
+* [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
 ## Lambda Cold Starts
