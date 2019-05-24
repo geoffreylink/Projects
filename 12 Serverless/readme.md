@@ -23,6 +23,9 @@
 ## The Hidden Costs of Serverless
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/HiddenCostOfServerless.png)
 
+## The 5 Cost Categories of Serverless
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/5CostCategoriesOfServerless.png)
+
 ## Lambda Cold Starts
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
 
