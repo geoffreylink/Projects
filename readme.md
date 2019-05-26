@@ -7,8 +7,8 @@
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-* [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
+* [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
