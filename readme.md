@@ -26,7 +26,6 @@
 ## Interview Resources
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
 * [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
 * [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [Why I Write a Data Science Blog](https://towardsdatascience.com/why-i-write-a-data-science-blog-7726c3c7d3d9)
@@ -34,6 +33,7 @@
 * [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 * [Which Data Science Bootcamp is right for you?](https://towardsdatascience.com/which-data-science-bootcamp-is-right-for-you-ab2f7bf49d28)
 * [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
+* [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
 * [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
 
 ## Reference
