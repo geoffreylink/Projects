@@ -26,9 +26,9 @@
 ## Interview Resources
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
 * [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [Why I Write a Data Science Blog](https://towardsdatascience.com/why-i-write-a-data-science-blog-7726c3c7d3d9)
+* [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
 * [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
 * [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 * [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
