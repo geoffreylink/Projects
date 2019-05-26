@@ -1,5 +1,7 @@
 # Welcome!
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+
+## Interview Resources
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
 
 ## Project Management
