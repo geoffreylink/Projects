@@ -3,6 +3,7 @@
 
 ## Project Management
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
+* [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
@@ -10,11 +11,8 @@
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
-* [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
-* [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
-* [Why I Write a Data Science Blog](https://towardsdatascience.com/why-i-write-a-data-science-blog-7726c3c7d3d9)
 * [Top AI algorithms for Healthcare](https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330)
 * [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
@@ -30,6 +28,8 @@
 
 ## Interview Resources
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
+* [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
+* [Why I Write a Data Science Blog](https://towardsdatascience.com/why-i-write-a-data-science-blog-7726c3c7d3d9)
 * [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
 * [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
 * [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
