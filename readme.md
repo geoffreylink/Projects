@@ -2,11 +2,13 @@
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
 ## Project Management
+* [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
+* [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
+* [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
 
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
-* [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Explained Visually](http://setosa.io/ev/)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -17,16 +19,9 @@
 * [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
-* [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
-* [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
-* [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
-* [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-* [Which Data Science Bootcamp is right for you?](https://towardsdatascience.com/which-data-science-bootcamp-is-right-for-you-ab2f7bf49d28)
-* [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 * [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 * [6 Tools that Make Microsoft the Go-to for Machine Learning Now](https://medium.com/datadriveninvestor/6-reasons-microsoft-has-become-the-go-to-for-machine-learning-e642864ef5f5)
-* [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
 * [Why VPNs Are Suddenly Everywhere, and How to Pick the Best One](https://onezero.medium.com/why-vpns-are-suddenly-everywhere-and-how-to-pick-the-best-one-22d4cfdeff6f)
 * [How Microsoft Azure Machine Learning Studio Clarifies Data Science](https://towardsdatascience.com/how-microsoft-azure-machine-learning-studio-clarifies-data-science-8e8d3e6ed64e)
 * [Why does Uber charge me more than my friend? AI and Dynamic Pricing](https://medium.com/swlh/why-is-your-friend-getting-a-cheaper-uber-fare-than-you-ai-and-the-new-frontier-in-dynamic-pricing-2b7d908deed0)
@@ -35,6 +30,11 @@
 
 ## Interview Resources
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
+* [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
+* [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
+* [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
+* [Which Data Science Bootcamp is right for you?](https://towardsdatascience.com/which-data-science-bootcamp-is-right-for-you-ab2f7bf49d28)
+* [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 
 ## Reference
 * [DataTau](http://www.datatau.com)
