@@ -1,9 +1,6 @@
 # Welcome!
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
-## Interview Resources
-* [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
-
 ## Project Management
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
 
@@ -35,6 +32,9 @@
 * [Why does Uber charge me more than my friend? AI and Dynamic Pricing](https://medium.com/swlh/why-is-your-friend-getting-a-cheaper-uber-fare-than-you-ai-and-the-new-frontier-in-dynamic-pricing-2b7d908deed0)
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
 * [Reinforcement Learning Applications: A Brief Guide on How to Get Business Value from RL](https://blog.goodaudience.com/reinforcement-learning-applications-a-brief-guide-on-how-to-get-business-value-from-rl-d46c12f3bc99)
+
+## Interview Resources
+* [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
 
 ## Reference
 * [DataTau](http://www.datatau.com)
