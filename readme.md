@@ -8,6 +8,7 @@
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
+* [What I’ve Learned Working with 12 Machine Learning Startups](https://towardsdatascience.com/what-ive-learned-working-with-12-machine-learning-startups-a9a3026d2419)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 
 ## 10mR
