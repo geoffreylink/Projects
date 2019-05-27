@@ -22,6 +22,7 @@
 * [Neural Network Activation Function Types](https://medium.com/fintechexplained/neural-network-activation-function-types-a85963035196)
 * [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
+* [Quick Reference for Neural Networks & Keras](https://medium.com/@billypyu/quick-reference-neural-networks-keras-90341f556264)
 * [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 * [Auto-Encoder: What Is It? And What Is It Used For?](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)
