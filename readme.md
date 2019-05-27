@@ -40,6 +40,7 @@
 * [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 * [An Interactive Guide to Data Science Methodologies](https://www.saedsayad.com/data_mining_map.htm)
 * [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
+* [How to become a developer and get your first job as quickly as possible](https://www.freecodecamp.org/news/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6/?source=email-57940e023ce1-1558953718025-digest.reader------3-50------------------9e13b338_6903_40c4_8fca_355ca5d05507-1&sectionName=top)
 
 ## Reference
 * [DataTau](http://www.datatau.com)
