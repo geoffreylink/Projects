@@ -13,6 +13,7 @@
 * [Generalized Additive Models](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
+* [Churn Prediction and Prevention in Python](https://towardsdatascience.com/churn-prediction-and-prevention-in-python-2d454e5fd9a5)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
