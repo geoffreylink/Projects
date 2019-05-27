@@ -12,7 +12,7 @@
 * [Ultimate Guide to Understanding & Implementing Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 * [Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)](https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/)
 
-## Terminology and Applications
+## Terminology & Applications
 
 NLP relies on machine learning to derive meaning from human languages by analysis of the text semantics and syntax.
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/NLPvsNLUvsASR.png)
@@ -32,7 +32,7 @@ NLP relies on machine learning to derive meaning from human languages by analysi
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/WordVectors.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/VectorSpaceModel.png)
 
-## Topic Modelling and Named-Entity Recognition
+## Topic Modelling & Named-Entity Recognition
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModellingNamedEntityRecognition.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/03%20Language%20Processing/images/TopicModelling.png)
 
