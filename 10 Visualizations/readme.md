@@ -30,20 +30,14 @@
 * [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
 * [Visualizing The Customer Journey With Google Analytics Data](https://www.bounteous.com/insights/2017/09/12/visualizing-customer-journey-google-analytics-data/?ns=l)
 
+## Great Data Visualizations
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/GreatDataVisualization.jpg)
+
 ## Choosing the Correct Data Visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/ChoosingTheCorrectDataVisualization.jpeg)
 
-## Visualizations_01.png
+## A Visual Guide to Visualizations
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_01.png)
-
-## Visualizations_02.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_02.png)
-
-## Visualizations_03.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_03.png)
-
-## Visualizations_04.png
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_04.png)
-
-## Great Data Visualizations
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/GreatDataVisualization.jpg)
