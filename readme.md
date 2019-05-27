@@ -4,8 +4,8 @@
 ## Project Management
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
-* [Comparing Image Recognition APIs](https://www.upwork.com/hiring/data/comparing-image-recognition-apis/)
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
+* [Comparing Image Recognition APIs](https://www.upwork.com/hiring/data/comparing-image-recognition-apis/)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
