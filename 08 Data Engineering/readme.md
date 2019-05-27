@@ -68,11 +68,11 @@
 ## Spark Streaming
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Spark.png)
 
-## Netflix Streaming
+## Netflix
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Streaming_Netflix.png)
 
 ## Spotify
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/SpotifyDiscoverWeekly.png)
 
-## Graphana Monitoring
+## Graphana
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Data%20Engineering/images/Graphana_Kafka.png)
