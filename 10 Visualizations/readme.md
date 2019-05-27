@@ -34,7 +34,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/GreatDataVisualization.jpg)
 
 ## Choosing the Correct Data Visualization
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/ChoosingTheCorrectDataVisualization.jpeg)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/ChoosingTheCorrectDataVisualization.jpeg)
 
 ## A Visual Guide to Visualizations
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/Visualizations_01.png)
