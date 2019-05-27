@@ -9,6 +9,7 @@
 * [Easy Tensorflow](http://www.easy-tensorflow.com)
 * [Capsule Networks](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+* [What Are Hidden Layers?](https://medium.com/fintechexplained/what-are-hidden-layers-4f54f7328263)
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Neural Networks Bias And Weights](https://medium.com/fintechexplained/neural-networks-bias-and-weights-10b53e6285da)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
