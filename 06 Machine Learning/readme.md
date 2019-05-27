@@ -37,7 +37,7 @@
 ## Kaggle Winners
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/KaggleWinners.png)
 
-## Classification and Regression Loss Functions
+## Classification & Regression Loss Functions
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ClassificationAndRegressionLossFunctions.png)
 
 ## Common Evaluation Metrics
@@ -84,7 +84,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/ShuffleDataToBalanceData.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HoldoutValidation.png)
 
-## Hyperparameter Tuning and Model Training
+## Hyperparameter Tuning & Model Training
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HyperParameterTuning_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/HyperParameterTuning_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/OnlineOfflineEvaluation.png)
