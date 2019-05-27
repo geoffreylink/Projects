@@ -17,6 +17,7 @@
 * [An Introduction to Transfer Learning](https://medium.com/georgian-impact-blog/transfer-learning-part-1-ed0c174ad6e7)
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [Reinforcement Learning With Python — AI](https://medium.com/@rinu.gour123/reinforcement-learning-with-python-ai-92951084a9e6)
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
 * [Neural Network Activation Function Types](https://medium.com/fintechexplained/neural-network-activation-function-types-a85963035196)
 * [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
