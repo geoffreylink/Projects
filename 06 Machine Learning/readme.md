@@ -24,6 +24,7 @@
 * [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
+* [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
