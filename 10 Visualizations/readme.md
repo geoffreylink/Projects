@@ -30,7 +30,7 @@
 * [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
 * [Visualizing The Customer Journey With Google Analytics Data](https://www.bounteous.com/insights/2017/09/12/visualizing-customer-journey-google-analytics-data/?ns=l)
 
-## Great Data Visualizations
+## Great Data Visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/GreatDataVisualization.jpg)
 
 ## Choosing the Correct Data Visualization
