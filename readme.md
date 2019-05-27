@@ -10,6 +10,7 @@
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
 * [What I’ve Learned Working with 12 Machine Learning Startups](https://towardsdatascience.com/what-ive-learned-working-with-12-machine-learning-startups-a9a3026d2419)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
+* [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
