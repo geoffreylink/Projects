@@ -45,6 +45,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
 
 ## Artificial Neural Network
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ForwardAndBackwardPropagation.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsActivation.png)
