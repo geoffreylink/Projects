@@ -142,5 +142,6 @@ There are many popular activation functions that play a significant role in buil
 ## Model Tuning
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/AugmentedCat.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Dropout.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Overfitting.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/EarlyStopping.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ParsimonyWins.png)
