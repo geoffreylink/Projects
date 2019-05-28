@@ -72,6 +72,14 @@
 
 * __Deep Generative Models__
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_04.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_05.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_06.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_07.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_08.png)
 
 ## Keras Lifecycle
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Keras_Lifecycle.png)
