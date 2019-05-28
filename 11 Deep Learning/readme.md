@@ -72,6 +72,13 @@
 
 * __Deep Generative Models__
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
+
+## Neural Network Layers, Weights, and Bias
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_04.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_05.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_03.png)
