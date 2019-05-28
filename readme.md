@@ -14,6 +14,8 @@
 * [What I’ve Learned Working with 12 Machine Learning Startups](https://towardsdatascience.com/what-ive-learned-working-with-12-machine-learning-startups-a9a3026d2419)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
+
+### How to Fail an AI Project
 ![](https://github.com/geoffreylink/Projects/blob/master/images/BestWaysToFailAIProject.png)
 
 ## 10mR
