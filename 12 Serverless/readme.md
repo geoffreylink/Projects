@@ -73,3 +73,7 @@ While edge computing exclusively refers to compute at the ingress of the network
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ConnectedCows.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/AWSGreenGrass.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EndOfCloudComputing.png)
+
+## SOAP vs. REST
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/SOAPvsREST_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/SOAPvsREST_02.png)
