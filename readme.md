@@ -16,9 +16,11 @@
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 
 * __How to Fail an AI Project__
+
 ![](https://github.com/geoffreylink/Projects/blob/master/images/BestWaysToFailAIProject.png)
 
 * __Reducing Technical Debt__
+
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
 
 ## 10mR
