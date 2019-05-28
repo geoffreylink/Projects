@@ -77,7 +77,6 @@ The estimation of the model is obtained by maximizing the log-likelihood over th
 
 ## Regression and Errors
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/LinearRegression.png)
-
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MultipleLinearRegression.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MeanAbsoluteError.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MeanSquaredError.png)
-![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MultipleLinearRegression.png)
