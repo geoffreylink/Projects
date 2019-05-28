@@ -74,3 +74,9 @@ The estimation of the model is obtained by maximizing the log-likelihood over th
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Variance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Covariance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/CustomerJourney.png)
+
+## Regression and Errors
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/LinearRegression.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MeanAbsoluteError.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MeanSquaredError.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/MultipleLinearRegression.png)
