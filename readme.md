@@ -15,6 +15,7 @@
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 
+
 * __How to Fail an AI Project__
 
 ![](https://github.com/geoffreylink/Projects/blob/master/images/BestWaysToFailAIProject.png)
