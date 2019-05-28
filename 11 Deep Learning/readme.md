@@ -87,7 +87,7 @@ Activation functions play a key role in every neural network. They decide which 
 
 Activation functions take the weighted sum of inputs plus a bias as input to the function (w(i)*x(i)+b) and perform the necessary computation to decide which nodes to fire in a layer.
 
-There are many popular activation functions that play a significant role in building a neural network. Choosing the right activation function depends on the kind of task you are performing.
+There are many popular activation functions that play a significant role in building a neural network. Choosing the correct activation function depends on the kind of task you are performing.
 
 * __Linear function__
 
