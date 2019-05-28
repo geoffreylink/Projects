@@ -89,6 +89,9 @@ Activation functions take the weighted sum of inputs plus a bias as input to the
 
 There are 5 popular activation functions that play a significant role in building a neural network. Choosing the right activation function depends on the kind of task you are performing.
 
+* __Linear function__
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LinearFunction.png)
+
 * __Step function__ - also known as a Threshold function. Here we set a threshold value and if the Y value(output) is greater than the threshold value, the function is activated and fired, else it is not fired.
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/StepFunction.png)
 
