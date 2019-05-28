@@ -92,3 +92,8 @@
 
 ## Machine Learning Checklist
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/MachineLearningChecklist.png)
+
+## Dealing with a Lack of Data
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/LackOfData_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/LackOfData_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/LackOfData_03.png)
