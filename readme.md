@@ -15,8 +15,11 @@
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 
-### How to Fail an AI Project
+* __How to Fail an AI Project__
 ![](https://github.com/geoffreylink/Projects/blob/master/images/BestWaysToFailAIProject.png)
+
+* __Reducing Technical Debt__
+![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
 
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
