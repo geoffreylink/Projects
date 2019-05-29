@@ -10,6 +10,7 @@
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
+* [How to Get Better at Estimating Software Development Time](https://hackernoon.com/barriers-to-effective-software-effort-estimation-and-how-to-avoid-them-4abd39f09f26)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
 * [What I’ve Learned Working with 12 Machine Learning Startups](https://towardsdatascience.com/what-ive-learned-working-with-12-machine-learning-startups-a9a3026d2419)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
