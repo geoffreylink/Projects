@@ -16,6 +16,9 @@
 ## The Agile-Scrum Framework
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileScrumFramework.png)
 
+## SCRUM Cheat Sheet
+![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/SCRUMCheatSheet.jpg)
+
 ## DevOps
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/DevOps.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileDevOps1.png)
