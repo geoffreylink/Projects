@@ -21,6 +21,7 @@
 * [5 Powerful Scikit-Learn Examples](https://towardsdatascience.com/5-powerful-scikit-learn-models-e9b12375320d)
 * [Building Intuition for Random Forests](https://medium.com/x8-the-ai-community/building-intuition-for-random-forests-76d36fa28c5e)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [A Deep Dive Into Imbalanced Data: Over-Sampling](https://towardsdatascience.com/a-deep-dive-into-imbalanced-data-over-sampling-f1167ed74b5)
 * [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 * [Why and How to do Cross Validation for Machine Learning](https://towardsdatascience.com/why-and-how-to-do-cross-validation-for-machine-learning-d5bd7e60c189)
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
