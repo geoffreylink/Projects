@@ -50,10 +50,10 @@
 ## Free Tier Cost Comparison
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessFreeTierComparison.png)
 
-## Native Application Deployment for Devices
+## Native Deployment for Devices
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/NativeAppDeployment.png)
 
-## Hybrid Application Deployment for Devices
+## Hybrid Deployment for Devices
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/HybridAppDeployment.png)
 
 ## Edge Computing
