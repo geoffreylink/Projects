@@ -10,6 +10,7 @@
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 * [Auto-scaling scikit-learn with Apache Spark](https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html)
 * [Ever Wonder How Spotify Discover Weekly Works?](http://blog.galvanize.com/spotify-discover-weekly-data-science/)
+* [Once You’re in the Cloud, How Expensive Is It to Get Out?](https://www.nefiber.com/blog/cloud-egress-charges/)
 * [Why Are There So Many Pythons? A Python Implementation Comparison](https://www.toptal.com/python/why-are-there-so-many-pythons)
 * [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 
