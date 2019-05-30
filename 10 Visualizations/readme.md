@@ -19,6 +19,7 @@
 * [Observable](https://observablehq.com)
 * [Plotly Dash](https://plot.ly/products/dash/)
 * [Jupyter Dashboards](https://jupyter-dashboards-layout.readthedocs.io/en/latest/)
+* [10 Python image manipulation tools](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)
 
 ## Reference
 
