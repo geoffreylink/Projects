@@ -20,6 +20,9 @@
 ## SCRUM Cheat Sheet
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/SCRUMCheatSheet.jpg)
 
+## SCRUM Task Board
+![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/SCRUMTaskBoard.png)
+
 ## DevOps
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/DevOps.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileDevOps1.png)
