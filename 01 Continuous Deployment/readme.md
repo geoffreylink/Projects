@@ -17,6 +17,9 @@
 ## The Agile-Scrum Framework
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileScrumFramework.png)
 
+## Agile Lowers Risk
+![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileLowersRisk.png)
+
 ## SCRUM Cheat Sheet
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/SCRUMCheatSheet.jpg)
 
