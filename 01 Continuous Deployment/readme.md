@@ -1,5 +1,6 @@
 ## Reference
 * [Agile Scrum Process in a Nutshell](https://medium.com/@realjoselara/agile-scrum-process-in-a-nutshell-6ec32a59efb)
+* [Scrum to Lean Kanban - some problems and pitfalls](https://sites.google.com/site/wicmitchell/home/scrum-to-lean-kanban---some-problems-and-pitfalls)
 * [Unbreakable DevOps Pipeline Tutorial with AWS CodeDeploy, AWS CodePipeline, AWS Lambda, EC2 and Dynatrace](https://github.com/Dynatrace/AWSDevOpsTutorial)
 
 ## Presentations
