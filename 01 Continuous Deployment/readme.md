@@ -17,7 +17,7 @@
 ## The Agile-Scrum Framework
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileScrumFramework.png)
 
-## Agile Lowers Risk by Reducing Work Increments, thus Allowing for Fluid Requirements
+## Agile Lowers Risk by Reducing Work Increments and allowing Fluid Requirements
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileLowersRisk.png)
 
 ## SCRUM Cheat Sheet
