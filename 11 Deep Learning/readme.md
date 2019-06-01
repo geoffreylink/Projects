@@ -12,6 +12,7 @@
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Moving from Keras to Pytorch](https://towardsdatascience.com/moving-from-keras-to-pytorch-f0d4fff4ce79)
 * [Neural Networks Bias And Weights](https://medium.com/fintechexplained/neural-networks-bias-and-weights-10b53e6285da)
+* [China’s Big AI Advantage: Humans](https://www.youtube.com/watch?v=tMZgRTQ-hv4)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 * [An Introduction to Transfer Learning](https://medium.com/georgian-impact-blog/transfer-learning-part-1-ed0c174ad6e7)
