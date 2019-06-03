@@ -137,6 +137,7 @@ There are many popular activation functions that play a significant role in buil
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SoftmaxFunction_02.png)
 
 ## Transfer Learning
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_Basic.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_03.png)
