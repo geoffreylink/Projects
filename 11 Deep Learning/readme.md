@@ -106,7 +106,8 @@
 ## Batch Normalization
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/BatchNormalization.png)
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ActivationFunctions.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ActivationFunctions_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ActivationFunctions_02.png)
 
 Activation functions play a key role in every neural network. They decide which nodes to fire in a particular layer. These functions are applied to hidden as well as to the output layers of a neural network.
 
