@@ -1,4 +1,5 @@
 ## Reference
+* [CS231n](http://cs231n.github.io/neural-networks-1/)
 * [DeepAI](https://deepai.org)
 * [Go Deep](http://www.godeep.ml)
 * [Tensorflow](https://www.tensorflow.org/tutorials)
