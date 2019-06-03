@@ -71,7 +71,8 @@
 
 * __Convolutional Neural Network__
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/BasicCNN.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork_02.png)
 
 * __VGG16__
 
