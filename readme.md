@@ -26,7 +26,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
 
 ## 10mR
-* [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
