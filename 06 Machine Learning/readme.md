@@ -19,6 +19,7 @@
 * [A Beginner’s guide to XGBoost](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7)
 * [Open Machine Learning Course](https://mlcourse.ai)
 * [5 Powerful Scikit-Learn Examples](https://towardsdatascience.com/5-powerful-scikit-learn-models-e9b12375320d)
+* [SVM: Feature Selection and Kernels](https://towardsdatascience.com/svm-feature-selection-and-kernels-840781cc1a6c)
 * [Building Intuition for Random Forests](https://medium.com/x8-the-ai-community/building-intuition-for-random-forests-76d36fa28c5e)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Support Vector Machine vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
