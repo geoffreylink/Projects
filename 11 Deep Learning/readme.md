@@ -9,6 +9,7 @@
 * [Capsule Networks](https://medium.com/ai³-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 * [What Are Hidden Layers?](https://medium.com/fintechexplained/what-are-hidden-layers-4f54f7328263)
+* [A Glossary of Deep Learning](https://medium.com/deeper-learning/a-glossary-of-deep-learning-9cb6292e087e)
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Moving from Keras to Pytorch](https://towardsdatascience.com/moving-from-keras-to-pytorch-f0d4fff4ce79)
 * [China’s Big AI Advantage: Humans](https://www.youtube.com/watch?v=tMZgRTQ-hv4)
