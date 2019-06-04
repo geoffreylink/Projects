@@ -1,4 +1,5 @@
 ## Reference
+* [Finviz](https://finviz.com/map.ashx?t=sec)
 * [Stephen Few](http://www.perceptualedge.com)
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Mike Bostock](https://bost.ocks.org/mike/)
@@ -7,7 +8,6 @@
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Make Your Data Visualizations Interactive with Plotly](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
 * [Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396)
-* [Finviz](https://finviz.com/map.ashx?t=sec)
 * [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
 * [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
 * [How to map complex customer journeys](https://medium.com/geckoboard-under-the-hood/how-to-map-complex-customer-journeys-8e2379bb6572)
