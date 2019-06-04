@@ -29,6 +29,7 @@
 * [Quick Reference for Neural Networks & Keras](https://medium.com/@billypyu/quick-reference-neural-networks-keras-90341f556264)
 * [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+* [Beginner’s Guide to Object Detection Algorithms](https://towardsdatascience.com/beginners-guide-to-object-detection-algorithms-6620fb31c375)
 * [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 * [Auto-Encoder: What Is It? And What Is It Used For?](https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726)
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
