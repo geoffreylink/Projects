@@ -2,9 +2,9 @@
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
 ## Project Management
+* [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
-* [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
 * [Comparing Image Recognition APIs](https://www.upwork.com/hiring/data/comparing-image-recognition-apis/)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
