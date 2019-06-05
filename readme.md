@@ -19,6 +19,7 @@
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [What is the Project Management Triangle?](https://en.wikipedia.org/wiki/Project_management_triangle)
+* [The top project management methodologies](https://monday.com/blog/top-project-management-methodologies/)
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
 * [How many direct reports can a manager successfully lead?](https://wideangle.com/many-direct-reports-can-manager-successfully-lead/)
