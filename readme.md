@@ -6,8 +6,10 @@
 2) Cloud -> Resources can be incrementally grown based upon need (no major capital expenditures)
 
 ## Project Management
+* [Slack](https://slack.com/intl/en-ca/)
 * [Scrum Guide](https://www.scrumguides.org/index.html)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
+* [Atlassian Jira](https://www.atlassian.com/software/jira?r=APMT)
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [Agile User Story Examples](https://tech.gsa.gov/guides/user_story_example/)
