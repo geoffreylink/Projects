@@ -11,6 +11,7 @@
 * [Scrum Guide](https://www.scrumguides.org/index.html)
 * [Atlassian Jira](https://www.atlassian.com/software/jira?r=APMT)
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
+* [Atlassian Confluence](https://www.atlassian.com/software/confluence)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [Agile User Story Examples](https://tech.gsa.gov/guides/user_story_example/)
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
