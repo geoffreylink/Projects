@@ -7,8 +7,8 @@
 
 ## Project Management
 * [Slack](https://slack.com/intl/en-ca/)
-* [Scrum Guide](https://www.scrumguides.org/index.html)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
+* [Scrum Guide](https://www.scrumguides.org/index.html)
 * [Atlassian Jira](https://www.atlassian.com/software/jira?r=APMT)
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
