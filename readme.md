@@ -225,7 +225,6 @@ The role of Scribe is to:
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_03.png)
 
 ## A Visual Guide to Data Science
-* [A minimum viable product (MVP) is a product with just enough features to satisfy early customers, and to provide feedback for future product development](https://en.wikipedia.org/wiki/Minimum_viable_product)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningHighLevel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceApproach.png)
