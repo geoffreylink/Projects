@@ -32,15 +32,15 @@
 * [Do rigid, long-term goals turn Agile Projects into Waterfall Projects?](https://medium.com/@teunhompe/scrum-loves-deadlines-an-end-to-the-holy-debate-3b172b458605)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 
-## What is the Rule of 3 for Presenting Decision Options to Senior Managers?
+## What is the 'Rule of 3' for Presenting Decision Options to Senior Managers?
 1) Present 3 options
 2) Pick one
 3) Explain why you picked the option you did
 
 ## What is a Meeting Scribe?
 The role of Scribe is to:
-1) Set the Agenda for the meeting
-2) Assign Time Limits to discussion topics
+1) Set the agenda for the meeting
+2) Assign time limits to discussion topics
 3) Record all decisions, actions, and issues noted by the group
 
 ## The Pain Curve
