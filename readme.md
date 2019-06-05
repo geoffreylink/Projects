@@ -1,6 +1,10 @@
 # Welcome!
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
+## Agile + Cloud = Reduced Career Risk
+1) Agile -> Data collection from Sprint Retrospectives allows for incremental team growth based upon outcomes (no major team ramp-ups)
+2) Cloud -> Resources can be incrementally grown (or reduced) based upon need (no major capital expenditures)
+
 ## Project Management
 * [Scrum Guide](https://www.scrumguides.org/index.html)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
