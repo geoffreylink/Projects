@@ -23,8 +23,8 @@
 * [How to Write Good User Stories in Agile Software Development](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
 * [Jeff Bezos Knows How to Run a Meeting. Here's How He Does It](https://www.inc.com/justin-bariso/jeff-bezos-knows-how-to-run-a-meeting-here-are-his-three-simple-rules.html)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
-* [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 * [Do rigid, long-term goals turn Agile Projects into Waterfall Projects?](https://medium.com/@teunhompe/scrum-loves-deadlines-an-end-to-the-holy-debate-3b172b458605)
+* [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 
 ## What is a Meeting Scribe?
 The role of Scribe is to:
