@@ -13,6 +13,7 @@
 * [Epics, Stories, Themes, and Initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+* [What is the Project Management Triangle?](https://en.wikipedia.org/wiki/Project_management_triangle)
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
