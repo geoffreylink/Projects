@@ -37,9 +37,6 @@ The role of Scribe is to:
 ## The Pain Curve
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ThePainCurve.jpg)
 
-## How to Fail an AI Project
-![](https://github.com/geoffreylink/Projects/blob/master/images/BestWaysToFailAIProject.png)
-
 ## Reducing Technical Debt
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
 
