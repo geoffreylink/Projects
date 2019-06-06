@@ -203,11 +203,6 @@ The role of Scribe is to:
 * [Christopher Manning](https://nlp.stanford.edu/manning/)
 * [Jesse Steinweg-Woods](https://jessesw.com)
 
-## Online Education
-* [Stanford](https://cs.stanford.edu)
-* [Georgia Tech](https://www.cc.gatech.edu)
-* [University of Pennsylvania](https://cis.upenn.edu/index.php)
-
 ## Cerebral Humor
 * [Extrapolating](https://xkcd.com/605/)
 * [Machine Learning](https://xkcd.com/1838/)
