@@ -231,14 +231,15 @@ The role of Scribe is to:
 ## Augmented Reality
 * [IKEA](https://www.youtube.com/watch?v=vDNzTasuYEw)
 
-## Healthcare
+## Interesting Companies
+* [Salesforce](https://www.salesforce.com/ca/)
 * [Epic Systems](https://www.epic.com)
+* [Guidewire Software](https://www.guidewire.com)
 
+## Healthcare
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MedicalMachineLearningAlgorithms.png)
 
 ## Dynamic Pricing
-* [Salesforce](https://www.salesforce.com/ca/)
-
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_03.png)
