@@ -4,6 +4,7 @@
 * [OpenFAAS](https://www.openfaas.com)
 * [Full Stack Python](https://www.fullstackpython.com/serverless.html)
 * [Serverless Examples](https://github.com/serverless/examples)
+* [Is React just a fad?](https://medium.com/@PurpleGreenLemon/is-react-just-a-fad-564531652900)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 * [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
 * [Serverless Python’s Benefits Explained](https://www.pgs-soft.com/blog/serverless-pythons-benefits-explained/)
