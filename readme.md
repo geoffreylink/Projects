@@ -233,6 +233,7 @@ The role of Scribe is to:
 
 ## Healthcare
 * [Epic Systems](https://www.epic.com)
+
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MedicalMachineLearningAlgorithms.png)
 
 ## Dynamic Pricing
