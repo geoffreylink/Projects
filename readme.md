@@ -238,6 +238,7 @@ The role of Scribe is to:
 
 ## Dynamic Pricing
 * [Salesforce](https://www.salesforce.com/ca/)
+
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_03.png)
