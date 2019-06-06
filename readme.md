@@ -90,6 +90,7 @@ The role of Scribe is to:
 * [DataTau](http://www.datatau.com)
 * [TopCoder](https://www.topcoder.com)
 * [DataHubbs](https://www.datahubbs.com)
+* [Explained.ai](https://explained.ai)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 * [SFL Scientific](https://sflscientific.com)
 * [Google Scholar](https://scholar.google.ca)
