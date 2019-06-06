@@ -232,6 +232,7 @@ The role of Scribe is to:
 * [IKEA](https://www.youtube.com/watch?v=vDNzTasuYEw)
 
 ## Healthcare
+* [Epic Systems](https://www.epic.com)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MedicalMachineLearningAlgorithms.png)
 
 ## Dynamic Pricing
