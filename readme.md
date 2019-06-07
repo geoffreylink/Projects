@@ -56,6 +56,9 @@ The role of Scribe is to:
 ## Reducing Technical Debt
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
 
+## 5 Reasons To Have Fixed-Length Sprints
+![](https://github.com/geoffreylink/Projects/blob/master/images/5ReasonsToHaveFixed-LengthSprints.png)
+
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
