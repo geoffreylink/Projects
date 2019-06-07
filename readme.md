@@ -19,6 +19,7 @@
 * [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
 * [What is a Minimum Viable Product?](https://en.wikipedia.org/wiki/Minimum_viable_product)
 * [Comparing Image Recognition APIs](https://www.upwork.com/hiring/data/comparing-image-recognition-apis/)
+* [5 Reasons To Have Fixed-Length Sprints](https://www.knowledgehut.com/blog/agile/5-reasons-to-have-fixed-length-sprints)
 * [Epics, Stories, Themes, and Initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)
 * [Best Time of the Week to Start a Sprint](https://www.scrumalliance.org/community/articles/2016/october/best-time-of-the-week-to-start-a-sprint)
 * [The Presentation Secrets of Steve Jobs](https://www.slideshare.net/cvgallo/the-presentation-secrets-of-steve-jobs-2609477)
