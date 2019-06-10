@@ -18,6 +18,7 @@
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 * [An Introduction to Transfer Learning](https://medium.com/georgian-impact-blog/transfer-learning-part-1-ed0c174ad6e7)
+* [Understanding Tensor Processing Units](https://medium.com/sciforce/understanding-tensor-processing-units-10ff41f50e78)
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 * [10 New Things I Learnt from fast.ai v3](https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
