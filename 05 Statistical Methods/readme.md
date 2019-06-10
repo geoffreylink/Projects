@@ -1,5 +1,4 @@
 ## Reference
-
 * [PyMC3](https://docs.pymc.io)
 * [Quick-R](https://www.statmethods.net)
 * [STAT501](https://newonlinecourses.science.psu.edu/stat501/node/2/)
@@ -9,6 +8,7 @@
 * [Time Series in Python](https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788)
 * [Python & Holt-Winters](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
 * [GLMs at Scale with H2O](https://www.youtube.com/watch?v=5UCZngHX7EI)
+* [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
 * [Generalized Additive Models](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
@@ -25,12 +25,10 @@
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 
 ## Wisdom
-
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/AllModelsAreWrong_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/AllModelsAreWrong_02.png)
 
 ## Sampling
-
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Bias.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/CLT.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/StatisticsAndHypothesis.png)
@@ -47,7 +45,6 @@ p-value: Probability of getting data as extreme as the data we observe, assuming
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/StatisticalPower.png)
 
 ## Probability
-
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/ConditionalProbability.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/IndependentEvents.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/BayesRule.png)
@@ -55,7 +52,6 @@ p-value: Probability of getting data as extreme as the data we observe, assuming
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/SkewnessAndKurtosis.png)
 
 ## Generalized Linear Models
-
 Generalized linear models (GLMs) are an extension of traditional linear models that have gained popularity in statistical data analysis due to:
 
 * the flexibility of the model structure unifying the typical regression methods (such as linear regression and logistic regression for binary classification)
@@ -69,7 +65,6 @@ The estimation of the model is obtained by maximizing the log-likelihood over th
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/GLMs_02.png)
 
 ## Time Series Data Analysis Process
-
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/TimeSeriesProcess.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Mean.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Statistical%20Methods/images/Stationary_Variance.png)
