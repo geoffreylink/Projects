@@ -18,6 +18,7 @@
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [Supervised Learning: Basics of Linear Regression](https://towardsdatascience.com/supervised-learning-basics-of-linear-regression-1cbab48d0eba)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+* [Basic Statistics Every Data Scientist Should Know](https://medium.com/better-programming/statistics-review-for-data-scientists-and-management-df8f94760221)
 * [Beyond A/B Testing: Multi-armed Bandit Experiments](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804)
 * [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 * [How do you check the quality of your regression model in Python?](https://towardsdatascience.com/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685)
