@@ -1,4 +1,5 @@
 ## Reference
+* [[Personal Notes] Deep Learning by Andrew Ng — Course 1: Neural Networks and Deep Learning](https://medium.com/@keonyonglee/bread-and-butter-from-deep-learning-by-andrew-ng-course-1-neural-networks-and-deep-learning-41563b8fc5d8)
 * [CS231n](http://cs231n.github.io/neural-networks-1/)
 * [DeepAI](https://deepai.org)
 * [Go Deep](http://www.godeep.ml)
