@@ -29,6 +29,7 @@
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The top project management methodologies](https://monday.com/blog/top-project-management-methodologies/)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
+* [How to Survive Corporate Politics as a Data Scientist](https://medium.com/better-programming/how-to-survive-corporate-politics-as-a-data-scientist-ba914fac2471)
 * [How many direct reports can a manager successfully lead?](https://wideangle.com/many-direct-reports-can-manager-successfully-lead/)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
 * [How to Get Better at Estimating Software Development Time](https://hackernoon.com/barriers-to-effective-software-effort-estimation-and-how-to-avoid-them-4abd39f09f26)
