@@ -1,5 +1,5 @@
 ## Reference
-
+* [Recommendation Systems](https://medium.com/x8-the-ai-community/recommendation-system-db51c868f13d)
 * [How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [The Age of Hyper-Personalization and AI](https://blog.goodaudience.com/the-age-of-hyper-personalization-and-ai-2400d7efcb4)
 * [New York Data Science Metarecommendr](https://nycdatascience.com/blog/student-works/capstone/metarecommendr-recommendation-system-video-games-movies-tv-shows/)
