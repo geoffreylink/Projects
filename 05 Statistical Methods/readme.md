@@ -10,6 +10,7 @@
 * [GLMs at Scale with H2O](https://www.youtube.com/watch?v=5UCZngHX7EI)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
 * [Generalized Additive Models](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
+* [Poisson Distribution Intuition](https://medium.com/@aerinykim/poisson-distribution-intuition-and-derivation-1059aeab90d)
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
 * [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
