@@ -28,6 +28,7 @@
 * [An introduction to Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
 * [Quick Reference for Neural Networks & Keras](https://medium.com/@billypyu/quick-reference-neural-networks-keras-90341f556264)
+* [Top 10 Best Deep Learning Frameworks in 2019](https://towardsdatascience.com/top-10-best-deep-learning-frameworks-in-2019-5ccb90ea6de)
 * [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
 * [Beginner’s Guide to Object Detection Algorithms](https://towardsdatascience.com/beginners-guide-to-object-detection-algorithms-6620fb31c375)
