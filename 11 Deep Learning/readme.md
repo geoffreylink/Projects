@@ -2,6 +2,7 @@
 * [CS231n](http://cs231n.github.io/neural-networks-1/)
 * [DeepAI](https://deepai.org)
 * [Go Deep](http://www.godeep.ml)
+* [Metacademy](https://metacademy.org/graphs/concepts/weight_decay_neural_networks#focus=backpropagation&mode=learn)
 * [Tensorflow](https://www.tensorflow.org/tutorials)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [deepschool.io](https://github.com/RyanSydney/deepschool.io)
