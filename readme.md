@@ -4,7 +4,7 @@
 ## Agile + Cloud + Continuous Deployment = Reduced Risk
 1) Agile -> Sprint Retrospectives allow for incremental team growth based upon outcomes (no major team ramp-ups)
 2) Cloud -> Resources can be incrementally grown based upon need (no major capital expenditures)
-3) Continuous Deployment ->
+3) Continuous Deployment -> Incremental change enables practical deviations (no large project bets)
 
 ## Project Management
 * [Slack](https://slack.com/intl/en-ca/)
