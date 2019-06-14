@@ -45,9 +45,9 @@
 * [How to Write Good User Stories in Agile Software Development](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
 * [Jeff Bezos Knows How to Run a Meeting. Here's How He Does It](https://www.inc.com/justin-bariso/jeff-bezos-knows-how-to-run-a-meeting-here-are-his-three-simple-rules.html)
 * [Minimize Security Blast Radius, Maximize Development Flexibility](https://www.cloudtp.com/doppler/adopting-multi-cloud-strategy/)
-* [Execs care about revenue. How do we get them to care about outcomes?](https://medium.com/@jboogie/execs-care-about-revenue-how-do-we-get-them-to-care-about-outcomes-5d541a823358)
 * [Do rigid, long-term goals turn Agile Projects into Waterfall Projects?](https://medium.com/@teunhompe/scrum-loves-deadlines-an-end-to-the-holy-debate-3b172b458605)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
+* [Execs care about revenue. How do we get them to care about outcomes?](https://medium.com/@jboogie/execs-care-about-revenue-how-do-we-get-them-to-care-about-outcomes-5d541a823358)
 
 ## What is the 'Rule of 3' for Presenting Decision Options to Senior Managers?
 1) Present 3 options
