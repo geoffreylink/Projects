@@ -60,6 +60,9 @@ The role of Scribe is to:
 2) Assign time limits to discussion topics
 3) Record all decisions, actions, and issues noted by the group
 
+## Agile Product Roadmap
+![](https://github.com/geoffreylink/Projects/blob/master/images/AgileProductRoadmap.png)
+
 ## The Pain Curve
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ThePainCurve.jpg)
 
