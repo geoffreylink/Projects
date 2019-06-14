@@ -66,6 +66,9 @@ The role of Scribe is to:
 ## High vs Low Priority
 ![](https://github.com/geoffreylink/Projects/blob/master/images/HighvsLowPriority.png)
 
+## User Stories vs Tasks
+![](https://github.com/geoffreylink/Projects/blob/master/images/UserStoriesvsTasks.jpeg)
+
 ## The Pain Curve
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ThePainCurve.jpg)
 
