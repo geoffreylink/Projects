@@ -10,6 +10,7 @@
 * [Slack](https://slack.com/intl/en-ca/)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 * [Scrum Guide](https://www.scrumguides.org/index.html)
+* [Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun)
 * [Atlassian Jira](https://www.atlassian.com/software/jira?r=APMT)
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Socratic method](https://en.wikipedia.org/wiki/Socratic_method)
