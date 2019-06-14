@@ -77,7 +77,7 @@ The role of Scribe is to:
 ## The Pain Curve
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ThePainCurve.jpg)
 
-## Reducing Technical Debt
+## Reducing Technical Debt (complexity is the enemy of execution)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
 
 ## 5 Reasons To Have Fixed-Length Sprints
