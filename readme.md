@@ -72,6 +72,12 @@ The role of Scribe is to:
 ## User Stories vs Tasks
 ![](https://github.com/geoffreylink/Projects/blob/master/images/UserStoriesvsTasks.jpeg)
 
+## User Story Checklist
+![](https://github.com/geoffreylink/Projects/blob/master/images/UserStoryChecklist.jpeg)
+
+## Acceptance Criteria Checklist
+![](https://github.com/geoffreylink/Projects/blob/master/images/AcceptanceCriteriaChecklist.jpeg)
+
 ## The Pain Curve
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ThePainCurve.jpg)
 
