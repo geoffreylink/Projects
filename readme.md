@@ -63,7 +63,7 @@ The role of Scribe is to:
 ## Agile Product Roadmap
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AgileProductRoadmap.png)
 
-## Initiative, Epic, Story, Task, SubTask
+## Initiative -> Epic -> Story -> Task -> SubTask
 ![](https://github.com/geoffreylink/Projects/blob/master/images/InitiativeEpicStory.png)
 
 ## High vs Low Priority
