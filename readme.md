@@ -53,6 +53,7 @@
 * [Do rigid, long-term goals turn Agile Projects into Waterfall Projects?](https://medium.com/@teunhompe/scrum-loves-deadlines-an-end-to-the-holy-debate-3b172b458605)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 * [Execs care about revenue. How do we get them to care about outcomes?](https://medium.com/@jboogie/execs-care-about-revenue-how-do-we-get-them-to-care-about-outcomes-5d541a823358)
+* [Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously](https://medium.com/@hyung_money/book-review-sense-respond-8810874a67ad)
 
 ## What is the 'Rule of 3' for Presenting Decision Options to Senior Managers?
 1) Present 3 options
