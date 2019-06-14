@@ -21,6 +21,7 @@
 * [What happens after OKRs?](https://medium.com/pminsider/what-happens-after-okrs-2c64a8c27974)
 * [You suck at OKRs. Here’s why.](https://medium.com/@jboogie/you-suck-at-okrs-heres-why-84e7bf2836d3)
 * [What are Sprint/Iteration Gaps?](https://community.versionone.com/VersionOne/VersionOne_Basics/Common_Questions/What_are_Sprint%2F%2FIteration_Gaps%3F)
+* [What is Institutional Imperative](https://www.allbusiness.com/how-to-avoid-the-institutional-imperative-14597416-1.html)
 * [Objectives and key results (OKR)](https://en.wikipedia.org/wiki/OKR)
 * [Introducing the AI Project Canvas](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)
 * [What is The Innovator's Dilemma?](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)
