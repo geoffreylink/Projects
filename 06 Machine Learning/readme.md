@@ -62,6 +62,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/SVMHyperPlane.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/SVMKernelTrick.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/EvolutionOfXGBoostAlgorithmFromDecisionTrees.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/Bagging.png)
 
 ## Methods to Deploy Algorithms to Production
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Machine%20Learning/images/DeployAlgorithmsToProduction.png)
