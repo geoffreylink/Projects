@@ -14,6 +14,7 @@
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
 * [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
+* [How to Use Linear Regression with Python](https://medium.com/better-programming/data-science-modeling-how-to-use-linear-regression-with-python-fdf6ca5481be)
 * [Churn Prediction and Prevention in Python](https://towardsdatascience.com/churn-prediction-and-prevention-in-python-2d454e5fd9a5)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
