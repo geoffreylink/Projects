@@ -18,8 +18,8 @@
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 * [How Much Does It Cost To Run A Serverless API on AWS?](https://alestic.com/2016/12/aws-invoice-example/)
 * [Nvidia EGX takes AI computing to the edge of the network](https://venturebeat.com/2019/05/27/nvidia-egx-takes-ai-computing-to-the-edge-of-the-network/)
-* [Serverless Architecture — Complete Reference Guide [2019]](https://medium.com/swlh/serverless-architecture-complete-reference-guide-2019-55363c08d1be)
 * [Nvidia launches edge computing platform for AI processing](https://www.networkworld.com/article/3397841/nvidia-launches-edge-computing-platform-for-ai-processing.html)
+* [Serverless Architecture — Complete Reference Guide [2019]](https://medium.com/swlh/serverless-architecture-complete-reference-guide-2019-55363c08d1be)
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
