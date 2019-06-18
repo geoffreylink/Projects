@@ -26,6 +26,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessCarAnalogy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUseCases.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUsage.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessChallenges.jpeg)
 
 ## Basic Serverless Architecture
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/BasicServerlessArchitecture.png)
