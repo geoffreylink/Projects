@@ -23,6 +23,8 @@
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUseCases.png)
+
 ## Basic Serverless Architecture
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/BasicServerlessArchitecture.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/DeploymentAbstractions.png)
