@@ -41,6 +41,7 @@
 * [What does an agile product roadmap look like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
 * [How to Survive Corporate Politics as a Data Scientist](https://medium.com/better-programming/how-to-survive-corporate-politics-as-a-data-scientist-ba914fac2471)
+* [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
 * [Give teams a problem to solve, not a solution to implement](https://blog.usejournal.com/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716)
 * [How many direct reports can a manager successfully lead?](https://wideangle.com/many-direct-reports-can-manager-successfully-lead/)
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
