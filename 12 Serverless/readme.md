@@ -24,6 +24,7 @@
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUseCases.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUsage.png)
 
 ## Basic Serverless Architecture
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/BasicServerlessArchitecture.png)
