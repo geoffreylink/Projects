@@ -32,6 +32,7 @@
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [Top Data Science and Machine Learning Methods Used in 2019](https://www.kdnuggets.com/2019/04/top-data-science-machine-learning-methods-2018-2019.html)
+* [Let’s Talk About Machine Learning Ensemble Learning In Python](https://medium.com/fintechexplained/lets-talk-about-machine-learning-ensemble-learning-in-python-382747e5fba8)
 * [Supervised Learning: Basics of Classification and Main Algorithms](https://towardsdatascience.com/supervised-learning-basics-of-classification-and-main-algorithms-c16b06806cd3)
 * [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
