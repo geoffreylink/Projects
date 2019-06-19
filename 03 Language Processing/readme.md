@@ -6,6 +6,7 @@
 * [Intuitive Guide to Latent Dirichlet Allocation](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)
 * [Natural Language Processing with Deep Learning](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
 * [Getting to Know Natural Language Understanding](https://medium.com/@ODSC/getting-to-know-natural-language-understanding-f18a0dc5c97d)
+* [Intuit: Serving 7 Million Customers Using Amazon Connect](https://youtu.be/6LcSv9XocTY)
 * [Get started with NLP (Part II): overview of an NLP workflow](https://medium.com/@gon.esbuyo/get-started-with-nlp-part-ii-overview-of-an-nlp-workflow-7ba1f5948b24)
 * [Parsing Structured Documents with Custom Entity Extraction](https://towardsdatascience.com/custom-entity-extraction-e966e00f6f47)
 * [NLP vs. NLU: from Understanding a Language to Its Processing](https://medium.com/sciforce/nlp-vs-nlu-from-understanding-a-language-to-its-processing-1bf1f62453c1)
