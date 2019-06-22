@@ -7,6 +7,7 @@
 * [Serverless Examples](https://github.com/serverless/examples)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 * [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
+* [Localizing content with Lambda@Edge](https://medium.com/@gavinlewis/localizing-content-with-lambda-edge-fefb12aa6199)
 * [Serverless Python’s Benefits Explained](https://www.pgs-soft.com/blog/serverless-pythons-benefits-explained/)
 * [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 * [Advantages and Disadvantages of GraphQL](https://stablekernel.com/advantages-and-disadvantages-of-graphql/)
