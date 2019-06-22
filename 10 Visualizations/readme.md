@@ -28,6 +28,7 @@
 * [Learn Enough React For The Interview](https://medium.com/bb-tutorials-and-thoughts/learn-enough-react-for-the-interview-f460a2fa3aeb)
 
 ## Great Data Visualization
+If your visualization cannot be understood in 3 seconds, it is not a good visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/GreatDataVisualization.jpg)
 
 ## Choosing the Correct Data Visualization
