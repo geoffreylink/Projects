@@ -20,6 +20,7 @@
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [What is a Brilliant Jerk?](https://www.inc.com/jim-schleckser/why-netflix-doesn-t-tolerate-brilliant-jerks.html)
 * [Scaled Agile Framework](https://www.scaledagileframework.com)
+* [The 4-hour design sprint](https://ux.shopify.com/the-4-hour-design-sprint-b05b516cede7)
 * [Agile User Story Examples](https://tech.gsa.gov/guides/user_story_example/)
 * [What happens after OKRs?](https://medium.com/pminsider/what-happens-after-okrs-2c64a8c27974)
 * [You suck at OKRs. Here’s why](https://medium.com/@jboogie/you-suck-at-okrs-heres-why-84e7bf2836d3)
