@@ -5,6 +5,7 @@
 * [Mike Bostock](https://bost.ocks.org/mike/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
+* [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 * [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
 * [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
 * [How to map complex customer journeys](https://medium.com/geckoboard-under-the-hood/how-to-map-complex-customer-journeys-8e2379bb6572)
