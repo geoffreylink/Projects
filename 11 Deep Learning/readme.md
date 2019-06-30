@@ -44,6 +44,7 @@
 * [Visualising Filters and Feature Maps for Deep Learning](https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Advanced Topics in Deep Convolutional Neural Networks](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d)
+* [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 * [Diving deeper into Reinforcement Learning with Q-Learning](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe)
 * [Kaggle vs. Colab Faceoff — Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
