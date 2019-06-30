@@ -13,6 +13,7 @@
 * [Andrew Ng Coursera](https://www.youtube.com/watch?v=qeHZOdmJvFU&index=1&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 * [Machine Learning Mastery](https://machinelearningmastery.com)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+* [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Machine Learning In 8 Minutes](https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b)
