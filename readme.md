@@ -126,6 +126,7 @@ The role of Scribe is to:
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [4 Ways to Solve a Google Interview Question in JavaScript](https://medium.com/@bretcameron/4-ways-to-solve-a-google-interview-question-in-javascript-12e6eec87576)
 * [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
+* [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 * [How to become a developer and get your first job as quickly as possible](https://www.freecodecamp.org/news/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6/?source=email-57940e023ce1-1558953718025-digest.reader------3-50------------------9e13b338_6903_40c4_8fca_355ca5d05507-1&sectionName=top)
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
