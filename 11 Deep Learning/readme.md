@@ -33,6 +33,7 @@
 * [Quick Reference for Neural Networks & Keras](https://medium.com/@billypyu/quick-reference-neural-networks-keras-90341f556264)
 * [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/)
+* [The Basics of Recurrent Neural Networks (RNNs)](https://medium.com/towards-artificial-intelligence/whirlwind-tour-of-rnns-a11effb7808f)
 * [Top 10 Best Deep Learning Frameworks in 2019](https://towardsdatascience.com/top-10-best-deep-learning-frameworks-in-2019-5ccb90ea6de)
 * [Beginner’s Guide to Object Detection Algorithms](https://towardsdatascience.com/beginners-guide-to-object-detection-algorithms-6620fb31c375)
 * [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
