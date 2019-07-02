@@ -33,6 +33,7 @@
 * [Top 20 APIs You Should Know In AI and Machine Learning](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
 * [Why and How to do Cross Validation for Machine Learning](https://towardsdatascience.com/why-and-how-to-do-cross-validation-for-machine-learning-d5bd7e60c189)
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
+* [From Machine Learning to Reinforcement Learning Mastery](https://medium.com/better-programming/from-machine-learning-to-reinforcement-learning-mastery-47f33d9f6b41)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [Top Data Science and Machine Learning Methods Used in 2019](https://www.kdnuggets.com/2019/04/top-data-science-machine-learning-methods-2018-2019.html)
 * [Let’s Talk About Machine Learning Ensemble Learning In Python](https://medium.com/fintechexplained/lets-talk-about-machine-learning-ensemble-learning-in-python-382747e5fba8)
