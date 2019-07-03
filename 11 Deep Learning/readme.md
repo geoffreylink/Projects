@@ -57,8 +57,8 @@
 * [Machine learning fundamentals (I): Cost functions and gradient descent](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
 * [Understanding Neural Networks: From Activation Function To Back Propagation](https://medium.com/fintechexplained/neural-networks-activation-function-to-back-propagation-understanding-neural-networks-bdd036c3f29f)
 * [Deep Blue Sea: Using Deep Learning to Detect Hundreds of Different Plankton Species](https://towardsdatascience.com/deep-blue-sea-using-deep-learning-to-detect-hundreds-of-different-plankton-species-dff895d3b226)
-* [Artificial Neural Network and it’s contribution to Machine Learning — A beginner’s hand-book](https://blog.goodaudience.com/artificial-neural-networks-and-its-contribution-to-machine-learning-a-beginner-s-hand-book-ab7f4e7b230e)
 * [Analyzing different types of activation functions in neural networks — which one to prefer?](https://towardsdatascience.com/analyzing-different-types-of-activation-functions-in-neural-networks-which-one-to-prefer-e11649256209)
+* [Artificial Neural Network and it’s contribution to Machine Learning — A beginner’s hand-book](https://blog.goodaudience.com/artificial-neural-networks-and-its-contribution-to-machine-learning-a-beginner-s-hand-book-ab7f4e7b230e)
 * [[Personal Notes] Deep Learning by Andrew Ng — Course 1: Neural Networks and Deep Learning](https://medium.com/@keonyonglee/bread-and-butter-from-deep-learning-by-andrew-ng-course-1-neural-networks-and-deep-learning-41563b8fc5d8)
 * [The Secret Layer Behind Every Successful Deep Learning Model: Representation Learning and Knowledge Quality](https://towardsdatascience.com/the-secret-layer-behind-every-successful-deep-learning-model-representation-learning-and-knowledge-8f352018c561)
 
