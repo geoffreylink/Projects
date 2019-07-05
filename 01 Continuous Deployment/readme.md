@@ -3,6 +3,7 @@
 * [Scrum to Lean Kanban - some problems and pitfalls](https://sites.google.com/site/wicmitchell/home/scrum-to-lean-kanban---some-problems-and-pitfalls)
 * [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Why Cutting Costs is Expensive: How $9/Hour Software Engineers Cost Boeing Billions](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [Unbreakable DevOps Pipeline Tutorial with AWS CodeDeploy, AWS CodePipeline, AWS Lambda, EC2 and Dynatrace](https://github.com/Dynatrace/AWSDevOpsTutorial)
 
 ## Presentations
