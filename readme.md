@@ -41,6 +41,7 @@
 * [What is the Project Management Triangle?](https://en.wikipedia.org/wiki/Project_management_triangle)
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The top project management methodologies](https://monday.com/blog/top-project-management-methodologies/)
+* [How to set up a Minimum Viable Product (MVP)](https://medium.com/ideachain/from-a-problem-to-a-well-defined-mvp-in-8-steps-88efa12c1345)
 * [There are no new ideas, just better execution](https://www.businessinsider.com/there-are-no-new-business-ideas-2012-9)
 * [What does an agile product roadmap look like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
