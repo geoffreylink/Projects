@@ -2,6 +2,7 @@
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [Berkeley 266-project](https://github.com/bwputman/266-project)
 * [Beginners Guide to Topic Modeling](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
+* [Evolution of Natural Language Generation](https://medium.com/sfu-big-data/evolution-of-natural-language-generation-c5d7295d6517)
 * [Twitter Sentiment Analysis using fastText](https://towardsdatascience.com/twitter-sentiment-analysis-using-fasttext-9ccd04465597)
 * [Intuitive Guide to Latent Dirichlet Allocation](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)
 * [Natural Language Processing with Deep Learning](https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ)
