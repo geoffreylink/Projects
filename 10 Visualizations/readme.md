@@ -47,5 +47,6 @@ If your visualization cannot be understood in 3 seconds, it is not a good visual
 
 ## Javascript
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/JSRuntimeEnvironment.png)
-![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/NodeJSSystem.png)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/NodeJSSystem_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/NodeJSSystem_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/10%20Visualizations/images/LanguageClassification.png)
