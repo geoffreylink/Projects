@@ -3,7 +3,7 @@
 2) Cloud -> Resources can be incrementally grown based upon need (no major capital expenditures)
 3) Continuous Deployment -> Incremental change enables practical deviations (no major project bets)
 
-## Project Management
+## References
 * [Slack](https://slack.com/intl/en-ca/)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 * [Scrum Guide](https://www.scrumguides.org/index.html)
