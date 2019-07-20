@@ -63,71 +63,71 @@
 * [The Secret Layer Behind Every Successful Deep Learning Model: Representation Learning and Knowledge Quality](https://towardsdatascience.com/the-secret-layer-behind-every-successful-deep-learning-model-representation-learning-and-knowledge-8f352018c561)
 
 ## Human Neural Network
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/HumanNeuralNetwork.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/HumanNeuralNetwork.png)
 
 ## Artificial Neural Network
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GeneralLearningAlgorithm.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/GeneralLearningAlgorithm.png)
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ForwardAndBackwardPropagation.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork_02.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetwork_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsActivation.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Weights.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GlobalvsLocalMinimum.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LearningRate.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientClipping.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ForwardAndBackwardPropagation.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetwork_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetwork_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ArtificialNeuralNetwork.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkWeightsActivation.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Weights.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/GradientDescent.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/GlobalvsLocalMinimum.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/LearningRate.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/GradientClipping.png)
 
 * __Perceptron__
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Perceptron.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Perceptron.png)
 
 * __Long Short-Term Memory (LSTM)__
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LongShortTermMemory.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/LongShortTermMemory.png)
 
 * __Recurrent Neural Network__
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/RecurrentNeuralNetwork.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/RecurrentNeuralNetwork.png)
 
 * __Convolutional Neural Network__
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/BasicCNN.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ConvolutionalNeuralNetwork_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/BasicCNN.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ConvolutionalNeuralNetwork_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ConvolutionalNeuralNetwork_02.png)
 
 * __VGG16__
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/VGG16.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/VGG16.png)
 
 * __Deep Generative Models__
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TaxonomyOfDeepGenerativeModels.png)
 
 ## Neural Network Layers, Weights, and Bias
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_02.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_03.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_04.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkWeightsBias_05.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_02.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_03.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_04.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_05.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_06.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_07.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/NeuralNetworkLayers_08.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkWeightsBias_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkWeightsBias_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkWeightsBias_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkWeightsBias_04.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkWeightsBias_05.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_04.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_05.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_06.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_07.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/NeuralNetworkLayers_08.png)
 
 ## Keras Lifecycle
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Keras_Lifecycle.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Keras_Lifecycle.png)
 
 ## Entropy
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Entropy.jpg)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Entropy.jpg)
 
 ## Batch Normalization
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/BatchNormalization.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/BatchNormalization.png)
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ActivationFunctions_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ActivationFunctions_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ActivationFunctions_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ActivationFunctions_02.png)
 
 Activation functions play a key role in every neural network. They decide which nodes to fire in a particular layer. These functions are applied to hidden as well as to the output layers of a neural network.
 
@@ -137,43 +137,43 @@ There are many popular activation functions that play a significant role in buil
 
 * __Linear function__
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LinearFunction.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/LinearFunction.png)
 
 * __Step function__ - also known as a Threshold function. Here we set a threshold value and if the Y value(output) is greater than the threshold value, the function is activated and fired, else it is not fired.
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/StepFunction.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/StepFunction.png)
 
 * __ReLU function__ - one of the most widely used activation functions. It stands for Rectified Linear Unit. It gives an output of X, if X is positive and 0 otherwise. ReLU is often used in the hidden layers.
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ReLUFunction.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ReLUFunction.png)
 
 * __Sigmoid function__ - very common and is used to predict the probability as an output. The output of this function always lies between 0 and 1. Sigmoid is used in hidden layers as well as in the output layers where the target is binary.
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SigmoidFunction.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/SigmoidFunction.png)
 
 * __Tanh function__ - similar to a Sigmoid function but is bound between the range (-1, 1). It is also used in the hidden layers as well as in the output layer.
 
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TanhFunction.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TanhFunction.png)
 
 * __Softmax function__ - generally used in the output layer. It converts every output to been in the range of 0 and 1, just like the Sigmoid function. But it divides each output such that the total sum of the outputs is equal to 1.
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SoftmaxFunction_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/SoftmaxFunction_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/SoftmaxFunction_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/SoftmaxFunction_02.png)
 
 ## Transfer Learning
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_Basic.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_02.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_03.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/TransferLearning_04.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TransferLearning_Basic.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TransferLearning_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TransferLearning_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TransferLearning_03.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/TransferLearning_04.png)
 
 ## Reinforcement Learning
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ReinforcementLearning_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ReinforcementLearning_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ReinforcementLearning_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ReinforcementLearning_02.png)
 
 ## Autoencoder
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Autoencoder_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Autoencoder_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Autoencoder_02.png)
 
 ## Model Tuning
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/AugmentedCat.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Dropout.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Overfitting.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/EarlyStopping.png)
-![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ParsimonyWins.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/AugmentedCat.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Dropout.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/Overfitting.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/EarlyStopping.png)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Deep%20Learning/images/ParsimonyWins.png)
