@@ -25,49 +25,49 @@
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/FaaS.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessCarAnalogy.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUseCases.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessUsage.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessChallenges.jpeg)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessProsCons.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/FaaS.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessCarAnalogy.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessUseCases.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessUsage.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessChallenges.jpeg)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessProsCons.png)
 
 ## Basic Serverless Architecture
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/BasicServerlessArchitecture.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/DeploymentAbstractions.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/BasicServerlessArchitecture.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/DeploymentAbstractions.png)
 
 ## The Hidden Costs of Serverless
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/HiddenCostOfServerless.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/HiddenCostOfServerless.png)
 
 ## The 5 Cost Categories of Serverless
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/5CostCategoriesOfServerless.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/5CostCategoriesOfServerless.png)
 
 ## Language Comparison
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/AWSLanguageComparison.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/AWSLanguageComparison.png)
 
 ## Lambda Cold Starts
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/LambdaColdStarts.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/LambdaColdStarts.png)
 
 ## Effective Cost By Function Memory Size
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EffectiveCostByMemorySize.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/EffectiveCostByMemorySize.png)
 
 ## Javascript Lines of Code
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/JavascriptLinesOfCode.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/JavascriptLinesOfCode.png)
 
 ## Python vs Java Lines of Code
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/PythonvsJava.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/PythonvsJava.png)
 
 ## Serverless Cost Comparison
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessCostComparison.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessCostComparison.png)
 
 ## Free Tier Cost Comparison
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ServerlessFreeTierComparison.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessFreeTierComparison.png)
 
 ## Native Deployment for Devices (High Cost, High Performance)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/NativeAppDeployment.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/NativeAppDeployment.png)
 
 ## Hybrid Deployment for Devices (Low Cost, Low Performance)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/HybridAppDeployment.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/HybridAppDeployment.png)
 
 ## Edge Computing
 
@@ -86,15 +86,15 @@ While edge computing exclusively refers to compute at the ingress of the network
 * [Edge Computing — The New Frontier of the Web](https://hackernoon.com/edge-computing-a-beginners-guide-8976b6886481)
 * [Why edge computing is the next wave for our increasingly digital lives](https://www.itproportal.com/features/why-edge-computing-is-the-next-wave-for-our-increasingly-digital-lives/)
 
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/CloudFogEdge_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/CloudFogEdge_02.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/CloudEdge.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/DeviceEdge.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EdgeEcosystem.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/ConnectedCows.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/AWSGreenGrass.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/EndOfCloudComputing.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/CloudFogEdge_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/CloudFogEdge_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/CloudEdge.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/DeviceEdge.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/EdgeEcosystem.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ConnectedCows.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/AWSGreenGrass.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/EndOfCloudComputing.png)
 
 ## SOAP vs. REST
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/SOAPvsREST_01.png)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Serverless/images/SOAPvsREST_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/SOAPvsREST_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/SOAPvsREST_02.png)
