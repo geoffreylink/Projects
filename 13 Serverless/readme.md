@@ -4,6 +4,7 @@
 * [OpenFAAS](https://www.openfaas.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 * [Full Stack Python](https://www.fullstackpython.com/serverless.html)
+* [Node.js - OpenHub](https://www.openhub.net/p/node/analyses/latest/languages_summary)
 * [Is React just a fad?](https://medium.com/@PurpleGreenLemon/is-react-just-a-fad-564531652900)
 * [Serverless Examples](https://github.com/serverless/examples)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
