@@ -1,6 +1,7 @@
 ## Reference
 
 * [Memory Safety](https://en.wikipedia.org/wiki/Memory_safety)
+* [Ionic Framework](https://ionicframework.com)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Progressive Web Apps](https://ionicframework.com/docs/v3/developer-resources/progressive-web-apps/)
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
