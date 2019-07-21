@@ -2,7 +2,6 @@
 [Graphs are mathematical structures used to study pairwise relationships between objects and entities](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
 
 ## Reference
-
 * [Neo4j](https://neo4j.com)
 * [Gephi](https://gephi.org)
 * [NetworkX](https://networkx.github.io)
