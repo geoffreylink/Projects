@@ -1,5 +1,4 @@
 ## Reference
-
 * [Memory Safety](https://en.wikipedia.org/wiki/Memory_safety)
 * [Ionic Framework](https://ionicframework.com)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
