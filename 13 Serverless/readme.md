@@ -3,6 +3,7 @@
 * [Serverless](https://serverless.com)
 * [OpenFAAS](https://www.openfaas.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
+* [Google Firebase](https://firebase.google.com)
 * [Full Stack Python](https://www.fullstackpython.com/serverless.html)
 * [Is React just a fad?](https://medium.com/@PurpleGreenLemon/is-react-just-a-fad-564531652900)
 * [Node.js - OpenHub](https://www.openhub.net/p/node/analyses/latest/languages_summary)
