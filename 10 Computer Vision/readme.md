@@ -1,5 +1,4 @@
 ## Reference
-
 * [Pillow](https://python-pillow.org)
 * [OpenCV](https://opencv.org)
 * [OpenMV](https://openmv.io)
