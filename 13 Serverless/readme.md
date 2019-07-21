@@ -1,6 +1,6 @@
 ## Reference
-* [GraphQL](https://graphql.org)
 * [Travis CI](https://travis-ci.org)
+* [GraphQL](https://graphql.org)
 * [Serverless](https://serverless.com)
 * [OpenFAAS](https://www.openfaas.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
