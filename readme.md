@@ -1,30 +1,6 @@
 # Welcome!
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
-## Agile Product Roadmap
-![](https://github.com/geoffreylink/Projects/blob/master/images/AgileProductRoadmap.png)
-![](https://github.com/geoffreylink/Projects/blob/master/images/SCRUMUX.png)
-
-## Initiative -> Epic -> Story -> Task -> SubTask
-![](https://github.com/geoffreylink/Projects/blob/master/images/InitiativeEpicStory.png)
-
-## High vs Low Priority
-![](https://github.com/geoffreylink/Projects/blob/master/images/HighvsLowPriority.png)
-
-## User Stories vs Tasks
-![](https://github.com/geoffreylink/Projects/blob/master/images/UserStoriesvsTasks.jpeg)
-![](https://github.com/geoffreylink/Projects/blob/master/images/UserStoryChecklist.jpeg)
-![](https://github.com/geoffreylink/Projects/blob/master/images/AcceptanceCriteriaChecklist.jpeg)
-
-## The Pain Curve
-![](https://github.com/geoffreylink/Projects/blob/master/images/ThePainCurve.jpg)
-
-## Reducing Technical Debt (complexity is the enemy of execution)
-![](https://github.com/geoffreylink/Projects/blob/master/images/SmallCodebase.png)
-
-## 5 Reasons To Have Fixed-Length Sprints
-![](https://github.com/geoffreylink/Projects/blob/master/images/5ReasonsToHaveFixed-LengthSprints.png)
-
 ## 10mR
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
