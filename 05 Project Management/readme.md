@@ -5,6 +5,7 @@
 
 ## References
 * [Slack](https://slack.com/intl/en-ca/)
+* [Coggle](https://coggle.it)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 * [Scrum Guide](https://www.scrumguides.org/index.html)
 * [Atlassian Jira](https://www.atlassian.com/software/jira?r=APMT)
