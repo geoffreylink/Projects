@@ -3,6 +3,7 @@
 * [Ionic Framework](https://ionicframework.com)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Progressive Web Apps](https://ionicframework.com/docs/v3/developer-resources/progressive-web-apps/)
+* [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [React Native Vs Ionic 2: Comparison](https://medium.com/swlh/react-native-vs-ionic-2-comparison-50aba900be6c)
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
