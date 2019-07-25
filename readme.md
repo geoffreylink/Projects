@@ -175,6 +175,7 @@
 * [What Is Blockchain?](https://www.youtube.com/watch?v=nZPfu21yWhQ)
 * [Walmart - IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
 * [How Blockchain Went From Bitcoin To Big Business](https://www.youtube.com/watch?v=ahWcUZfSufI)
+* [How blockchain technology will transform the logistics industry by providing improved transparency, more accurate tracking, and valuable cost savings](https://www.businessinsider.com/blockchain-in-the-supply-chain-2018-11)
 
 ## Augmented Reality
 * [IKEA](https://www.youtube.com/watch?v=vDNzTasuYEw)
