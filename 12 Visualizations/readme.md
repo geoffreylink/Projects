@@ -13,6 +13,7 @@
 * [Tips on Designing a Million Dollar Dashboard](https://medium.com/better-programming/tips-on-designing-a-dashboard-worth-millions-of-dollars-21b1f992dee2)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Make Your Data Visualizations Interactive with Plotly](https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6)
+* [PyViz: Simplifying the Data Visualisation process in Python](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1)
 * [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
 * [Visualizing The Customer Journey With Google Analytics Data](https://www.bounteous.com/insights/2017/09/12/visualizing-customer-journey-google-analytics-data/?ns=l)
 * [4 More Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/4-more-quick-and-easy-data-visualizations-in-python-with-code-da9030ab3429)
