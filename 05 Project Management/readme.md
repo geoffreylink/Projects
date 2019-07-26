@@ -96,3 +96,6 @@ The role of Scribe is to:
 
 ## 5 Reasons To Have Fixed-Length Sprints
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/5ReasonsToHaveFixed-LengthSprints.png)
+
+## Programming Languages
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ProgrammingLanguages.png)
