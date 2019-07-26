@@ -36,10 +36,10 @@
 ## Great Data Visualization
 If your visualization cannot be understood in 3 seconds, it is not a good visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Visualizations/images/GreatDataVisualization.jpg)
+![](https://github.com/geoffreylink/Projects/blob/master/12%20Visualizations/images/PythonVisualizationLandscape.png)
 
 ## Choosing the Correct Data Visualization
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Visualizations/images/ChoosingTheCorrectDataVisualization.jpeg)
-![](https://github.com/geoffreylink/Projects/blob/master/12%20Visualizations/images/PythonVisualizationLandscape.png)
 
 ## A Visual Guide to Visualizations
 ![](https://github.com/geoffreylink/Projects/blob/master/12%20Visualizations/images/Visualizations_01.png)
