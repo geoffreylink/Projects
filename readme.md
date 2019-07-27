@@ -7,6 +7,7 @@
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 * [Top AI algorithms for Healthcare](https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
+* [The Worst May Be Yet to Come for Netflix](https://onezero.medium.com/the-worst-may-be-yet-to-come-for-netflix-2a429ed9c4f6)
 * [Top 10 Data Science Leaders You Should Follow](https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021)
 * [Top 10 Data Science & ML Tools for Non-Programmers](https://towardsdatascience.com/top-10-data-science-ml-tools-for-non-programmers-d12ce6dcccc)
 * [Achieving a top 5% position in an ML competition with AutoML](https://towardsdatascience.com/achieving-a-top-5-position-in-an-ml-competition-with-automl-89a5a6fb8060)
