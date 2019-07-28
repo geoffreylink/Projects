@@ -17,6 +17,7 @@
 * [Atlassian Confluence](https://www.atlassian.com/software/confluence)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
 * [Concepts Whiteboard](https://concepts.app/en/)
+* [Balsamiq Wire Framing](https://github.com/geoffreylink/Projects/tree/master/05%20Project%20Management)
 * [What is a Brilliant Jerk?](https://www.inc.com/jim-schleckser/why-netflix-doesn-t-tolerate-brilliant-jerks.html)
 * [Scaled Agile Framework](https://www.scaledagileframework.com)
 * [The 4-hour design sprint](https://ux.shopify.com/the-4-hour-design-sprint-b05b516cede7)
