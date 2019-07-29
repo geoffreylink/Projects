@@ -197,6 +197,7 @@
 
 ## A Visual Guide to Data Science
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/InterpretabilityAccuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/WhatAComputerSees.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/TopMethods2019vs2017.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningHighLevel.png)
