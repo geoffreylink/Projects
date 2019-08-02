@@ -2,6 +2,7 @@
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 
 ## 10mR
+* [BigML](https://bigml.com)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
