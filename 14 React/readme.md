@@ -7,6 +7,7 @@
 * [React Native Vs Ionic 2: Comparison](https://medium.com/swlh/react-native-vs-ionic-2-comparison-50aba900be6c)
 * [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+* [Understanding MVC Architecture with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
 * [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
 * [The Internet Has a Huge C/C++ Problem and Developers Don't Want to Deal With It](https://www.vice.com/en_us/article/a3mgxb/the-internet-has-a-huge-cc-problem-and-developers-dont-want-to-deal-with-it)
 * [Progressive Web Apps: Apple App Store, Google Play Store, It Was Nice Knowing You](https://hackernoon.com/progressive-web-apps-apple-app-store-google-play-store-it-was-nice-knowing-you-728a00350e67)
