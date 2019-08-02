@@ -120,3 +120,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/LackOfData_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/LackOfData_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/LackOfData_03.png)
+
+## Flexbility Interpretability Trade-off
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/FlexibilityInterpretabilityTradeOff.png)
