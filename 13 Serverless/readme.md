@@ -5,6 +5,7 @@
 * [Serverless](https://serverless.com)
 * [OpenFAAS](https://www.openfaas.com)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
+* [Amazon GraphQL](https://aws.amazon.com/graphql/)
 * [Google Firebase](https://firebase.google.com)
 * [Full Stack Python](https://www.fullstackpython.com/serverless.html)
 * [Is React just a fad?](https://medium.com/@PurpleGreenLemon/is-react-just-a-fad-564531652900)
