@@ -1,8 +1,11 @@
 ## Reference
 * [Memory Safety](https://en.wikipedia.org/wiki/Memory_safety)
 * [Ionic Framework](https://ionicframework.com)
+* [What Web Can Do Today](https://whatwebcando.today)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Progressive Web Apps](https://ionicframework.com/docs/v3/developer-resources/progressive-web-apps/)
+* [REACT Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+* [Progressive Web Apps Examples](https://appsco.pe)
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [React Native Vs Ionic 2: Comparison](https://medium.com/swlh/react-native-vs-ionic-2-comparison-50aba900be6c)
 * [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
