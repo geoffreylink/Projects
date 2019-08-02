@@ -40,6 +40,7 @@
 * [5 Reasons To Have Fixed-Length Sprints](https://www.knowledgehut.com/blog/agile/5-reasons-to-have-fixed-length-sprints)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [What is the Project Management Triangle?](https://en.wikipedia.org/wiki/Project_management_triangle)
+* [Building up a Data Science Team from Scratch](https://techblog.commercetools.com/building-up-a-data-science-team-from-scratch-7a7b24ba9f2d)
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The top project management methodologies](https://monday.com/blog/top-project-management-methodologies/)
 * [There are no new ideas, just better execution](https://www.businessinsider.com/there-are-no-new-business-ideas-2012-9)
