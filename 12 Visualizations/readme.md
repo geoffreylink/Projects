@@ -8,6 +8,7 @@
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
 * [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 * [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
+* [Build Your own Data Dashboard](https://towardsdatascience.com/build-your-own-data-dashboard-93e4848a0dcf)
 * [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
 * [How to map complex customer journeys](https://medium.com/geckoboard-under-the-hood/how-to-map-complex-customer-journeys-8e2379bb6572)
 * [Tips on Designing a Million Dollar Dashboard](https://medium.com/better-programming/tips-on-designing-a-dashboard-worth-millions-of-dollars-21b1f992dee2)
