@@ -43,6 +43,7 @@
 * [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
 * [What is Principal Component Analysis (PCA) and when should I use it?](https://medium.com/@josecacho/what-is-principal-component-analysis-pca-and-when-should-i-use-it-6305e880d69)
 * [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+* [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Boosting and Bagging: How To Develop A Robust Machine Learning Algorithm](https://medium.com/better-programming/how-to-develop-a-robust-algorithm-c38e08f32201)
 * [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
