@@ -32,6 +32,7 @@
 * [Serverless Architecture — Complete Reference Guide [2019]](https://medium.com/swlh/serverless-architecture-complete-reference-guide-2019-55363c08d1be)
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
+* [Building a full Node.js website in the FaaS world: Serverless Framework + AWS Lambda](https://medium.com/swlh/building-a-full-node-js-website-in-the-faas-world-serverless-framework-aws-e3a5bdca374a)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/FaaS.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessCarAnalogy.png)
