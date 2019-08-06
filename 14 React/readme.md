@@ -4,6 +4,7 @@
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Progressive Web Apps](https://ionicframework.com/docs/v3/developer-resources/progressive-web-apps/)
 * [What Web Can Do Today](https://whatwebcando.today)
+* [Hooks in React Native](https://medium.com/@reime005/hooks-in-react-native-ffca637760be)
 * [REACT Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 * [Progressive Web Apps Examples](https://appsco.pe)
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
@@ -15,5 +16,6 @@
 * [My favorite courses to learn React and Redux in 2019](https://dev.to/javinpaul/my-favorite-courses-to-learn-react-and-redux-in-2019-c6c)
 * [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
 * [I built a PWA and published it in 3 app stores. Here’s what I learned.](http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/)
+* [How I got my first developer job at age 40 after 10 months of hard work](https://medium.com/free-code-camp/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b0
 * [The Internet Has a Huge C/C++ Problem and Developers Don't Want to Deal With It](https://www.vice.com/en_us/article/a3mgxb/the-internet-has-a-huge-cc-problem-and-developers-dont-want-to-deal-with-it)
 * [Progressive Web Apps: Apple App Store, Google Play Store, It Was Nice Knowing You](https://hackernoon.com/progressive-web-apps-apple-app-store-google-play-store-it-was-nice-knowing-you-728a00350e67)
