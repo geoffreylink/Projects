@@ -62,6 +62,7 @@
 * [How to Improve Communication Frequency With Your Remote Team](https://medium.com/better-humans/how-to-improve-communication-frequency-with-your-remote-team-a446e15e5bb5)
 * [6 questions you must answer to identify your best way to implement AI](https://venturebeat.com/2018/06/14/6-questions-you-must-answer-to-identify-your-best-way-to-implement-ai/)
 * [Execs care about revenue. How do we get them to care about outcomes?](https://medium.com/@jboogie/execs-care-about-revenue-how-do-we-get-them-to-care-about-outcomes-5d541a823358)
+* [11 tricks Steve Jobs, Jeff Bezos, and other famous execs use to run meetings](https://www.businessinsider.com/steve-jobs-jeff-bezos-meeting-tricks-2014-11)
 * [Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously](https://medium.com/@hyung_money/book-review-sense-respond-8810874a67ad)
 
 ## What is the 'Rule of 3' for Presenting Decision Options to Senior Managers?
