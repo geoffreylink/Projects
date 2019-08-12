@@ -25,6 +25,7 @@
 * [Key Approaches to Mobile Development Explained](https://www.altexsoft.com/blog/mobile/key-approaches-to-mobile-development-explained/)
 * [SOAP vs. REST: A Look at Two Different API Styles](https://www.upwork.com/hiring/development/soap-vs-rest-comparing-two-apis/)
 * [AWS Lambda Language Comparison: Pros and Cons](https://epsagon.com/blog/aws-lambda-programming-language-comparison/)
+* [Bringing realtime to serverless web applications](https://itnext.io/using-iot-to-send-messages-back-to-your-serverless-front-end-fb335a099576)
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 * [How Much Does It Cost To Run A Serverless API on AWS?](https://alestic.com/2016/12/aws-invoice-example/)
 * [Nvidia EGX takes AI computing to the edge of the network](https://venturebeat.com/2019/05/27/nvidia-egx-takes-ai-computing-to-the-edge-of-the-network/)
