@@ -6,6 +6,7 @@
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
+* [How did I learn Data Science?](https://towardsdatascience.com/how-did-i-learn-data-science-d5f7fc477997)
 * [Top AI algorithms for Healthcare](https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
 * [The Worst May Be Yet to Come for Netflix](https://onezero.medium.com/the-worst-may-be-yet-to-come-for-netflix-2a429ed9c4f6)
