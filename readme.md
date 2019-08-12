@@ -20,6 +20,7 @@
 * [What I Learned from (Two-time) Kaggle Grandmaster Abhishek Thakur](https://medium.com/@jds2be/what-i-learned-from-abhishek-thakur-4b905ac0fd55)
 * [Why does Uber charge me more than my friend? AI and Dynamic Pricing](https://medium.com/swlh/why-is-your-friend-getting-a-cheaper-uber-fare-than-you-ai-and-the-new-frontier-in-dynamic-pricing-2b7d908deed0)
 * [12 Things I Learned During My First Year as a Machine Learning Engineer](https://towardsdatascience.com/12-things-i-learned-during-my-first-year-as-a-machine-learning-engineer-2991573a9195)
+* [A Layman’s Guide to Data Science: How to Become a (Good) Data Scientist](https://medium.com/sciforce/a-laymans-guide-to-data-science-how-to-become-a-good-data-scientist-97927ad51ed8)
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
 * [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
 * [Reinforcement Learning Applications: A Brief Guide on How to Get Business Value from RL](https://blog.goodaudience.com/reinforcement-learning-applications-a-brief-guide-on-how-to-get-business-value-from-rl-d46c12f3bc99)
