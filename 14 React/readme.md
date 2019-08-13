@@ -22,3 +22,4 @@
 * [How I got my first developer job at age 40 after 10 months of hard work](https://medium.com/free-code-camp/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
 * [The Internet Has a Huge C/C++ Problem and Developers Don't Want to Deal With It](https://www.vice.com/en_us/article/a3mgxb/the-internet-has-a-huge-cc-problem-and-developers-dont-want-to-deal-with-it)
 * [Progressive Web Apps: Apple App Store, Google Play Store, It Was Nice Knowing You](https://hackernoon.com/progressive-web-apps-apple-app-store-google-play-store-it-was-nice-knowing-you-728a00350e67)
+![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/ReactProsCons.png)
