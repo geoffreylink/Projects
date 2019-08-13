@@ -29,3 +29,7 @@
 
 ## Visualizations
 ![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/ReactProsCons.png)
+![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/LanguageClassification.png)
+![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/JSRuntimeEnvironment.png)
+![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/NodeJSSystem_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/NodeJSSystem_02.png)
