@@ -31,7 +31,6 @@
 * [Plotly Dash](https://plot.ly/products/dash/)
 * [Jupyter Dashboards](https://jupyter-dashboards-layout.readthedocs.io/en/latest/)
 * [10 Python image manipulation tools](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)
-* [Learn Enough React For The Interview](https://medium.com/bb-tutorials-and-thoughts/learn-enough-react-for-the-interview-f460a2fa3aeb)
 
 ## Great Data Visualization
 If your visualization cannot be understood in 3 seconds, it is not a good visualization
