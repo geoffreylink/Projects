@@ -23,6 +23,7 @@
 * [A Layman’s Guide to Data Science: How to Become a (Good) Data Scientist](https://medium.com/sciforce/a-laymans-guide-to-data-science-how-to-become-a-good-data-scientist-97927ad51ed8)
 * [How we built a big data platform on AWS for 100 users for under $2 a month](https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4)
 * [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
+* [Why Cutting Costs is Expensive: How $9/Hour Software Engineers Cost Boeing Billions](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [Reinforcement Learning Applications: A Brief Guide on How to Get Business Value from RL](https://blog.goodaudience.com/reinforcement-learning-applications-a-brief-guide-on-how-to-get-business-value-from-rl-d46c12f3bc99)
 
 ## Interview Resources
