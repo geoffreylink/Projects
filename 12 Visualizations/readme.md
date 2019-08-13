@@ -4,7 +4,6 @@
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Mike Bostock](https://bost.ocks.org/mike/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
-* [You don’t know Node](https://medium.com/edge-coders/you-dont-know-node-6515a658a1ed)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
 * [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 * [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
