@@ -1,4 +1,7 @@
 ## Reference
+* [You don’t know Node](https://medium.com/edge-coders/you-dont-know-node-6515a658a1ed)
+* [Learn Enough React For The Interview](https://medium.com/bb-tutorials-and-thoughts/learn-enough-react-for-the-interview-f460a2fa3aeb)
+* [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ)
 * [Memory Safety](https://en.wikipedia.org/wiki/Memory_safety)
 * [Ionic Framework](https://ionicframework.com)
 * [Hooks in React Native](https://medium.com/@reime005/hooks-in-react-native-ffca637760be)
