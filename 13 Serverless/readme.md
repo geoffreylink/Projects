@@ -5,7 +5,6 @@
 * [GraphQL](https://graphql.org)
 * [Serverless](https://serverless.com)
 * [OpenFAAS](https://www.openfaas.com)
-* [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
 * [Google Firebase](https://firebase.google.com)
 * [Amazon GraphQL](https://aws.amazon.com/graphql/)
 * [Full Stack Python](https://www.fullstackpython.com/serverless.html)
