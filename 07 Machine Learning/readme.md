@@ -47,6 +47,7 @@
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
 * [Boosting and Bagging: How To Develop A Robust Machine Learning Algorithm](https://medium.com/better-programming/how-to-develop-a-robust-algorithm-c38e08f32201)
+* [Built-in Machine Learning Algorithms with Amazon SageMaker - a Deep Dive](https://www.youtube.com/watch?v=yGc0qePSYig&feature=youtu.be&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
 * [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 * [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
