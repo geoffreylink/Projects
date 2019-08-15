@@ -89,3 +89,7 @@
 
 ## Graphana
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/Graphana_Kafka.png)
+
+## AWS Sagemaker Endpoints
+* [AWS Sagemaker Endpoints](https://youtu.be/KFuc2KWrTHs?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSSagemakerEndpoints.png)
