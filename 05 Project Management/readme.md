@@ -47,6 +47,7 @@
 * [What does an agile product roadmap look like?](https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef)
 * [How to set up a Minimum Viable Product (MVP)](https://medium.com/ideachain/from-a-problem-to-a-well-defined-mvp-in-8-steps-88efa12c1345)
 * [The most important skill a programmer can learn](https://www.freecodecamp.org/news/the-most-important-skill-a-programmer-can-learn-9d410c786baf/)
+* [AI Ops — Managing the End-to-End Lifecycle of AI](https://medium.com/inside-machine-learning/ai-ops-managing-the-end-to-end-lifecycle-of-ai-3606a59591b0)
 * [How to Survive Corporate Politics as a Data Scientist](https://medium.com/better-programming/how-to-survive-corporate-politics-as-a-data-scientist-ba914fac2471)
 * [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
 * [Give teams a problem to solve, not a solution to implement](https://blog.usejournal.com/give-teams-a-problem-to-solve-not-a-solution-to-implement-52ad16252716)
