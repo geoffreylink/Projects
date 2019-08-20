@@ -44,6 +44,7 @@
 * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ru//pubs/archive/45530.pdf)
 * [Calculus — Multivariate Calculus And Machine Learning](https://medium.com/fintechexplained/calculus-multivariate-calculus-and-machine-learning-242b9efcb41c)
+* [Interpreting Deep Learning Models for Computer Vision](https://medium.com/google-developer-experts/interpreting-deep-learning-models-for-computer-vision-f95683e23c1d)
 * [Visualising Filters and Feature Maps for Deep Learning](https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Advanced Topics in Deep Convolutional Neural Networks](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d)
