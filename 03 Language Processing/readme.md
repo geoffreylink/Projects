@@ -12,6 +12,7 @@
 * [Get started with NLP (Part II): overview of an NLP workflow](https://medium.com/@gon.esbuyo/get-started-with-nlp-part-ii-overview-of-an-nlp-workflow-7ba1f5948b24)
 * [Parsing Structured Documents with Custom Entity Extraction](https://towardsdatascience.com/custom-entity-extraction-e966e00f6f47)
 * [Finding Similar Quora Questions with Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
+* [Training Word Embeddings On AWS SageMaker Using BlazingText](https://towardsdatascience.com/training-word-embeddings-on-aws-sagemaker-using-blazingtext-93d0a0838212)
 * [NLP vs. NLU: from Understanding a Language to Its Processing](https://medium.com/sciforce/nlp-vs-nlu-from-understanding-a-language-to-its-processing-1bf1f62453c1)
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 * [An introduction to part-of-speech tagging and the Hidden Markov Model](https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24)
