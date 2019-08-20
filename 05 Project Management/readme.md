@@ -103,3 +103,6 @@ The role of Scribe is to:
 
 ## Programming Languages
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ProgrammingLanguages.png)
+
+## Data Science Lifecycle
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/DataScienceLifecycle.png)
