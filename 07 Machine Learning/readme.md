@@ -1,5 +1,6 @@
 ## Reference
 * [H20](https://www.h2o.ai)
+* [Harp](https://dsc-spidal.github.io/harp/)
 * [Arxiv](http://arxiv-sanity.com)
 * [CS109](http://cs109.github.io/2015/pages/videos.html)
 * [PyMC3](https://docs.pymc.io/nb_examples/index.html)
