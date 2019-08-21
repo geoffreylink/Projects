@@ -11,6 +11,7 @@
 * [ML Explained](http://mlexplained.com)
 * [100 page ML Book](http://themlbook.com/wiki/doku.php)
 * [Andrew Ng Coursera](https://www.youtube.com/watch?v=qeHZOdmJvFU&index=1&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+* [CapitalOne SageMaker](https://www.capitalone.com/tech/machine-learning/building-machine-learning-models-using-k-means-algorithm-and-amazon-sagemaker)
 * [Machine Learning Mastery](https://machinelearningmastery.com)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
