@@ -1,5 +1,6 @@
 ## Reference
 * [Dask](https://dask.org)
+* [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 * [pythex](https://pythex.org)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Awesome Python](https://awesome-python.com)
