@@ -108,6 +108,7 @@
 * [Piotr Skalski](https://github.com/SkalskiP)
 * [Springboard](https://www.springboard.com/blog/machine-learning-interview-questions/)
 * [Netflix](https://medium.com/netflix-techblog) - [OSS](https://netflix.github.io)
+* [Capital One](https://www.capitalone.com/tech/explore)
 * [Bill Chambers](http://billchambers.me)
 * [Curious Insight](https://www.johnwittenauer.net)
 * [Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
