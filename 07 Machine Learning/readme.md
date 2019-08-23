@@ -49,6 +49,7 @@
 * [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
 * [What is Principal Component Analysis (PCA) and when should I use it?](https://medium.com/@josecacho/what-is-principal-component-analysis-pca-and-when-should-i-use-it-6305e880d69)
 * [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+* [An easy introduction to unsupervised learning with 4 basic techniques](https://towardsdatascience.com/an-easy-introduction-to-unsupervised-learning-with-4-basic-techniques-da7fbf0c3adf)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
 * [Built-in Machine Learning Algorithms with Amazon SageMaker - a Deep Dive](https://www.youtube.com/watch?v=yGc0qePSYig&feature=youtu.be&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
