@@ -19,6 +19,7 @@
 * [Understanding MVC Architecture with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
 * [My favorite courses to learn React and Redux in 2019](https://dev.to/javinpaul/my-favorite-courses-to-learn-react-and-redux-in-2019-c6c)
 * [Advantages of Developing Modern Web apps with React.js](https://medium.com/@hamzamahmood/advantages-of-developing-modern-web-apps-with-react-js-8504c571db71)
+* [Moving a static website to AWS S3 + CloudFront with HTTPS](https://medium.com/@willmorgan/moving-a-static-website-to-aws-s3-cloudfront-with-https-1fdd95563106)
 * [What I’ve Learned Building 4 React Native Apps Over 3 Years](https://medium.com/input-logic/what-ive-learned-building-4-react-native-apps-over-3-years-6b5035f8282d)
 * [How to Learn React — A roadmap from beginner to advanced](https://medium.com/free-code-camp/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 * [11 React Native Component Libraries you Should Know in 2019](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
