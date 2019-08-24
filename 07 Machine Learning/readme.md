@@ -15,6 +15,7 @@
 * [CapitalOne SageMaker](https://www.capitalone.com/tech/machine-learning/building-machine-learning-models-using-k-means-algorithm-and-amazon-sagemaker)
 * [Machine Learning Mastery](https://machinelearningmastery.com)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+* [Principal Component Analysis](https://medium.com/@mallrishabh52/principal-components-analysis-7f6ff559cd83)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [Machine Learning In 8 Minutes](https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b)
