@@ -16,6 +16,7 @@
 * [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
 * [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+* [What is a PWA and why should you care?](https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad)
 * [Understanding MVC Architecture with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
 * [My favorite courses to learn React and Redux in 2019](https://dev.to/javinpaul/my-favorite-courses-to-learn-react-and-redux-in-2019-c6c)
 * [Advantages of Developing Modern Web apps with React.js](https://medium.com/@hamzamahmood/advantages-of-developing-modern-web-apps-with-react-js-8504c571db71)
