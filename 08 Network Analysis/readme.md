@@ -21,6 +21,7 @@
 * [Social Network Analysis with Python and NetworkX](https://github.com/jtorrents/pydata_bcn_NetworkX)
 * [Top 30 Social Network Analysis and Visualization Tools](https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html)
 * [A Day with Network Analysis in Python Using NetworkX](https://medium.com/@pankajmishrajec/a-day-with-network-analysis-in-python-using-networkx-d9ac446b4eec)
+* [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 * [Network analysis to quickly get insight into an academic field with python](https://towardsdatascience.com/network-analysis-to-quickly-get-insight-into-an-academic-field-with-python-cd891717d547)
 * [An Introduction to Graph Theory and Network Analysis (with Python codes)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
 
