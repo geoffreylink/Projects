@@ -6,6 +6,7 @@
 * [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
 * [Beginner's Guide to Google's Vision API in Python](https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api)
 * [Introduction to Computer Vision With OpenCV and Python](https://dzone.com/articles/introduction-to-computer-vision-with-opencv-and-py)
+* [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 * [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
 * [16 OpenCV Functions to Start your Computer Vision journey (with Python code)](https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/)
 
