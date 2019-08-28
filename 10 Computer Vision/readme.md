@@ -2,6 +2,7 @@
 * [Pillow](https://python-pillow.org)
 * [OpenCV](https://opencv.org)
 * [OpenMV](https://openmv.io)
+* [EfficientNet Explained!](https://youtu.be/3svIm5UC94I)
 * [AI with Python – Computer Vision](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_computer_vision.htm)
 * [Semantic Segmentation — Popular Architectures](https://towardsdatascience.com/semantic-segmentation-popular-architectures-dff0a75f39d0)
 * [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
