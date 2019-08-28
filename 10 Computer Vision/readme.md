@@ -3,6 +3,7 @@
 * [OpenCV](https://opencv.org)
 * [OpenMV](https://openmv.io)
 * [AI with Python – Computer Vision](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_computer_vision.htm)
+* [Semantic Segmentation — Popular Architectures](https://github.com/geoffreylink/Projects/tree/master/10%20Computer%20Vision)
 * [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
 * [Beginner's Guide to Google's Vision API in Python](https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
