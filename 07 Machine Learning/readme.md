@@ -137,3 +137,6 @@
 
 ## Flexbility Interpretability Trade-off
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/FlexibilityInterpretabilityTradeOff.png)
+
+## Weighted Voter (Ensemble Method)
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/WeightedVoter.png)
