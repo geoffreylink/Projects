@@ -24,6 +24,7 @@
 * [Basic Statistics Every Data Scientist Should Know](https://medium.com/better-programming/statistics-review-for-data-scientists-and-management-df8f94760221)
 * [Beyond A/B Testing: Multi-armed Bandit Experiments](https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804)
 * [A Visual Guide to Time Series Decomposition Analysis](https://medium.com/better-programming/a-visual-guide-to-time-series-decomposition-analysis-a1472bb9c930)
+* [Linear Regression from Scratch with NumPy — Intuition](https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-5485abc9f2e4)
 * [Comparison between Naïve Bayes and Logistic Regression](https://dataespresso.com/en/2017/10/24/comparison-between-naive-bayes-and-logistic-regression/)
 * [The 5 discrete distributions every Statistician should know](https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782)
 * [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
