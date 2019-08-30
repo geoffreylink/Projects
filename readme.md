@@ -20,6 +20,7 @@
 * [Achieving a top 5% position in an ML competition with AutoML](https://towardsdatascience.com/achieving-a-top-5-position-in-an-ml-competition-with-automl-89a5a6fb8060)
 * [6 Tools that Make Microsoft the Go-to for Machine Learning Now](https://medium.com/datadriveninvestor/6-reasons-microsoft-has-become-the-go-to-for-machine-learning-e642864ef5f5)
 * [Why VPNs Are Suddenly Everywhere, and How to Pick the Best One](https://onezero.medium.com/why-vpns-are-suddenly-everywhere-and-how-to-pick-the-best-one-22d4cfdeff6f)
+* [Integrating business optimization with a machine learning model](https://towardsdatascience.com/integrating-business-optimization-with-a-machine-learning-model-ad0471420693)
 * [How Microsoft Azure Machine Learning Studio Clarifies Data Science](https://towardsdatascience.com/how-microsoft-azure-machine-learning-studio-clarifies-data-science-8e8d3e6ed64e)
 * [What I Learned from (Two-time) Kaggle Grandmaster Abhishek Thakur](https://medium.com/@jds2be/what-i-learned-from-abhishek-thakur-4b905ac0fd55)
 * [Why does Uber charge me more than my friend? AI and Dynamic Pricing](https://medium.com/swlh/why-is-your-friend-getting-a-cheaper-uber-fare-than-you-ai-and-the-new-frontier-in-dynamic-pricing-2b7d908deed0)
