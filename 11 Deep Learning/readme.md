@@ -80,6 +80,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/Weights.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GradientDescent.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/CostFunctionOneParameter.png)
+# Cost Function plotted against many parameters
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/CostFunctionManyParameters.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GlobalvsLocalMinimum.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/LearningRate.png)
