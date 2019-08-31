@@ -19,6 +19,7 @@
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [What is a PWA and why should you care?](https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad)
 * [Understanding MVC Architecture with React](https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd)
+* [Progressive Web Apps 101: the What, Why and How](https://medium.com/free-code-camp/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2)
 * [My favorite courses to learn React and Redux in 2019](https://dev.to/javinpaul/my-favorite-courses-to-learn-react-and-redux-in-2019-c6c)
 * [Advantages of Developing Modern Web apps with React.js](https://medium.com/@hamzamahmood/advantages-of-developing-modern-web-apps-with-react-js-8504c571db71)
 * [Moving a static website to AWS S3 + CloudFront with HTTPS](https://medium.com/@willmorgan/moving-a-static-website-to-aws-s3-cloudfront-with-https-1fdd95563106)
