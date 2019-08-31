@@ -32,6 +32,7 @@
 * [Statistical forecasting: notes on regression and time series analysis](http://people.duke.edu/~rnau/411home.htm)
 * [How to Create an ARIMA Model for Time Series Forecasting in Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* [Forecasting Electricity Price Time Series Data in Python using a VAR Model](https://towardsdatascience.com/analyzing-electricity-price-time-series-data-using-python-time-series-decomposition-and-price-4cd61924ef49)
 
 ## Wisdom
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/AllModelsAreWrong_01.png)
