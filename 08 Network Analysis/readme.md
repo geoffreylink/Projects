@@ -24,6 +24,7 @@
 * [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 * [Network analysis to quickly get insight into an academic field with python](https://towardsdatascience.com/network-analysis-to-quickly-get-insight-into-an-academic-field-with-python-cd891717d547)
 * [An Introduction to Graph Theory and Network Analysis (with Python codes)](https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/)
+* [Let’s Think in Graphs: Introduction to Graph Theory and its Applications using Python](https://www.analyticsvidhya.com/blog/2018/09/introduction-graph-theory-applications-python/)
 
 ## Graph Types
 ![](https://github.com/geoffreylink/Projects/blob/master/08%20Network%20Analysis/images/GraphTypes.png)
