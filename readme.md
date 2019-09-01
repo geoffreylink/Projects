@@ -6,6 +6,7 @@
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [AWS Cloud Solutions](https://aws.amazon.com/solutions/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=*all)
+* [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 * [How did I learn Data Science?](https://towardsdatascience.com/how-did-i-learn-data-science-d5f7fc477997)
 * [15 Open Datasets for Healthcare](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
