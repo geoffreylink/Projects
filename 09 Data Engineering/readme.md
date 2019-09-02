@@ -72,6 +72,7 @@
 ## Cloud Computing Patterns & Variants
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/CloudComputingPatterns.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/CloudComputingVariants.png)
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/CloudServices.png)
 
 ## Visual Guide to Data Engineering
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/DataEngineering.png)
