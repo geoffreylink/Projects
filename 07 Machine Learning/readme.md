@@ -66,6 +66,9 @@
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 * [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
 
+## Building Blocks of Supervised Learning
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/BuildingBlocksSupervisedLearning.png)
+
 ## Machine Learning Decision Tree
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/SupervisedvsUnsupervised.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/Classification-Machine-Learning-Algorithm.png)
