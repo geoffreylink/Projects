@@ -17,6 +17,7 @@
 * [Time Complexities Of Python Data Structures](https://medium.com/fintechexplained/time-complexities-of-python-data-structures-ddb7503790ef)
 * [3 Great Additions for your Jupyter Notebooks](https://towardsdatascience.com/three-great-additions-for-your-jupyter-notebooks-cd7373b00e96)
 * [Ever Wonder How Spotify Discover Weekly Works?](http://blog.galvanize.com/spotify-discover-weekly-data-science/)
+* [GPU Accelerated Data Analytics & Machine Learning](https://towardsdatascience.com/gpu-accelerated-data-analytics-machine-learning-963aebe956ce)
 * [Once You’re in the Cloud, How Expensive Is It to Get Out?](https://www.nefiber.com/blog/cloud-egress-charges/)
 * [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
 * [One Simple Trick for Speeding up your Python Code with Numpy](https://towardsdatascience.com/one-simple-trick-for-speeding-up-your-python-code-with-numpy-1afc846db418)
