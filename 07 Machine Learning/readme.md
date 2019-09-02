@@ -30,6 +30,7 @@
 * [Get started with Bayesian Inference](https://medium.com/@andreasherman/get-started-with-bayesian-inference-cec9ad4ccd55)
 * [Building Intuition for Random Forests](https://medium.com/x8-the-ai-community/building-intuition-for-random-forests-76d36fa28c5e)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [Building Blocks of Supervised Learning](https://towardsdatascience.com/building-blocks-of-supervised-learning-cebab32c15ac)
 * [Discriminative vs. Generative Classifiers](https://towardsdatascience.com/a-generative-approach-to-classification-17a0b5876729)
 * [What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)
 * [Introduction to Principal Component Analysis](https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6)
