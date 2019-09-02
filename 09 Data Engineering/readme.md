@@ -20,6 +20,7 @@
 * [Once You’re in the Cloud, How Expensive Is It to Get Out?](https://www.nefiber.com/blog/cloud-egress-charges/)
 * [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
 * [One Simple Trick for Speeding up your Python Code with Numpy](https://towardsdatascience.com/one-simple-trick-for-speeding-up-your-python-code-with-numpy-1afc846db418)
+* [Everything a Data Scientist Should Know About Data Management](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
 * [Python Pro Tip: Use Itertools, Generators, and Generator Expressions](https://towardsdatascience.com/python-pro-tip-use-itertools-generators-and-generator-expressions-1b84911c978)
 * [Why Are There So Many Pythons? A Python Implementation Comparison](https://www.toptal.com/python/why-are-there-so-many-pythons)
 * [From relational DB to single DynamoDB table: a step-by-step exploration](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/)
