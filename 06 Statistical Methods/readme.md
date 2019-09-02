@@ -80,6 +80,18 @@ The estimation of the model is obtained by maximizing the log-likelihood over th
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/Stationary_Mean.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/Stationary_Variance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/Stationary_Covariance.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesPastPresentFuture.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesPatterns.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesUseCases.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesModels.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesDifferencing.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesLinearNonlinear.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesSeasonalNonseasonal.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesUnivariateMultivariate.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesExample.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesMostKnown.png)
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesSlidingWindow.png)
+
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/CustomerJourney.png)
 
 ## Linear Regression and Errors
