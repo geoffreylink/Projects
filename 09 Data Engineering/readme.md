@@ -75,6 +75,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/CloudServices.png)
 
 ## Visual Guide to Data Engineering
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/DataManagement.jpeg)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/DataEngineering.png)
 
 ## Data Pipeline
