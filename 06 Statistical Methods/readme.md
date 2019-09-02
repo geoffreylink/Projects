@@ -81,14 +81,19 @@ The estimation of the model is obtained by maximizing the log-likelihood over th
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/Stationary_Variance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/Stationary_Covariance.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesPastPresentFuture.png)
+## Time Series Patterns
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesPatterns.png)
+## Time Series Use Cases
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesUseCases.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesModels.png)
+## Times Series Differencing
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesDifferencing.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesLinearNonlinear.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesSeasonalNonseasonal.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesUnivariateMultivariate.png)
+## Time Series Example
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesExample.png)
+## Time Series Common Methods
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesMostKnown.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/TimeSeriesSlidingWindow.png)
 
