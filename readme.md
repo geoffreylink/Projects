@@ -20,6 +20,7 @@
 * [2020 and Beyond Programming Trend Predictions](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
 * [Top 10 Data Science & ML Tools for Non-Programmers](https://towardsdatascience.com/top-10-data-science-ml-tools-for-non-programmers-d12ce6dcccc)
 * [Achieving a top 5% position in an ML competition with AutoML](https://towardsdatascience.com/achieving-a-top-5-position-in-an-ml-competition-with-automl-89a5a6fb8060)
+* [Everything a Data Scientist Should Know About Data Management](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
 * [Integrating business optimization with a machine learning model](https://towardsdatascience.com/integrating-business-optimization-with-a-machine-learning-model-ad0471420693)
 * [6 Tools that Make Microsoft the Go-to for Machine Learning Now](https://medium.com/datadriveninvestor/6-reasons-microsoft-has-become-the-go-to-for-machine-learning-e642864ef5f5)
 * [Why VPNs Are Suddenly Everywhere, and How to Pick the Best One](https://onezero.medium.com/why-vpns-are-suddenly-everywhere-and-how-to-pick-the-best-one-22d4cfdeff6f)
