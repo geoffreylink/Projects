@@ -23,6 +23,7 @@
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 * [An Introduction to Transfer Learning](https://medium.com/georgian-impact-blog/transfer-learning-part-1-ed0c174ad6e7)
 * [Advanced Topics in Neural Networks](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae)
+* [Understanding and visualizing ResNets](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
 * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 * [10 New Things I Learnt from fast.ai v3](https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33)
 * [Intermediate Topics in Neural Networks](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98)
