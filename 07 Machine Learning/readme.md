@@ -38,6 +38,7 @@
 * [Discriminative vs. Generative Classifiers](https://towardsdatascience.com/a-generative-approach-to-classification-17a0b5876729)
 * [What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)
 * [Introduction to Principal Component Analysis](https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6)
+* [A Beginners Guide to Random Forest Regression](https://medium.com/datadriveninvestor/random-forest-regression-9871bc9a25eb)
 * [Support Vector Machine vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
 * [The Kernel Trick in Support Vector Classification](https://towardsdatascience.com/the-kernel-trick-c98cdbcaeb3f)
 * [Machine Learning Algorithms for Every Occasion](https://towardsdatascience.com/machine-learning-algorithms-for-every-occasion-90a0ef2e63b6)
