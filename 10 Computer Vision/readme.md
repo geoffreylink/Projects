@@ -3,6 +3,7 @@
 * [OpenCV](https://opencv.org)
 * [OpenMV](https://openmv.io)
 * [Mask R-CNN](https://github.com/matterport/Mask_RCNN)
+* [Google Vision AI](https://cloud.google.com/vision/#industry-leading-accuracy-for-image-understanding)
 * [EfficientNet Explained!](https://youtu.be/3svIm5UC94I)
 * [AI with Python – Computer Vision](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_computer_vision.htm)
 * [Semantic Segmentation with Deep Learning](https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823)
