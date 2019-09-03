@@ -29,6 +29,7 @@
 * [Intermediate Topics in Neural Networks](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98)
 * [Understanding Tensor Processing Units](https://medium.com/sciforce/understanding-tensor-processing-units-10ff41f50e78)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [Understanding and visualizing DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
 * [Reinforcement Learning With Python — AI](https://medium.com/@rinu.gour123/reinforcement-learning-with-python-ai-92951084a9e6)
 * [List of Deep Learning and NLP Resources](http://cs-www.cs.yale.edu/homes/radev/dlnlp2017.pdf)
 * [Neural Network Activation Function Types](https://medium.com/fintechexplained/neural-network-activation-function-types-a85963035196)
