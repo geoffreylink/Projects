@@ -26,6 +26,7 @@
 * [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 * [A Beginner’s guide to XGBoost](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7)
 * [Open Machine Learning Course](https://mlcourse.ai)
+* [Ensemble of Voting Classifiers](https://www.kaggle.com/skooch/ensemble-of-xgboost-lgb-and-randomforest)
 * [Let’s Talk Bayesian Optimization](https://mlconf.com/blog/lets-talk-bayesian-optimization/)
 * [5 Powerful Scikit-Learn Examples](https://towardsdatascience.com/5-powerful-scikit-learn-models-e9b12375320d)
 * [Introduction to Bayesian Networks](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e)
