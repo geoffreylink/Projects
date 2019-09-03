@@ -61,6 +61,7 @@
 * [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 * [Recurrent neural networks and LSTM tutorial in Python and TensorFlow](https://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/)
 * [Machine learning fundamentals (I): Cost functions and gradient descent](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
+* [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
 * [Understanding Neural Networks: From Activation Function To Back Propagation](https://medium.com/fintechexplained/neural-networks-activation-function-to-back-propagation-understanding-neural-networks-bdd036c3f29f)
 * [This New Google Technique Help Us Understand How Neural Networks are Thinking](https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300)
 * [Deep Blue Sea: Using Deep Learning to Detect Hundreds of Different Plankton Species](https://towardsdatascience.com/deep-blue-sea-using-deep-learning-to-detect-hundreds-of-different-plankton-species-dff895d3b226)
