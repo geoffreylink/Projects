@@ -4,7 +4,7 @@
 * [Arxiv](http://arxiv-sanity.com)
 * [CS109](http://cs109.github.io/2015/pages/videos.html)
 * [PyMC3](https://docs.pymc.io/nb_examples/index.html)
-* LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+* [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 * [Kulbear](https://github.com/Kulbear)
 * [Anaconda](https://www.anaconda.com/anaconda-webinars/)
 * [Turi Create](https://github.com/apple/turicreate)
