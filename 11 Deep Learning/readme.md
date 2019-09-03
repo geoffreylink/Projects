@@ -7,6 +7,7 @@
 * [Tensorflow](https://www.tensorflow.org/tutorials)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
 * [Metacademy](https://metacademy.org/graphs/concepts/weight_decay_neural_networks#focus=backpropagation&mode=learn)
+* [SparseConvNet](https://github.com/facebookresearch/SparseConvNet)
 * [deepschool.io](https://github.com/RyanSydney/deepschool.io)
 * [deeplearning.ai](https://www.deeplearning.ai)
 * [Easy Tensorflow](http://www.easy-tensorflow.com)
