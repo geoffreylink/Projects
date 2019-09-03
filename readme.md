@@ -71,6 +71,7 @@
 * [CS565500 Large-Scale Machine Learning](http://www.cs.nthu.edu.tw/~shwu/courses/ml/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Top Sources For Machine Learning Datasets](https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b)
+* [Summary of Machine Learning Ensemble Techniques](https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/)
 
 ## Free Online Books
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
