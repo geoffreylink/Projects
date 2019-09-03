@@ -17,6 +17,7 @@
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [Moving from Keras to Pytorch](https://towardsdatascience.com/moving-from-keras-to-pytorch-f0d4fff4ce79)
 * [Beginner's Guide to Audio Data](https://www.kaggle.com/nafisur/beginner-s-guide-to-audio-data-90b7f7)
+* [Beginner's Guide to Audio Data II](https://www.kaggle.com/mpotma/learndatascience-presentation-lgbm-lb-0-836)
 * [Introduction to Neural Networks](https://towardsdatascience.com/simple-introduction-to-neural-networks-ac1d7c3d7a2c)
 * [China’s Big AI Advantage: Humans](https://www.youtube.com/watch?v=tMZgRTQ-hv4)
 * [Neural Networks Bias And Weights](https://medium.com/fintechexplained/neural-networks-bias-and-weights-10b53e6285da)
