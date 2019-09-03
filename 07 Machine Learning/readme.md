@@ -12,6 +12,7 @@
 * [Data School](https://www.dataschool.io)
 * [TNSE vs PCA](https://medium.com/@sourajit16.02.93/tsne-t-distributed-stochastic-neighborhood-embedding-state-of-the-art-c2b4b875b7da)
 * [ML Explained](http://mlexplained.com)
+* [Google AutoML](https://cloud.google.com/automl/)
 * [100 page ML Book](http://themlbook.com/wiki/doku.php)
 * [Andrew Ng Coursera](https://www.youtube.com/watch?v=qeHZOdmJvFU&index=1&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 * [CapitalOne SageMaker](https://www.capitalone.com/tech/machine-learning/building-machine-learning-models-using-k-means-algorithm-and-amazon-sagemaker)
