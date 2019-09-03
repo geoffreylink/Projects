@@ -11,6 +11,7 @@
 * [Microsoft Computer Vision API: Jupyter Notebook](https://github.com/microsoft/Cognitive-Vision-Python)
 * [Beginner's Guide to Google's Vision API in Python](https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api)
 * [Understanding Semantic Segmentation with UNET](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
+* [Generative Adversarial Networks (GANs) Introduction](https://www.kaggle.com/jesucristo/gan-introduction)
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 * [Introduction to Computer Vision With OpenCV and Python](https://dzone.com/articles/introduction-to-computer-vision-with-opencv-and-py)
 * [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
