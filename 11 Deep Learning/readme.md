@@ -58,6 +58,7 @@
 * [Advanced Topics in Deep Convolutional Neural Networks](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d)
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 * [Diving deeper into Reinforcement Learning with Q-Learning](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe)
+* [Automatically finding the best Neural Network for your GAN](https://towardsdatascience.com/automatically-finding-the-best-neural-network-for-your-gan-c0b97a5949f2)
 * [Kaggle vs. Colab Faceoff — Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
