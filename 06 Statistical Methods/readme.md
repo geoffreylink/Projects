@@ -13,6 +13,7 @@
 * [Poisson Distribution Intuition](https://medium.com/@aerinykim/poisson-distribution-intuition-and-derivation-1059aeab90d)
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
 * [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
+* [Logistic Regression In Python](https://towardsdatascience.com/logistic-regression-python-7c451928efee)
 * [P-values Explained By Data Scientist](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
 * [How to Use Linear Regression with Python](https://medium.com/better-programming/data-science-modeling-how-to-use-linear-regression-with-python-fdf6ca5481be)
