@@ -4,6 +4,7 @@
 * [pythex](https://pythex.org)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Awesome Python](https://awesome-python.com)
+* [Imbalanced-Learn](http://imbalanced-learn.org/en/stable/index.html)
 * [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
 * [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)
 * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
