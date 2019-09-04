@@ -197,5 +197,6 @@ There are many popular activation functions that play a significant role in buil
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/ParsimonyWins.png)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GAN.png)
+![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/GANStructure.png)
 ## CGAN
 ![](https://github.com/geoffreylink/Projects/blob/master/11%20Deep%20Learning/images/CGAN.png)
