@@ -79,7 +79,7 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 2) Logistic Regression, which uses a functional approach
 3) Support Vector Machines, which uses a geometrical approach
 4) XGBoost
-5) [AWS Classifiction](https://youtu.be/yGc0qePSYig?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&t=281)
+5) [AWS Classification](https://youtu.be/yGc0qePSYig?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&t=281)
 
 ## Building Blocks of Supervised Learning
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/BuildingBlocksSupervisedLearning.png)
