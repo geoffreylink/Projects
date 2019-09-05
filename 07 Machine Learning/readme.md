@@ -73,6 +73,12 @@
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 * [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
 
+## Data Science is 70% classification problems
+Three of the most popular classifiers within Machine Learning (which use 3 different mathematical approaches to classify data) are:
+1) Naive Bayes, which uses a statistical (Bayesian) approach
+2) Logistic Regression, which uses a functional approach
+3) Support Vector Machines, which uses a geometrical approach
+
 ## Building Blocks of Supervised Learning
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/BuildingBlocksSupervisedLearning.png)
 
