@@ -20,6 +20,7 @@
 * [P-values Explained By Data Scientist](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
 * [How the Naive Bayes Algorithm Works](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
+* [Naive Bayes Classification With Sklearn](https://blog.sicara.com/naive-bayes-classifier-sklearn-python-example-tips-42d100429e44)
 * [How to Use Linear Regression with Python](https://medium.com/better-programming/data-science-modeling-how-to-use-linear-regression-with-python-fdf6ca5481be)
 * [Churn Prediction and Prevention in Python](https://towardsdatascience.com/churn-prediction-and-prevention-in-python-2d454e5fd9a5)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
