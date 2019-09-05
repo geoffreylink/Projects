@@ -17,6 +17,7 @@
 * [Real World Bayesian Examples](https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials)
 * [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
 * [Frequentist vs Bayesian Examples](https://www.quantstart.com/articles/Bayesian-Statistics-A-Beginners-Guide)
+* [How the Naive Bayes Algorithm Works](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
 * [P-values Explained By Data Scientist](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
 * [How to Use Linear Regression with Python](https://medium.com/better-programming/data-science-modeling-how-to-use-linear-regression-with-python-fdf6ca5481be)
