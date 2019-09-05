@@ -125,3 +125,6 @@ The estimation of the model is obtained by maximizing the log-likelihood over th
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/MeanSquaredError.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/SimpleLinearRegression.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/PolynomialRegression.png)
+
+## Bayes Theorem
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/BayesTheorem.png)
