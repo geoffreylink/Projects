@@ -44,6 +44,7 @@
 * [Comparison between Naïve Bayes and Logistic Regression](https://dataespresso.com/en/2017/10/24/comparison-between-naive-bayes-and-logistic-regression/)
 * [The 5 discrete distributions every Statistician should know](https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782)
 * [What is a Support Vector Machine, and Why Would I Use it?](https://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
+* [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
 * [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 * [Classifying data using Support Vector Machines (SVMs) in Python](https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/)
 * [How do you check the quality of your regression model in Python?](https://towardsdatascience.com/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685)
