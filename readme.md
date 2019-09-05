@@ -1,5 +1,6 @@
 # Welcome!
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+* [Data Science Map](https://www.saedsayad.com/data_mining_map.htm)
 
 ## 10mR
 * [BigML](https://bigml.com)
