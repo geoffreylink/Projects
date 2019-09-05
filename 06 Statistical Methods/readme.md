@@ -21,6 +21,7 @@
 * [How the Naive Bayes Algorithm Works](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
 * [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+* [Support Vector Machines - Scikit Learn](https://scikit-learn.org/stable/modules/svm.html)
 * [Naive Bayes Classification With Sklearn](https://blog.sicara.com/naive-bayes-classifier-sklearn-python-example-tips-42d100429e44)
 * [How to Use Linear Regression with Python](https://medium.com/better-programming/data-science-modeling-how-to-use-linear-regression-with-python-fdf6ca5481be)
 * [Support Vector Machines with Scikit-learn](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
