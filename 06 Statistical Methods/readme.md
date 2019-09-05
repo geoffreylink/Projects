@@ -39,6 +39,7 @@
 * [A Visual Guide to Time Series Decomposition Analysis](https://medium.com/better-programming/a-visual-guide-to-time-series-decomposition-analysis-a1472bb9c930)
 * [Linear Regression from Scratch with NumPy — Intuition](https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-5485abc9f2e4)
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
+* [What is a Support Vector Machine, and Why Would I Use it?](https://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
 * [Comparison between Naïve Bayes and Logistic Regression](https://dataespresso.com/en/2017/10/24/comparison-between-naive-bayes-and-logistic-regression/)
 * [The 5 discrete distributions every Statistician should know](https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782)
 * [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
