@@ -46,6 +46,7 @@
 * [What is a Support Vector Machine, and Why Would I Use it?](https://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
 * [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 * [Understanding Support Vector Machine algorithm from examples](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+* [Understanding Naive Bayes Classifier from scratch : Python code](https://appliedmachinelearning.blog/2017/05/23/understanding-naive-bayes-classifier-from-scratch-python-code/)
 * [Classifying data using Support Vector Machines (SVMs) in Python](https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/)
 * [How do you check the quality of your regression model in Python?](https://towardsdatascience.com/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685)
 * [Statistical forecasting: notes on regression and time series analysis](http://people.duke.edu/~rnau/411home.htm)
