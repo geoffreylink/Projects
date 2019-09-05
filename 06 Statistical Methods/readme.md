@@ -14,6 +14,7 @@
 * [Logistic Regression In Python](https://towardsdatascience.com/logistic-regression-python-7c451928efee)
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
 * [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
+* [Real World Bayesian Examples](https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials)
 * [Frequentist vs Bayesian Examples](https://www.quantstart.com/articles/Bayesian-Statistics-A-Beginners-Guide)
 * [P-values Explained By Data Scientist](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
