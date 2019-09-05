@@ -155,6 +155,7 @@
 * [Peter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
 * [Ekaba Bisong](https://ekababisong.org/gcp-ml-seminar/scikit-learn/)
 * [Stephen Boyd](http://web.stanford.edu/~boyd/index.html)
+* [Jeremy Jordan](https://www.jeremyjordan.me)
 * [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/)
 * [Ilya Sutskever](https://openai.com)
 * [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
