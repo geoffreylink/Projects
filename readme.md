@@ -78,6 +78,7 @@
 * [Deep Learning](http://www.deeplearningbook.org)
 * [H2O Resources](https://www.h2o.ai/resources/)
 * [Deep Learning Book](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [A Course in Machine Learning](http://ciml.info)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
