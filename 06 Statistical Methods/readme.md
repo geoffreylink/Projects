@@ -55,6 +55,9 @@
 * [Forecasting Electricity Price Time Series Data in Python using a VAR Model](https://towardsdatascience.com/analyzing-electricity-price-time-series-data-using-python-time-series-decomposition-and-price-4cd61924ef49)
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 
+## Probability Distribution Flowchart
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/ProbabilityDistributionsFlowchart.png)
+
 ## Wisdom
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/AllModelsAreWrong_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/AllModelsAreWrong_02.png)
