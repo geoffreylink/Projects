@@ -75,6 +75,7 @@
 * [Summary of Machine Learning Ensemble Techniques](https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/)
 
 ## Free Online Books
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [H2O Resources](https://www.h2o.ai/resources/)
@@ -93,6 +94,7 @@
 * [Scikit-Learn Machine Learning Simplified](https://github.com/PacktPublishing/scikit-learn-Machine-Learning-Simplified)
 * [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm)
 
 ## Blogs
 * [AWS](https://aws.amazon.com/blogs/aws/)
