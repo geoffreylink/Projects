@@ -1,8 +1,8 @@
 ## Reference
-* [Numba](https://numba.pydata.org)
 * [Dask](https://dask.org)
 * [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 * [pythex](https://pythex.org)
+* [Numba](https://numba.pydata.org)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Awesome Python](https://awesome-python.com)
 * [Imbalanced-Learn](http://imbalanced-learn.org/en/stable/index.html)
