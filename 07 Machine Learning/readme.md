@@ -83,6 +83,9 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 5) [AWS Classification](https://youtu.be/yGc0qePSYig?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&t=281)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSAlogorithms.png)
 
+## Sagemaker Lifecycle
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/SagemakerLifecycle.png)
+
 ## Building Blocks of Supervised Learning
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/BuildingBlocksSupervisedLearning.png)
 
