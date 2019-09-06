@@ -75,7 +75,6 @@
 * [Summary of Machine Learning Ensemble Techniques](https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/)
 
 ## Free Online Books
-* [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [H2O Resources](https://www.h2o.ai/resources/)
