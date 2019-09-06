@@ -146,6 +146,7 @@
 * [Big-O Cheet Sheet](http://bigocheatsheet.com)
 
 ## Nerd Heros
+* [Ryan Gust](https://gust.dev)
 * [Chis Albon](https://chrisalbon.com)
 * [Fei Fei Lee](http://vision.stanford.edu/feifeili/)
 * [Evan Miller](http://www.evanmiller.org)
