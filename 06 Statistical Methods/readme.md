@@ -55,9 +55,6 @@
 * [Forecasting Electricity Price Time Series Data in Python using a VAR Model](https://towardsdatascience.com/analyzing-electricity-price-time-series-data-using-python-time-series-decomposition-and-price-4cd61924ef49)
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
 
-## Probability Distribution Flowchart
-![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/ProbabilityDistributionsFlowchart.png)
-
 ## Wisdom
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/AllModelsAreWrong_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/AllModelsAreWrong_02.png)
@@ -84,6 +81,9 @@ p-value: Probability of getting data as extreme as the data we observe, assuming
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/BayesRule.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/NormalCurve.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/SkewnessAndKurtosis.png)
+
+## Probability Distribution Flowchart
+![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/ProbabilityDistributionsFlowchart.png)
 
 ## Generalized Linear Models
 Generalized linear models (GLMs) are an extension of traditional linear models that have gained popularity in statistical data analysis due to:
