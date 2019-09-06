@@ -1,4 +1,14 @@
 ## Reference
+* [Introduction to t-SNE](https://www.datacamp.com/community/tutorials/introduction-t-sne)
+* [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#)
+* [Dimensionalityreduction and UMAP](https://cw.fel.cvut.cz/b181/_media/courses/xp36vpd/vpd_dimensionality_reduction.pdf)
+* [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+* [Dimensionality Reduction II: Feature Extraction](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/14_feat-extract_slides.pdf)
+* [Dimensionality reduction](https://nbisweden.github.io/excelerate-scRNAseq/session-dim-reduction/lecture_dimensionality_reduction.pdf)
+* [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+* [Performance Comparison of Dimension Reduction Implementations](https://umap-learn.readthedocs.io/en/latest/benchmarking.html)
+* [What Is Manifold Learning?](https://prateekvjoshi.com/2014/06/21/what-is-manifold-learning/)
+
 * [H20](https://www.h2o.ai)
 * [Harp](https://dsc-spidal.github.io/harp/)
 * [Arxiv](http://arxiv-sanity.com)
