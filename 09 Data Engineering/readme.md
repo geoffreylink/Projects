@@ -10,6 +10,7 @@
 * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
 * [Data Modeling in AWS DynamoDB](https://medium.com/swlh/data-modeling-in-aws-dynamodb-dcec6798e955)
+* [Structured Streaming with PySpark](https://hackingandslacking.com/structured-streaming-with-pyspark-9355f792897a)
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 * [9 Amazing Articles on Python Programming](https://medium.com/better-programming/10-great-articles-on-python-development-6f54dd38437f)
 * [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
