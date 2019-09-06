@@ -4,6 +4,7 @@
 * [Edward Tufte](https://www.edwardtufte.com/tufte/)
 * [Mike Bostock](https://bost.ocks.org/mike/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
+* [How to learn D3.js](https://wattenberger.com/blog/d3)
 * [Python Graph Gallery](https://python-graph-gallery.com/all-charts/)
 * [Scalable Vector Graphics](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 * [Awesome Customer Analytics](https://github.com/Acrotrend/Awesome-Customer-Analytics)
