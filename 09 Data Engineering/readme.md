@@ -1,4 +1,5 @@
 ## Reference
+* [Numba](https://numba.pydata.org)
 * [Dask](https://dask.org)
 * [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 * [pythex](https://pythex.org)
