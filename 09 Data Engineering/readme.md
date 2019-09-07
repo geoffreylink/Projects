@@ -68,6 +68,9 @@
 * In the case of recommendations, you want to get your data into a column of users, a column of items (say movies or books), and a column of ratings
 * In the case of most classification and regression algorithms, you want to get your data into a column of type Double to represent the label and a column of type Vector (either dense or sparse) to represent the features
 
+## Pandas, Dask, PySpark
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/PandasDaskPySpark.png)
+
 ## Data Processing Evolution
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/DataProcessingEvolution.png)
 
