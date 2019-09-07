@@ -7,6 +7,7 @@
 * [NetworkX](https://networkx.github.io)
 * [NetworKit](https://networkit.github.io)
 * [Plotly Graphs](https://plot.ly/python/network-graphs/#create-network-graph)
+* [Spectral Clustering](https://towardsdatascience.com/spectral-clustering-aba2640c0d5b)
 * [The Marvel Universe](https://www.kaggle.com/csanhueza/the-marvel-universe-social-network)
 * [Social circles: Facebook](https://snap.stanford.edu/data/egonets-Facebook.html)
 * [Introduction to Networks](https://s3.amazonaws.com/assets.datacamp.com/production/course_3286/slides/ch1_slides.pdf)
