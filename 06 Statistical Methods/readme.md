@@ -22,6 +22,7 @@
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
 * [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 * [Support Vector Machines - Scikit Learn](https://scikit-learn.org/stable/modules/svm.html)
+* [Time Series of Price Anomaly Detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46)
 * [Naive Bayes Classification With Sklearn](https://blog.sicara.com/naive-bayes-classifier-sklearn-python-example-tips-42d100429e44)
 * [Probability Distributions in Data Science](https://towardsdatascience.com/probability-distributions-in-data-science-cce6e64873a7)
 * [How to Use Linear Regression with Python](https://medium.com/better-programming/data-science-modeling-how-to-use-linear-regression-with-python-fdf6ca5481be)
