@@ -37,6 +37,7 @@
 * [SVM: Feature Selection and Kernels](https://towardsdatascience.com/svm-feature-selection-and-kernels-840781cc1a6c)
 * [Get started with Bayesian Inference](https://medium.com/@andreasherman/get-started-with-bayesian-inference-cec9ad4ccd55)
 * [Dimensionality Reduction and UMAP](https://cw.fel.cvut.cz/b181/_media/courses/xp36vpd/vpd_dimensionality_reduction.pdf)
+* [Cross Validation: A Beginner’s Guide](https://towardsdatascience.com/cross-validation-a-beginners-guide-5b8ca04962cd)
 * [Building Intuition for Random Forests](https://medium.com/x8-the-ai-community/building-intuition-for-random-forests-76d36fa28c5e)
 * [Overview of feature selection methods](https://towardsdatascience.com/overview-of-feature-selection-methods-a2d115c7a8f7)
 * [Building Blocks of Supervised Learning](https://towardsdatascience.com/building-blocks-of-supervised-learning-cebab32c15ac)
