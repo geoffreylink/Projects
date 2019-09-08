@@ -95,6 +95,7 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSAlogorithms.png)
 
 ## Dimensionality Reduction
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/CurseOfDimensionality.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/MatrixFactorization.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/NeighbourGraphs.png)
 
