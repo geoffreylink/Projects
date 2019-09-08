@@ -44,6 +44,7 @@
 * [Discriminative vs. Generative Classifiers](https://towardsdatascience.com/a-generative-approach-to-classification-17a0b5876729)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#)
+* [The Curse of Dimensionality in classification](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 * [Dimensionality Reduction II: Feature Extraction](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/14_feat-extract_slides.pdf)
 * [What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)
 * [Introduction to Principal Component Analysis](https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6)
