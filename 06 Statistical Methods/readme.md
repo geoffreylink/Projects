@@ -31,6 +31,7 @@
 * [Time Series Anomaly Detection Algorithms](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
+* [Probability Learning III: Maximum Likelihood](https://towardsdatascience.com/probability-learning-iii-maximum-likelihood-e78d5ebea80c)
 * [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
 * [Time Series for Business: A general introduction](https://medium.com/@fenjiro/time-series-for-business-a-general-introduction-50968346e660)
 * [Supervised Learning: Basics of Linear Regression](https://towardsdatascience.com/supervised-learning-basics-of-linear-regression-1cbab48d0eba)
