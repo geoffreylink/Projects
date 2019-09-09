@@ -2,6 +2,7 @@
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [Berkeley 266-project](https://github.com/bwputman/266-project)
 * [Beginners Guide to Topic Modeling](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
+* [CS 349: Natural Language Processing](http://wellesleynlp.github.io/spring16/)
 * [Twitter Sentiment Analysis using fastText](https://towardsdatascience.com/twitter-sentiment-analysis-using-fasttext-9ccd04465597)
 * [Evolution of Natural Language Generation](https://medium.com/sfu-big-data/evolution-of-natural-language-generation-c5d7295d6517)
 * [Text Mining in Python: Steps and Examples](https://medium.com/towards-artificial-intelligence/text-mining-in-python-steps-and-examples-78b3f8fd913b)
