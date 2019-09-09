@@ -25,6 +25,7 @@
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Principal Component Analysis](https://medium.com/@mallrishabh52/principal-components-analysis-7f6ff559cd83)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+* [CS 349-02: Machine Learning](http://wellesleynlp.github.io/machinelearning/)
 * [Ensemble of Voting Classifiers](https://www.kaggle.com/skooch/ensemble-of-xgboost-lgb-and-randomforest)
 * [Machine Learning In 8 Minutes](https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b)
 * [Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
