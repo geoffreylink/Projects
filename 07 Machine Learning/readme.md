@@ -59,6 +59,7 @@
 * [A Deep Dive Into Imbalanced Data: Over-Sampling](https://towardsdatascience.com/a-deep-dive-into-imbalanced-data-over-sampling-f1167ed74b5)
 * [Python Libraries for Interpretable Machine Learning](https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7)
 * [An introduction to Amazon Web Services — SageMaker](https://medium.com/towards-artificial-intelligence/aws-sagemaker-32af6c18d7f0)
+* [Spectral Clustering Algorithm Implemented From Scratch](https://towardsdatascience.com/unsupervised-machine-learning-spectral-clustering-algorithm-implemented-from-scratch-in-python-205c87271045)
 * [Top 20 APIs You Should Know In AI and Machine Learning](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
 * [Why and How to do Cross Validation for Machine Learning](https://towardsdatascience.com/why-and-how-to-do-cross-validation-for-machine-learning-d5bd7e60c189)
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
