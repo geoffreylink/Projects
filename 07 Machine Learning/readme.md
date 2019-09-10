@@ -99,6 +99,9 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 5) [AWS Classification](https://youtu.be/yGc0qePSYig?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&t=281)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSAlogorithms.png)
 
+## Comparing Machine Learning Models
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/ComparingMachineLearningModels.png)
+
 ## Dimensionality Reduction
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/CurseOfDimensionality.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/MatrixFactorization.png)
