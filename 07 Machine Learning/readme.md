@@ -55,6 +55,7 @@
 * [The Kernel Trick in Support Vector Classification](https://towardsdatascience.com/the-kernel-trick-c98cdbcaeb3f)
 * [A Beginners Guide to Random Forest Regression](https://medium.com/datadriveninvestor/random-forest-regression-9871bc9a25eb)
 * [Machine Learning Algorithms for Every Occasion](https://towardsdatascience.com/machine-learning-algorithms-for-every-occasion-90a0ef2e63b6)
+* [Clustering metrics better than the elbow-method](https://towardsdatascience.com/clustering-metrics-better-than-the-elbow-method-6926e1f723a6)
 * [Unsupervised Learning: Dimensionality Reduction](https://towardsdatascience.com/unsupervised-learning-dimensionality-reduction-ddb4d55e0757)
 * [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 * [A Deep Dive Into Imbalanced Data: Over-Sampling](https://towardsdatascience.com/a-deep-dive-into-imbalanced-data-over-sampling-f1167ed74b5)
