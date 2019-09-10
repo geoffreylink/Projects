@@ -7,6 +7,7 @@
 * [Awesome Python](https://awesome-python.com)
 * [Imbalanced-Learn](http://imbalanced-learn.org/en/stable/index.html)
 * [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
+* [Dealing with Categorical Data](https://medium.com/machine-learning-eli5/dealing-with-categorical-data-f4c8556cbda0)
 * [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)
 * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org)
