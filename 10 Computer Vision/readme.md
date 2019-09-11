@@ -5,6 +5,7 @@
 * [Mask R-CNN](https://github.com/matterport/Mask_RCNN)
 * [Google Vision AI](https://cloud.google.com/vision)
 * [EfficientNet Explained!](https://youtu.be/3svIm5UC94I)
+* [Audio Features Analysis](https://towardsdatascience.com/a-glance-into-competitive-data-science-the-best-practices-for-computer-vision-2c77c5d98d19)
 * [AI with Python – Computer Vision](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_computer_vision.htm)
 * [Semantic Segmentation with Deep Learning](https://towardsdatascience.com/semantic-segmentation-with-deep-learning-a-guide-and-code-e52fc8958823)
 * [Semantic Segmentation — Popular Architectures](https://towardsdatascience.com/semantic-segmentation-popular-architectures-dff0a75f39d0)
