@@ -70,6 +70,7 @@
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [Machine Learning Cheat Sheet — Data Processing Techniques](https://medium.com/swlh/machine-learning-cheat-sheet-data-processing-71faf3b26db8)
 * [Top Data Science and Machine Learning Methods Used in 2019](https://www.kdnuggets.com/2019/04/top-data-science-machine-learning-methods-2018-2019.html)
+* [How to code Gaussian Mixture Models from scratch in Python](https://towardsdatascience.com/how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252)
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 * [Let’s Talk About Machine Learning Ensemble Learning In Python](https://medium.com/fintechexplained/lets-talk-about-machine-learning-ensemble-learning-in-python-382747e5fba8)
 * [Principal Component Analysis and SVM in a Pipeline with Python](https://towardsdatascience.com/visualizing-support-vector-machine-decision-boundary-69e7591dacea)
