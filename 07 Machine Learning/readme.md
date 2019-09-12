@@ -76,6 +76,7 @@
 * [Principal Component Analysis and SVM in a Pipeline with Python](https://towardsdatascience.com/visualizing-support-vector-machine-decision-boundary-69e7591dacea)
 * [Supervised Learning: Basics of Classification and Main Algorithms](https://towardsdatascience.com/supervised-learning-basics-of-classification-and-main-algorithms-c16b06806cd3)
 * [Performance Comparison of Dimension Reduction Implementations](https://umap-learn.readthedocs.io/en/latest/benchmarking.html)
+* [Support Vector Machine (SVM): A Simple Visual Explanation — Part 1](https://medium.com/towards-artificial-intelligence/support-vector-machine-svm-a-visual-simple-explanation-part-1-a7efa96444f2)
 * [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms](https://medium.com/analytics-vidhya/a-detailed-guide-to-7-loss-functions-for-machine-learning-algorithms-26e11b6e700b)
