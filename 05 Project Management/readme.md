@@ -107,3 +107,5 @@ The role of Scribe is to:
 
 ## Data Science Lifecycle
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/DataScienceLifecycle.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/TypicalMachineLearningProjectWorkflow.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/BuildTrainDeploy.png)
