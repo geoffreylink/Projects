@@ -36,6 +36,7 @@
 * [Immensely Upgrade Your Development Environment With These Visual Studio Code Extensions](https://medium.com/better-programming/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
 
 ## Visualizations
+![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/WebBrowserMarketShare.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/ReactProsCons.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/LanguageClassification.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/JSRuntimeEnvironment.png)
