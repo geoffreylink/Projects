@@ -54,6 +54,7 @@
 * [Support Vector Machine vs Logistic Regression](https://towardsdatascience.com/support-vector-machine-vs-logistic-regression-94cc2975433f)
 * [The Kernel Trick in Support Vector Classification](https://towardsdatascience.com/the-kernel-trick-c98cdbcaeb3f)
 * [A Beginners Guide to Random Forest Regression](https://medium.com/datadriveninvestor/random-forest-regression-9871bc9a25eb)
+* [Automate Hyperparameter Tuning for your models](https://towardsdatascience.com/automate-hyperparameter-tuning-for-your-models-71b18f819604)
 * [Machine Learning Algorithms for Every Occasion](https://towardsdatascience.com/machine-learning-algorithms-for-every-occasion-90a0ef2e63b6)
 * [Clustering metrics better than the elbow-method](https://towardsdatascience.com/clustering-metrics-better-than-the-elbow-method-6926e1f723a6)
 * [Unsupervised Learning: Dimensionality Reduction](https://towardsdatascience.com/unsupervised-learning-dimensionality-reduction-ddb4d55e0757)
