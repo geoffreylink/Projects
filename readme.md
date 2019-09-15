@@ -85,6 +85,7 @@
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 * [A Course in Machine Learning](http://ciml.info)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
