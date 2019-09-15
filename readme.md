@@ -105,6 +105,7 @@
 * [AWS](https://aws.amazon.com/blogs/aws/)
 * [Uber](https://eng.uber.com/uber-big-data-platform/)
 * [Intuit](https://quickbooks-engineering.intuit.com)
+* [Distill](https://distill.pub/2017/momentum/)
 * [Slack](https://slack.engineering)
 * [Google](https://cloud.google.com/blog/big-data/)
 * [Indeed](https://engineering.indeedblog.com/blog/)
