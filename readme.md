@@ -78,6 +78,7 @@
 * [Summary of Machine Learning Ensemble Techniques](https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/)
 
 ## Free Online Books
+* [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [H2O Resources](https://www.h2o.ai/resources/)
