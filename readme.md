@@ -25,6 +25,7 @@
 * [Top 10 Data Science Leaders You Should Follow](https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021)
 * [2020 and Beyond Programming Trend Predictions](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
 * [Top 10 Data Science & ML Tools for Non-Programmers](https://towardsdatascience.com/top-10-data-science-ml-tools-for-non-programmers-d12ce6dcccc)
+* [AWS Builders' Day | Serverless Architectural Patterns](https://youtu.be/p6LQ-ELvZe0)
 * [Achieving a top 5% position in an ML competition with AutoML](https://towardsdatascience.com/achieving-a-top-5-position-in-an-ml-competition-with-automl-89a5a6fb8060)
 * [Integrating business optimization with a machine learning model](https://towardsdatascience.com/integrating-business-optimization-with-a-machine-learning-model-ad0471420693)
 * [6 Tools that Make Microsoft the Go-to for Machine Learning Now](https://medium.com/datadriveninvestor/6-reasons-microsoft-has-become-the-go-to-for-machine-learning-e642864ef5f5)
