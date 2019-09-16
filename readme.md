@@ -14,6 +14,7 @@
 * [Top AI algorithms for Healthcare](https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330)
 * [15 Open Datasets for Healthcare](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
+* [But how does bitcoin actually work?](https://youtu.be/bBC-nXj3Ng4)
 * [What is the Curse of Dimensionality?](https://medium.com/@dataakkadian/what-is-the-curse-of-dimensionality-bc825ae6a421)
 * [Big Data Analysis: Spark and Hadoop](https://towardsdatascience.com/big-data-analysis-spark-and-hadoop-a11ba591c057)
 * [Using Kaggle for your Data Science Work](https://medium.com/@andrew.picart/using-kaggle-for-your-data-science-work-a2e78d692395)
