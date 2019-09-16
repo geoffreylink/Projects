@@ -28,6 +28,7 @@
 * [How to Learn React — A roadmap from beginner to advanced](https://medium.com/free-code-camp/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 * [11 React Native Component Libraries you Should Know in 2019](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Here Are the Most Common JavaScript Algorithms and Data Structures](https://medium.com/better-programming/here-are-the-most-common-javascript-algorithms-and-data-structures-ec3729050169)
 * [I built a PWA and published it in 3 app stores. Here’s what I learned.](http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/)
 * [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ)
 * [How I got my first developer job at age 40 after 10 months of hard work](https://medium.com/free-code-camp/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
