@@ -11,6 +11,7 @@
 * [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
 * [Survival of the Fittest Model](https://towardsdatascience.com/survival-of-the-fittest-model-c8681068c143)
 * [How did I learn Data Science?](https://towardsdatascience.com/how-did-i-learn-data-science-d5f7fc477997)
+* [How secure is 256 bit security?](https://youtu.be/S9JGmA5_unY)
 * [Top AI algorithms for Healthcare](https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330)
 * [15 Open Datasets for Healthcare](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
 * [The Danger of Average Statistics](https://www.linkedin.com/pulse/our-biggest-economic-social-political-issue-two-economies-ray-dalio/)
