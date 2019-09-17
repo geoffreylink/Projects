@@ -104,6 +104,7 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 
 ## Comparing Machine Learning Models
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/ComparingMachineLearningModels.png)
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSMLStack.png)
 
 ## Dimensionality Reduction
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/CurseOfDimensionality.png)
