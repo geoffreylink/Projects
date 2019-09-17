@@ -35,6 +35,7 @@
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [AWS Builders' Day | re:Invent Deep Dive on Lambda Layers and Runtime API](https://youtu.be/zq-JsNC0LPU)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
+* [AWS Builders' Day | Deep Dive on Amazon Elastic Container Service (Amazon ECS)](https://youtu.be/QeXH8iVVRtc)
 * [Building a full Node.js website in the FaaS world: Serverless Framework + AWS Lambda](https://medium.com/swlh/building-a-full-node-js-website-in-the-faas-world-serverless-framework-aws-e3a5bdca374a)
 * [AWS Builders' Day | Building Advanced Serverless Applications with AWS Step Functions](https://youtu.be/qE_ZD98K43I)
 * [The Everything Guide to Lambda Throttling, Reserved Concurrency, and Execution Limits](https://itnext.io/the-everything-guide-to-lambda-throttling-reserved-concurrency-and-execution-limits-d64f144129e5)
