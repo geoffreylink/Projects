@@ -37,6 +37,7 @@
 * [The Everything Guide to Lambda Throttling, Reserved Concurrency, and Execution Limits](https://itnext.io/the-everything-guide-to-lambda-throttling-reserved-concurrency-and-execution-limits-d64f144129e5)
 * [Automate static website deployment from Github to S3 using AWS CodePipeline - sithum devops](https://medium.com/@sithum/automate-static-website-deployment-from-github-to-s3-using-aws-codepipeline-16acca25ebc1)
 
+![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/AWSServerlessPortfolio.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/FaaS.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessCarAnalogy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/ServerlessUseCases.png)
