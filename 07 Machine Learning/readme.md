@@ -101,6 +101,7 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 4) XGBoost
 5) [AWS Classification](https://youtu.be/yGc0qePSYig?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&t=281)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSAlogorithms.png)
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/TheMachineLearningProcess.png)
 
 ## Comparing Machine Learning Models
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/ComparingMachineLearningModels.png)
