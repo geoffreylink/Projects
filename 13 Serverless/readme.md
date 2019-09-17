@@ -34,8 +34,8 @@
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 * [Building a full Node.js website in the FaaS world: Serverless Framework + AWS Lambda](https://medium.com/swlh/building-a-full-node-js-website-in-the-faas-world-serverless-framework-aws-e3a5bdca374a)
-* [The Everything Guide to Lambda Throttling, Reserved Concurrency, and Execution Limits](https://itnext.io/the-everything-guide-to-lambda-throttling-reserved-concurrency-and-execution-limits-d64f144129e5)
 * [AWS Builders' Day | Building Advanced Serverless Applications with AWS Step Functions](https://youtu.be/qE_ZD98K43I)
+* [The Everything Guide to Lambda Throttling, Reserved Concurrency, and Execution Limits](https://itnext.io/the-everything-guide-to-lambda-throttling-reserved-concurrency-and-execution-limits-d64f144129e5)
 * [Automate static website deployment from Github to S3 using AWS CodePipeline - sithum devops](https://medium.com/@sithum/automate-static-website-deployment-from-github-to-s3-using-aws-codepipeline-16acca25ebc1)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/13%20Serverless/images/AWSServerlessPortfolio.png)
