@@ -90,6 +90,7 @@
 * [Boosting and Bagging: How To Develop A Robust Machine Learning Algorithm](https://medium.com/better-programming/how-to-develop-a-robust-algorithm-c38e08f32201)
 * [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 * [How To Out-Compete On a Data Science Competition — Insights, Techniques And Tactics](https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-insights-techniques-and-tactics-95a0545041d5)
+* [AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker](https://youtu.be/sLktFah2Xi4)
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 * [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
 
