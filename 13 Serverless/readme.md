@@ -32,6 +32,7 @@
 * [Nvidia launches edge computing platform for AI processing](https://www.networkworld.com/article/3397841/nvidia-launches-edge-computing-platform-for-ai-processing.html)
 * [Serverless Architecture — Complete Reference Guide [2019]](https://medium.com/swlh/serverless-architecture-complete-reference-guide-2019-55363c08d1be)
 * [AWS Lambda vs. Amazon EC2: A Discussion of Lambda’s Hidden Costs](https://blog.viacom.tech/2017/03/27/aws-lambda-vs-amazon-ec2-a-discussion-of-lambdas-hidden-costs/)
+* [AWS Builders' Day | re:Invent Deep Dive on Lambda Layers and Runtime API](https://youtu.be/zq-JsNC0LPU)
 * [With PyWren, AWS Lambda Finds an Unexpected Market in Scientific Computing](https://thenewstack.io/aws-lambda-finds-unexpected-market-scientific-computing/)
 * [Building a full Node.js website in the FaaS world: Serverless Framework + AWS Lambda](https://medium.com/swlh/building-a-full-node-js-website-in-the-faas-world-serverless-framework-aws-e3a5bdca374a)
 * [AWS Builders' Day | Building Advanced Serverless Applications with AWS Step Functions](https://youtu.be/qE_ZD98K43I)
