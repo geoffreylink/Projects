@@ -5,6 +5,7 @@
 * [GraphQL](https://graphql.org)
 * [Serverless](https://serverless.com)
 * [OpenFAAS](https://www.openfaas.com)
+* [ECSWorkshop](https://ecsworkshop.com)
 * [Google Firebase](https://firebase.google.com)
 * [Amazon GraphQL](https://aws.amazon.com/graphql/)
 * [Full Stack Python](https://www.fullstackpython.com/serverless.html)
