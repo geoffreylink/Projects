@@ -93,6 +93,7 @@
 * [AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker](https://youtu.be/sLktFah2Xi4)
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 * [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
+* [AWS re:Invent 2018: CI/CD for Your Machine Learning Pipeline with Amazon SageMaker (DVC303)](https://youtu.be/6EYEoAqihPg)
 
 ## Data Science is 70% classification problems
 Three of the most popular classifiers within Machine Learning (which use 3 different mathematical approaches to classify data) are:
