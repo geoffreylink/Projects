@@ -3,7 +3,9 @@
 * [Data Science Map](https://www.saedsayad.com/data_mining_map.htm)
 
 ## 10mR
+* [Carto](https://carto.com)
 * [BigML](https://bigml.com)
+* [Alteryx](https://www.alteryx.com)
 * [Where's Waldo](https://www.businessinsider.com/wheres-waldo-robot-ai-machine-learning-2019-2)
 * [Explained Visually](http://setosa.io/ev/)
 * [AWS Cloud Solutions](https://aws.amazon.com/solutions/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=*all)
