@@ -13,6 +13,7 @@
 * [Node.js - OpenHub](https://www.openhub.net/p/node/analyses/latest/languages_summary)
 * [Serverless Examples](https://github.com/serverless/examples)
 * [Google Chrome - OpenHub](https://www.openhub.net/p/chrome/analyses/latest/languages_summary)
+* [The Dark Side of AWS Lambda](https://medium.com/fluidity/the-dark-side-of-aws-lambda-5c9f620b7dd2)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 * [AWS Lambda: Faster Is Cheaper](https://medium.com/@jconning/aws-lambda-faster-is-cheaper-6bf32f58d741)
 * [To go (or not to go) React Native way](https://hackernoon.com/to-go-or-not-to-go-react-native-way-70513ca5e871)
