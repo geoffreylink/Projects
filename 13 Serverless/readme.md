@@ -19,6 +19,7 @@
 * [Localizing content with Lambda@Edge](https://medium.com/@gavinlewis/localizing-content-with-lambda-edge-fefb12aa6199)
 * [Serverless Python’s Benefits Explained](https://www.pgs-soft.com/blog/serverless-pythons-benefits-explained/)
 * [The Dark Side of AWS Lambda & CI/CD](https://medium.com/fluidity/the-dark-side-of-aws-lambda-5c9f620b7dd2)
+* [Run tasks with AWS Fargate and Lambda](https://lobster1234.github.io/2017/12/03/run-tasks-with-aws-fargate-and-lambda/)
 * [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 * [Advantages and Disadvantages of GraphQL](https://stablekernel.com/advantages-and-disadvantages-of-graphql/)
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
