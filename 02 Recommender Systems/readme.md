@@ -10,6 +10,7 @@
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
 * [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 * [TechnoCalifornia - Introduction to Recommender Systems](http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html?m=1&from=singlemessage&isappinstalled=0)
+* [Using Deep Neural Networks to make YouTube Recommendations](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e)
 * [DOMINO - Recommender Systems through Collaborative Filtering](https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/)
 * [Exploration on Shopper Behavior and Shopping Cart Recommender](https://towardsdatascience.com/shopper-behavior-analysis-de3ff6b696b8)
 * [Building recommender systems with Azure Machine Learning service](https://azure.microsoft.com/en-us/blog/building-recommender-systems-with-azure-machine-learning-service/)
