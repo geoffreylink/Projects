@@ -12,6 +12,7 @@
 * [AWS Cloud Solutions](https://aws.amazon.com/solutions/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=*all)
 * [An executive’s guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 * [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
+* [Uber's Real Advantage is Data](https://marker.medium.com/ubers-real-advantage-is-data-e54984ff524c)
 * [Survival of the Fittest Model](https://towardsdatascience.com/survival-of-the-fittest-model-c8681068c143)
 * [How did I learn Data Science?](https://towardsdatascience.com/how-did-i-learn-data-science-d5f7fc477997)
 * [How secure is 256 bit security?](https://youtu.be/S9JGmA5_unY)
