@@ -79,6 +79,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/PandasDaskPySpark.png)
 
 ## Data Processing Evolution
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/MapReduce.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/DataProcessingEvolution.png)
 
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/CloudInfrastructureMarketShare.png)
