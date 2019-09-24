@@ -75,6 +75,8 @@
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 * [Let’s Talk About Machine Learning Ensemble Learning In Python](https://medium.com/fintechexplained/lets-talk-about-machine-learning-ensemble-learning-in-python-382747e5fba8)
 * [Principal Component Analysis and SVM in a Pipeline with Python](https://towardsdatascience.com/visualizing-support-vector-machine-decision-boundary-69e7591dacea)
+* [Feature Transformation for Machine Learning, a Beginners Guide](https://medium.com/vickdata/four-feature-types-and-how-to-transform-them-for-machine-learning-8693e1c24e80)
+* [Feature Preprocessing for Numerical Data — The Most Important Step](https://medium.com/analytics-vidhya/feature-preprocessing-for-numerical-data-the-most-important-step-e9ed76151298)
 * [Supervised Learning: Basics of Classification and Main Algorithms](https://towardsdatascience.com/supervised-learning-basics-of-classification-and-main-algorithms-c16b06806cd3)
 * [Performance Comparison of Dimension Reduction Implementations](https://umap-learn.readthedocs.io/en/latest/benchmarking.html)
 * [Support Vector Machine (SVM): A Simple Visual Explanation — Part 1](https://medium.com/towards-artificial-intelligence/support-vector-machine-svm-a-visual-simple-explanation-part-1-a7efa96444f2)
