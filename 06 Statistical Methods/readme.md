@@ -32,6 +32,7 @@
 * [Support Vector Machines with Scikit-learn](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
 * [Churn Prediction and Prevention in Python](https://towardsdatascience.com/churn-prediction-and-prevention-in-python-2d454e5fd9a5)
 * [Time Series Anomaly Detection Algorithms](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
+* [Time Series Analysis of SFO Traffic Growth](https://towardsdatascience.com/time-series-analysis-of-sfo-traffic-growth-5c7d03cf52b2)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [Probability Learning III: Maximum Likelihood](https://towardsdatascience.com/probability-learning-iii-maximum-likelihood-e78d5ebea80c)
