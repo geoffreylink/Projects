@@ -162,6 +162,7 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/ImbalancedClasses.png)
 
 ## Precision vs Recall
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/ComprehensiveConfusionMatrix.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/Confusion.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/Accuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/PrecisionRecallF1.png)
