@@ -1,6 +1,7 @@
 # Welcome!
 * [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
 * [Data Science Map](https://www.saedsayad.com/data_mining_map.htm)
+* [The Twelve-Factor App](https://12factor.net)
 * [Alternative Data in Financial Services](https://github.com/geoffreylink/Projects/blob/master/AlternativeDatainFinancialServices.pdf)
 
 ## 10mR
