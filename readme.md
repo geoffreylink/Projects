@@ -45,6 +45,7 @@
 * [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
 * [Why Cutting Costs is Expensive: How $9/Hour Software Engineers Cost Boeing Billions](https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957)
 * [Reinforcement Learning Applications: A Brief Guide on How to Get Business Value from RL](https://blog.goodaudience.com/reinforcement-learning-applications-a-brief-guide-on-how-to-get-business-value-from-rl-d46c12f3bc99)
+* [Into the Cageverse — Deepfaking with Autoencoders: An Implementation in Keras and Tensorflow](https://medium.com/gradientcrescent/deepfaking-nicolas-cage-into-the-mcu-using-autoencoders-an-implementation-in-keras-and-tensorflow-ab47792a042f)
 
 ## Interview Resources
 * [Data Science FAQs](https://nbviewer.jupyter.org/github/geoffreylink/Projects/blob/master/Data%20Science%20FAQs.ipynb?flush_cache=true)
