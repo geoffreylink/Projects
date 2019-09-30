@@ -61,6 +61,7 @@
 * [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 * [A Deep Dive Into Imbalanced Data: Over-Sampling](https://towardsdatascience.com/a-deep-dive-into-imbalanced-data-over-sampling-f1167ed74b5)
 * [Python Libraries for Interpretable Machine Learning](https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7)
+* [My Favorite Data Science/Machine Learning Resources](https://medium.com/swlh/my-favorite-data-science-machine-learning-resources-6a76bd30b059)
 * [An introduction to Amazon Web Services — SageMaker](https://medium.com/towards-artificial-intelligence/aws-sagemaker-32af6c18d7f0)
 * [Spectral Clustering Algorithm Implemented From Scratch](https://towardsdatascience.com/unsupervised-machine-learning-spectral-clustering-algorithm-implemented-from-scratch-in-python-205c87271045)
 * [Top 20 APIs You Should Know In AI and Machine Learning](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
