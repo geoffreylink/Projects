@@ -82,6 +82,7 @@
 * [The 5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [Feature Preprocessing for Numerical Data — The Most Important Step](https://medium.com/analytics-vidhya/feature-preprocessing-for-numerical-data-the-most-important-step-e9ed76151298)
+* [A Complete Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 * [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms](https://medium.com/analytics-vidhya/a-detailed-guide-to-7-loss-functions-for-machine-learning-algorithms-26e11b6e700b)
 * [An easy introduction to unsupervised learning with 4 basic techniques](https://towardsdatascience.com/an-easy-introduction-to-unsupervised-learning-with-4-basic-techniques-da7fbf0c3adf)
 * [What is Principal Component Analysis (PCA) and when should I use it?](https://medium.com/@josecacho/what-is-principal-component-analysis-pca-and-when-should-i-use-it-6305e880d69)
