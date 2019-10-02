@@ -22,6 +22,7 @@
 * [Data Science With No Data](https://towardsdatascience.com/data-science-with-no-data-b3c21acee17c)
 * [What Is Manifold Learning?](https://prateekvjoshi.com/2014/06/21/what-is-manifold-learning/)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+* [Hyperparameters Optimization](https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Principal Component Analysis](https://medium.com/@mallrishabh52/principal-components-analysis-7f6ff559cd83)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
