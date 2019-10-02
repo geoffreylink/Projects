@@ -108,6 +108,7 @@
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python Data Science Handbook lab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb#scrollTo=vXNXC8thyPej)
+* [Deep Learning - The Straight Dope](https://gluon.mxnet.io/index.html)
 * [Learning Apache Spark with Python](https://runawayhorse001.github.io/LearningApacheSpark/index.html)
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
