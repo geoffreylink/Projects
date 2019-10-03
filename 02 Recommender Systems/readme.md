@@ -8,6 +8,7 @@
 * [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 * [List of Recommender Systems and Resources](https://github.com/grahamjenson/list_of_recommender_systems)
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
+* [Contextual Bandits with Amazon SageMaker RL](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/reinforcement_learning/bandits_statlog_vw_customEnv/bandits_statlog_vw_customEnv.ipynb)
 * [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
 * [TechnoCalifornia - Introduction to Recommender Systems](http://technocalifornia.blogspot.com/2014/08/introduction-to-recommender-systems-4.html?m=1&from=singlemessage&isappinstalled=0)
 * [Using Deep Neural Networks to make YouTube Recommendations](https://towardsdatascience.com/using-deep-neural-networks-to-make-youtube-recommendations-dfc0a1a13d1e)
