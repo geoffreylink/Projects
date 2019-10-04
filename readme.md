@@ -120,6 +120,7 @@
 * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Scikit-Learn Machine Learning Simplified](https://github.com/PacktPublishing/scikit-learn-Machine-Learning-Simplified)
 * [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
+* [The Ultimate Data Science Prerequisite Learning List](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm)
 
