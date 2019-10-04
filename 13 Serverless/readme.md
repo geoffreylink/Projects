@@ -25,6 +25,7 @@
 * [Lambda Cold Starts, A Language Comparison](https://medium.com/@nathan.malishev/lambda-cold-starts-language-comparison-%EF%B8%8F-a4f4b5f16a62)
 * [Getting Started with GraphQL: It’s pretty easy!](https://levelup.gitconnected.com/getting-started-with-graphql-its-pretty-easy-3ea803426298)
 * [What AWS Lambda’s Performance Stats Reveal](https://thenewstack.io/what-aws-lambdas-performance-stats-reveal/)
+* [Start Your Machine Learning on AWS SageMaker](https://medium.com/weareservian/machine-learning-on-aws-sagemaker-53e1a5e218d9)
 * [Bringing realtime to serverless web applications](https://itnext.io/using-iot-to-send-messages-back-to-your-serverless-front-end-fb335a099576)
 * [AWS Builders' Day | Deep Dive into AWS Fargate](https://youtu.be/ye3-gUwu9tI)
 * [Key Approaches to Mobile Development Explained](https://www.altexsoft.com/blog/mobile/key-approaches-to-mobile-development-explained/)
