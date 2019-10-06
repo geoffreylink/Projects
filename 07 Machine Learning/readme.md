@@ -26,6 +26,7 @@
 * [Principal Component Analysis](https://medium.com/@mallrishabh52/principal-components-analysis-7f6ff559cd83)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 * [CS 349-02: Machine Learning](http://wellesleynlp.github.io/machinelearning/)
+* [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)
 * [Ensemble of Voting Classifiers](https://www.kaggle.com/skooch/ensemble-of-xgboost-lgb-and-randomforest)
 * [Hyperparameters Optimization](https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d)
 * [Machine Learning In 8 Minutes](https://medium.com/fintechexplained/introduction-to-machine-learning-4b2d7c57613b)
