@@ -11,6 +11,7 @@
 * [Build Your own Data Dashboard](https://towardsdatascience.com/build-your-own-data-dashboard-93e4848a0dcf)
 * [31 Free Data Visualization Tools](https://www.springboard.com/blog/31-free-data-visualization-tools/)
 * [How to map complex customer journeys](https://medium.com/geckoboard-under-the-hood/how-to-map-complex-customer-journeys-8e2379bb6572)
+* [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
 * [Tips on Designing a Million Dollar Dashboard](https://medium.com/better-programming/tips-on-designing-a-dashboard-worth-millions-of-dollars-21b1f992dee2)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Modern and Simple Charts With Frappe Charts](https://medium.com/better-programming/modern-and-simple-charts-with-frappe-charts-c1b16244f8c)
