@@ -62,6 +62,7 @@
 * [Automatically finding the best Neural Network for your GAN](https://towardsdatascience.com/automatically-finding-the-best-neural-network-for-your-gan-c0b97a5949f2)
 * [Kaggle vs. Colab Faceoff — Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
+* [An Introduction to Dropout for Regularizing Deep Neural Networks](https://medium.com/towards-artificial-intelligence/an-introduction-to-dropout-for-regularizing-deep-neural-networks-4e0826c10395)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 * [Introduction to Convolutional Neural Networks (CNN) with TensorFlow](https://towardsdatascience.com/introduction-to-convolutional-neural-networks-cnn-with-tensorflow-57e2f4837e18)
 * [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
