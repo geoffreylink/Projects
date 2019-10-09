@@ -261,18 +261,31 @@
 **Artificial Intelligence** - the science and engineering of creating intelligent machines that have the ability to achieve goals like humans via a constellation of technologies.<br>
 
 **Neural Network (NN)** - software constructions modeled after the way adaptable neurons in the brain were understood to work instead of human guided rigid instructions.<br>
+
 **Deep Learning** - a type of neural network, the subset of machine learning composed of algorithms that permit software to train itself to perform tasks by processing multilayered networks of data.<br>
+
 **Machine Learning** - computers' ability to learn without being explicitly programmed - with more than fifteen different approaches such as Random Forest, Bayesian Networks, and Support Vector Machines - that uses computer algorithms to learn from examples and experiences (datasets) rather than predefined, hard rules-based methods.<br>
+
 **Supervised Learning** - an optimization, trial-and-error process based on labeled data, algorithm comparing outputs with the correct outputs during training.<br>
+
 **Unsupervised Learning** - the training samples are not labeled; the algorithm just looks for patterns, teaches itself.<br>
+
 **Convolutional Neural Network** - using the principle of convolution, a mathematical operation that basically takes two functions to produce a third one; instead of feeding in the entire dataset, it is broken into overlapping tiles with small neural networks and max-pooling, used especially for images.<br>
+
 **Nautral-Language Processing** - a machine's attempt to "understand" speech or written language like humans.<br>
+
 **Generative Adversarial Networks** - a pair of jointly trained neural networks, one generative and the other discriminative, whereby the former generates fake images and the latter tried to distringuish them from real images.<br>
+
 **Reinforcement Learning** - a type of machine learning that shifts the focus to an abstract goal or decision making, a technology for learning and executing actions in the real world.<br>
+
 **Recurrent Neural Network** - for tasks that involve sequential inputs, like speech or language, this neural network processes an input sequence one element at a time.<br>
+
 **Backpropagation** - an algorithm to indicate how a machine should change its internal parameters that are used to compute the representation in each layer from the representation on the previous layer passing values backward through the network; how the synapses get updated over time; signals are automatically sent back through the network to update and adjust the weighting values.<br>
+
 **Representation Learning** - set of methods that allows a machine with raw data to automatically discover the representations needed for detection or classification.<br>
+
 **Transfer Learning** - the ability of an AI to learn from different tasks and apply its precedent knowledge to a completely new task.<br>
+
 **General Artificial Intelligence** - perform a wide range of tasks, including any human task, without being explicitly programmed.<br>
 
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceHistory.png)
