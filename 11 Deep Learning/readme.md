@@ -16,6 +16,7 @@
 * [What Are Hidden Layers?](https://medium.com/fintechexplained/what-are-hidden-layers-4f54f7328263)
 * [A Glossary of Deep Learning](https://medium.com/deeper-learning/a-glossary-of-deep-learning-9cb6292e087e)
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+* [Backpropagation step by step](https://medium.com/swlh/backpropagation-step-by-step-13f2b6c0b414)
 * [Moving from Keras to Pytorch](https://towardsdatascience.com/moving-from-keras-to-pytorch-f0d4fff4ce79)
 * [Beginner's Guide to Audio Data](https://www.kaggle.com/nafisur/beginner-s-guide-to-audio-data-90b7f7)
 * [Beginner's Guide to Audio Data II](https://www.kaggle.com/mpotma/learndatascience-presentation-lgbm-lb-0-836)
