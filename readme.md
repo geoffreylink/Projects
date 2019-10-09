@@ -256,6 +256,32 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AlgorithmsInDecisionMaking.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceHistory.png)
+The AI timeline
+1936 - Turing paper (Alan Turing)
+1943 - Artificial neural network (Warren McCullogh, Walter Pitts)
+1955 - Term "artifical intelligence" coined (John McCarthy)
+1957 - Predicted ten years for AI to beat human at chess (Herbert Simon)
+1958 - Perceptron (single-layer neural network)(Frank Rosenblatt)
+1959 - Machine learning described (Arthur Samuel)
+1964 - ELIZA, the first chatbot
+1964 - We know more than we can tell (Michael Polany's paradox)
+1969 - Question AI viability (Marvin Minsky)
+1986 - Multilayer neural network (NN)(Geoffrey Hinton)
+1989 - Convolutional NN (Yann LeCun)
+1991 - Natural-language processing NN (Sepp Hochreiter, Jurgen Schmidhuber)
+1997 - Deep Blue wins in chess (Garry Kasparov)
+2004 - Self-driving vehicle, Mojave Desert (DARPA Challenge)
+2007 - ImageNet launches
+2011 - IBM vs. Jeopardy! champions
+2011 - Speech recognition NN (Microsoft)
+2012 - University of Toronto ImageNet classification and cat video recognition (Google Brain, Andrew Ng, Jeff Dean)
+2014 - DeepFace facial recognition (Facebook)
+2015 - DeepMind vs. Atari (David Silver, Demis Hassabis)
+2015 - First AI risk conference (Max Tegmark)
+2016 - AlphaGo vs. Go (Silver, Demis Hassabis)
+2017 - AlphaGo Zero vs. Go (Silver, Demis Hassabis)
+2017 - Libratus vs. poker (Noam Brown, Tuomas Sandholm)
+2017 - AI Now Institute launched
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceEcosystem.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ProductDataScientist.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceSkillset2.png)
