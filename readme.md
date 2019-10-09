@@ -257,7 +257,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceHistory.png)
 
-The AI Timeline<br>
+**The AI Timeline**<br>
 **1936** - Turing paper (Alan Turing)<br>
 **1943** - Artificial neural network (Warren McCullogh, Walter Pitts)<br>
 **1955** - Term "artifical intelligence" coined (John McCarthy)<br>
