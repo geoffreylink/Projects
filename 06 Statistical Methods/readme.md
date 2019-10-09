@@ -13,6 +13,7 @@
 * [GLMs at Scale with H2O](https://www.youtube.com/watch?v=5UCZngHX7EI)
 * [ML Days | Amazon Forecast](https://youtu.be/NCmHoHomP1A)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+* [Hypothesis tests with Python](https://medium.com/analytics-vidhya/hypothesis-tests-with-python-bfff05955c43)
 * [Generalized Additive Models](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
 * [Poisson Distribution Intuition](https://medium.com/@aerinykim/poisson-distribution-intuition-and-derivation-1059aeab90d)
 * [Logistic Regression In Python](https://towardsdatascience.com/logistic-regression-python-7c451928efee)
