@@ -257,7 +257,9 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
 
 **A Summary of Machine Learning Techniques**<br>
+
 **Artificial Intelligence** - the science and engineering of creating intelligent machines that have the ability to achieve goals like humans via a constellation of technologies.<br>
+
 **Neural Network (NN)** - software constructions modeled after the way adaptable neurons in the brain were understood to work instead of human guided rigid instructions.<br>
 **Deep Learning** - a type of neural network, the subset of machine learning composed of algorithms that permit software to train itself to perform tasks by processing multilayered networks of data.<br>
 **Machine Learning** - computers' ability to learn without being explicitly programmed - with more than fifteen different approaches such as Random Forest, Bayesian Networks, and Support Vector Machines - that uses computer algorithms to learn from examples and experiences (datasets) rather than predefined, hard rules-based methods.<br>
