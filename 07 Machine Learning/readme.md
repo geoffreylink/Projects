@@ -42,6 +42,7 @@
 * [Dimensionality Reduction and UMAP](https://cw.fel.cvut.cz/b181/_media/courses/xp36vpd/vpd_dimensionality_reduction.pdf)
 * [Cross Validation: A Beginner’s Guide](https://towardsdatascience.com/cross-validation-a-beginners-guide-5b8ca04962cd)
 * [Building Intuition for Random Forests](https://medium.com/x8-the-ai-community/building-intuition-for-random-forests-76d36fa28c5e)
+* [7 Things You Should Know about ROC AUC](https://medium.com/hiredscore-engineering/7-things-you-should-know-about-roc-auc-b4389ea2b2e3)
 * [Overview of feature selection methods](https://towardsdatascience.com/overview-of-feature-selection-methods-a2d115c7a8f7)
 * [Building Blocks of Supervised Learning](https://towardsdatascience.com/building-blocks-of-supervised-learning-cebab32c15ac)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
