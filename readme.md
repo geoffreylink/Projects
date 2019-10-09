@@ -259,30 +259,30 @@
 
 The AI Timeline<br>
 **1936** - Turing paper (Alan Turing)<br>
-1943 - Artificial neural network (Warren McCullogh, Walter Pitts)
-1955 - Term "artifical intelligence" coined (John McCarthy)
-1957 - Predicted ten years for AI to beat human at chess (Herbert Simon)
-1958 - Perceptron (single-layer neural network)(Frank Rosenblatt)
-1959 - Machine learning described (Arthur Samuel)
-1964 - ELIZA, the first chatbot
-1964 - We know more than we can tell (Michael Polany's paradox)
-1969 - Question AI viability (Marvin Minsky)
-1986 - Multilayer neural network (NN)(Geoffrey Hinton)
-1989 - Convolutional NN (Yann LeCun)
-1991 - Natural-language processing NN (Sepp Hochreiter, Jurgen Schmidhuber)
-1997 - Deep Blue wins in chess (Garry Kasparov)
-2004 - Self-driving vehicle, Mojave Desert (DARPA Challenge)
-2007 - ImageNet launches
-2011 - IBM vs. Jeopardy! champions
-2011 - Speech recognition NN (Microsoft)
-2012 - University of Toronto ImageNet classification and cat video recognition (Google Brain, Andrew Ng, Jeff Dean)
-2014 - DeepFace facial recognition (Facebook)
-2015 - DeepMind vs. Atari (David Silver, Demis Hassabis)
-2015 - First AI risk conference (Max Tegmark)
-2016 - AlphaGo vs. Go (Silver, Demis Hassabis)
-2017 - AlphaGo Zero vs. Go (Silver, Demis Hassabis)
-2017 - Libratus vs. poker (Noam Brown, Tuomas Sandholm)
-2017 - AI Now Institute launched
+**1943** - Artificial neural network (Warren McCullogh, Walter Pitts)<br>
+**1955** - Term "artifical intelligence" coined (John McCarthy)<br>
+**1957** - Predicted ten years for AI to beat human at chess (Herbert Simon)<br>
+**1958** - Perceptron (single-layer neural network)(Frank Rosenblatt)<br>
+**1959** - Machine learning described (Arthur Samuel)<br>
+**1964** - ELIZA, the first chatbot<br>
+**1964** - We know more than we can tell (Michael Polany's paradox)<br>
+**1969** - Question AI viability (Marvin Minsky)<br>
+**1986** - Multilayer neural network (NN)(Geoffrey Hinton)<br>
+**1989** - Convolutional NN (Yann LeCun)<br>
+**1991** - Natural-language processing NN (Sepp Hochreiter, Jurgen Schmidhuber)<br>
+**1997** - Deep Blue wins in chess (Garry Kasparov)<br>
+**2004** - Self-driving vehicle, Mojave Desert (DARPA Challenge)<br>
+**2007** - ImageNet launches<br>
+**2011** - IBM vs. Jeopardy! champions<br>
+**2011** - Speech recognition NN (Microsoft)<br>
+**2012** - University of Toronto ImageNet classification and cat video recognition (Google Brain, Andrew Ng, Jeff Dean)<br>
+**2014** - DeepFace facial recognition (Facebook)<br>
+**2015** - DeepMind vs. Atari (David Silver, Demis Hassabis)<br>
+**2015** - First AI risk conference (Max Tegmark)<br>
+**2016** - AlphaGo vs. Go (Silver, Demis Hassabis)<br>
+**2017** - AlphaGo Zero vs. Go (Silver, Demis Hassabis)<br>
+**2017** - Libratus vs. poker (Noam Brown, Tuomas Sandholm)<br>
+**2017** - AI Now Institute launched<br>
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceEcosystem.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/ProductDataScientist.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceSkillset2.png)
