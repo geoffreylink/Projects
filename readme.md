@@ -255,7 +255,8 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DescriptiveDiagnosticPredictivePrescriptive.gif)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/AlgorithmsInDecisionMaking.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/StatisticsMachineLearning.png)
-**A summary of Machine Learning Techniques**<br>
+
+**A Summary of Machine Learning Techniques**<br>
 **Artificial Intelligence** - the science and engineering of creating intelligent machines that have the ability to achieve goals like humans via a constellation of technologies.<br>
 **Neural Network (NN)** - software constructions modeled after the way adaptable neurons in the brain were understood to work instead of human guided rigid instructions.<br>
 **Deep Learning** - a type of neural network, the subset of machine learning composed of algorithms that permit software to train itself to perform tasks by processing multilayered networks of data.<br>
