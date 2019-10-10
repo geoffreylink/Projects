@@ -30,6 +30,7 @@
 * [How I Spent My Time As Product Data Scientist](https://medium.com/human-science-ai/how-i-spent-my-time-as-product-data-scientist-90e760044cd7)
 * [Top 10 Data Science Leaders You Should Follow](https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021)
 * [2020 and Beyond Programming Trend Predictions](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
+* [AWS Artifical Intelligence & Machine Learning Week](https://aws.amazon.com/government-education/AIML-Week-2019-On-Demand/?aliId=eyJpIjoiSnpjRE5Bd2ZKWm00QlhZUCIsInQiOiI1MjZ0NGpFaERPb3JrNzhJQ1h0VG13PT0ifQ%253D%253D)
 * [AWS Builders' Day | Serverless Architectural Patterns](https://youtu.be/p6LQ-ELvZe0)
 * [The History and Future of Machine Learning at Reddit](https://medium.com/@ODSC/the-history-and-future-of-machine-learning-at-reddit-d1cb17e06591)
 * [Top 10 Data Science & ML Tools for Non-Programmers](https://towardsdatascience.com/top-10-data-science-ml-tools-for-non-programmers-d12ce6dcccc)
