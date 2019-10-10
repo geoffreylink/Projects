@@ -249,6 +249,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/InterpretabilityAccuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/WhatAComputerSees.jpg)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/TopMethods2019vs2017.jpg)
+![](https://github.com/geoffreylink/Projects/blob/master/images/AmazonMLStack.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MachineLearningHighLevel.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceApproach.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DataScienceUseCases.png)
