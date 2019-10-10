@@ -16,6 +16,7 @@
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 * [Introduction to Computer Vision With OpenCV and Python](https://dzone.com/articles/introduction-to-computer-vision-with-opencv-and-py)
 * [A Gentle Introduction to Object Recognition With Deep Learning](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
+* [Demystifying Object Detection and Instance Segmentation for Data Scientists](https://towardsdatascience.com/a-hitchhikers-guide-to-object-detection-and-instance-segmentation-ac0146fe8e11)
 * [16 OpenCV Functions to Start your Computer Vision journey (with Python code)](https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/)
 
 ## Object Detection
