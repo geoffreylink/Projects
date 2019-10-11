@@ -3,8 +3,8 @@
 * [Data Science Map](https://www.saedsayad.com/data_mining_map.htm)
 * [The Twelve-Factor App](https://12factor.net)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Machine Learning for Business Groups](https://www.aws.training/Details/eLearning?id=27052)
 * [Alternative Data in Financial Services](https://github.com/geoffreylink/Projects/blob/master/AlternativeDatainFinancialServices.pdf)
+* [Machine Learning for Business Groups](https://www.aws.training/Details/eLearning?id=27052)
 
 ## 10mR
 * [Carto](https://carto.com)
