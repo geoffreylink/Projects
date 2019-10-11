@@ -41,8 +41,8 @@
 * [The Why, When, and How of Using Python Multi-threading and Multi-Processing](https://medium.com/towards-artificial-intelligence/the-why-when-and-how-of-using-python-multi-threading-and-multi-processing-afd1b8a8ecca)
 * [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
 * [Call an Amazon SageMaker model endpoint using Amazon API Gateway and AWS Lambda](https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/?ref=Welcome.AI)
-* [Accelerating the Machine Learning Lifecycle with MLflow 1.0 | M. Zaharia, A. Davidson, G. Buehrer](https://youtu.be/QJW_kkRWAUs)
 * [Automating Predictive Modeling at Zynga with PySpark and Pandas UDFsBen Weber Zynga](https://youtu.be/StNRA02Ny7Y)
+* [Accelerating the Machine Learning Lifecycle with MLflow 1.0 | M. Zaharia, A. Davidson, G. Buehrer](https://youtu.be/QJW_kkRWAUs)
 * [How to write four million lines of Python: Lessons from Dropbox on using the programming language at scale](https://www.techrepublic.com/article/how-to-write-four-million-lines-of-python-lessons-from-dropbox-on-using-the-programming-language-at-scale/)
 
 
