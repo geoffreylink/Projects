@@ -75,6 +75,7 @@
 * [Analyzing different types of activation functions in neural networks — which one to prefer?](https://towardsdatascience.com/analyzing-different-types-of-activation-functions-in-neural-networks-which-one-to-prefer-e11649256209)
 * [Artificial Neural Network and it’s contribution to Machine Learning — A beginner’s hand-book](https://blog.goodaudience.com/artificial-neural-networks-and-its-contribution-to-machine-learning-a-beginner-s-hand-book-ab7f4e7b230e)
 * [[Personal Notes] Deep Learning by Andrew Ng — Course 1: Neural Networks and Deep Learning](https://medium.com/@keonyonglee/bread-and-butter-from-deep-learning-by-andrew-ng-course-1-neural-networks-and-deep-learning-41563b8fc5d8)
+* [Advanced Hyperparameter Optimization for Deep Learning with MLflow - Maneesh Bhide Databricks](https://youtu.be/8QL8N6BAREc)
 * [The Secret Layer Behind Every Successful Deep Learning Model: Representation Learning and Knowledge Quality](https://towardsdatascience.com/the-secret-layer-behind-every-successful-deep-learning-model-representation-learning-and-knowledge-8f352018c561)
 
 ## Human Neural Network
