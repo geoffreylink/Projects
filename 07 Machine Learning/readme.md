@@ -9,6 +9,7 @@
 * [Anaconda](https://www.anaconda.com/anaconda-webinars/)
 * [Turi Create](https://github.com/apple/turicreate)
 * [Catboost.ai](https://catboost.ai)
+* [Featuretools](https://www.featuretools.com)
 * [Data School](https://www.dataschool.io)
 * [TNSE vs PCA](https://medium.com/@sourajit16.02.93/tsne-t-distributed-stochastic-neighborhood-embedding-state-of-the-art-c2b4b875b7da)
 * [ML Explained](http://mlexplained.com)
