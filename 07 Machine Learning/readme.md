@@ -96,6 +96,7 @@
 * [A Machine Learning Approach — Building a Hotel Recommendation Engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
 * [Built-in Machine Learning Algorithms with Amazon SageMaker - a Deep Dive](https://www.youtube.com/watch?v=yGc0qePSYig&feature=youtu.be&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
 * [Boosting and Bagging: How To Develop A Robust Machine Learning Algorithm](https://medium.com/better-programming/how-to-develop-a-robust-algorithm-c38e08f32201)
+* [Best Practices for Hyperparameter Tuning with MLflowJoseph Bradley Databricks](https://youtu.be/eEVDIOiYuMk)
 * [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 * [How To Out-Compete On a Data Science Competition — Insights, Techniques And Tactics](https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-insights-techniques-and-tactics-95a0545041d5)
 * [AWS Builders' Day | Machine Learning: From Notebook to Production with Amazon Sagemaker](https://youtu.be/sLktFah2Xi4)
