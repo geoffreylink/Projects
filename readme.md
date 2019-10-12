@@ -105,6 +105,7 @@
 * [Dive Into Python 3](https://diveintopython3.problemsolving.io)
 * [Deep Learning Book](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 * [A Course in Machine Learning](http://ciml.info)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -126,6 +127,7 @@
 * [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io)
 * [The Ultimate Data Science Prerequisite Learning List](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm)
 
 ## Blogs
