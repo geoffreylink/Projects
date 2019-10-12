@@ -23,6 +23,7 @@
 * [Data Science With No Data](https://towardsdatascience.com/data-science-with-no-data-b3c21acee17c)
 * [What Is Manifold Learning?](https://prateekvjoshi.com/2014/06/21/what-is-manifold-learning/)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+* [The Curse of Dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)
 * [Principal Component Analysis](https://medium.com/@mallrishabh52/principal-components-analysis-7f6ff559cd83)
