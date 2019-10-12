@@ -35,6 +35,7 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/EverythingisaRecommendation.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/MatrixFactorization.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/SimilarityMeasures.png)
+![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/SimilarityMeasuresCosineEuclidean.png)
 
 ## Collaborative & Content-Base Filtering
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/CollaborativeContent.png)
