@@ -106,6 +106,7 @@
 * [Deep Learning Book](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 * [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
+* [AWS Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597)
 * [A Course in Machine Learning](http://ciml.info)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
