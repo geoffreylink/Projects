@@ -108,6 +108,7 @@
 * [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 * [A Course in Machine Learning](http://ciml.info)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [A Full Course in Econometrics](https://youtu.be/M_5SLG7sUa0?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
