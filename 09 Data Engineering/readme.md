@@ -23,6 +23,7 @@
 * [Basic DataFrame Transformations in PySpark](https://hackingandslacking.com/basic-dataframe-transformations-in-pyspark-d2734a0d2b57)
 * [Time Complexities Of Python Data Structures](https://medium.com/fintechexplained/time-complexities-of-python-data-structures-ddb7503790ef)
 * [3 Great Additions for your Jupyter Notebooks](https://towardsdatascience.com/three-great-additions-for-your-jupyter-notebooks-cd7373b00e96)
+* [3 Advanced Python Functions for Data Scientists](https://towardsdatascience.com/3-advanced-python-functions-for-data-scientists-f869016da63a)
 * [A Neanderthal’s Guide to Apache Spark in Python](https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427)
 * [Learning Apache Spark with PySpark & Databricks](https://hackingandslacking.com/learning-apache-spark-with-pyspark-databricks-9a26adba0cee)
 * [Ever Wonder How Spotify Discover Weekly Works?](http://blog.galvanize.com/spotify-discover-weekly-data-science/)
