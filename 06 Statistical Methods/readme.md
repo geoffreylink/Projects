@@ -38,6 +38,7 @@
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
 * [Probability Learning III: Maximum Likelihood](https://towardsdatascience.com/probability-learning-iii-maximum-likelihood-e78d5ebea80c)
 * [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+* [Why you should probably not transform your data](https://medium.com/peter-flom-the-blog/why-you-should-probably-not-transform-your-data-9ea098dcaddf)
 * [Time Series for Business: A general introduction](https://medium.com/@fenjiro/time-series-for-business-a-general-introduction-50968346e660)
 * [Supervised Learning: Basics of Linear Regression](https://towardsdatascience.com/supervised-learning-basics-of-linear-regression-1cbab48d0eba)
 * [A Complete Tutorial on Time Series Modeling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
