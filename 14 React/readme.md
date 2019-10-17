@@ -32,9 +32,11 @@
 * [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ)
 * [Here Are the Most Common JavaScript Algorithms and Data Structures](https://medium.com/better-programming/here-are-the-most-common-javascript-algorithms-and-data-structures-ec3729050169)
 * [How I got my first developer job at age 40 after 10 months of hard work](https://medium.com/free-code-camp/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
+* [127 Helpful JavaScript Snippets You Can Learn in 30 Seconds or Less — Part 1 of 6](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-1-of-6-bc2bc890dfe5)
 * [The Internet Has a Huge C/C++ Problem and Developers Don't Want to Deal With It](https://www.vice.com/en_us/article/a3mgxb/the-internet-has-a-huge-cc-problem-and-developers-dont-want-to-deal-with-it)
 * [Progressive Web Apps: Apple App Store, Google Play Store, It Was Nice Knowing You](https://hackernoon.com/progressive-web-apps-apple-app-store-google-play-store-it-was-nice-knowing-you-728a00350e67)
 * [Immensely Upgrade Your Development Environment With These Visual Studio Code Extensions](https://medium.com/better-programming/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
+
 
 ## Visualizations
 ![](https://github.com/geoffreylink/Projects/blob/master/14%20React/images/WebBrowserMarketShare.png)
