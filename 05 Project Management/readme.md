@@ -57,6 +57,7 @@
 * [Lessons Learned From Launching An AI Product In Six Steps](https://www.forbes.com/sites/forbestechcouncil/2018/06/13/lessons-learned-from-launching-an-ai-product-in-six-steps/#41066a64331e)
 * [How to Get Better at Estimating Software Development Time](https://hackernoon.com/barriers-to-effective-software-effort-estimation-and-how-to-avoid-them-4abd39f09f26)
 * [How to Write a Good User Story: with Examples & Templates](https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/)
+* [A 6 Step Field Guide for Building Machine Learning Projects](https://towardsdatascience.com/a-6-step-field-guide-for-building-machine-learning-projects-6e4554f6e3a1)
 * [What I’ve Learned Working with 12 Machine Learning Startups](https://towardsdatascience.com/what-ive-learned-working-with-12-machine-learning-startups-a9a3026d2419)
 * [How to Write Good User Stories in Agile Software Development](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
 * [Jeff Bezos Knows How to Run a Meeting. Here's How He Does It](https://www.inc.com/justin-bariso/jeff-bezos-knows-how-to-run-a-meeting-here-are-his-three-simple-rules.html)
