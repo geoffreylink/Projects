@@ -55,7 +55,6 @@
 * [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#)
 * [The Curse of Dimensionality in classification](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 * [What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)
-* [Feature Scaling with Python’s scikit-learn](https://medium.com/towards-artificial-intelligence/feature-scaling-with-pythons-scikit-learn-10ab42119ae0)
 * [Introduction to Principal Component Analysis](https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6)
 * [Dimensionality Reduction II: Feature Extraction](https://sebastianraschka.com/pdf/lecture-notes/stat479fs18/14_feat-extract_slides.pdf)
 * [How to measure distances in machine learning](https://towardsdatascience.com/how-to-measure-distances-in-machine-learning-13a396aa34ce)
