@@ -101,6 +101,7 @@
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
 * [Deep Learning](http://www.deeplearningbook.org)
 * [H2O Resources](https://www.h2o.ai/resources/)
+* [Kaggle Learning](https://www.kaggle.com/learn/feature-engineering)
 * [A Byte of Python](https://python.swaroopch.com)
 * [AWS Builders Day](https://www.youtube.com/results?search_query=AWS+Builders+Day)
 * [Dive Into Python 3](https://diveintopython3.problemsolving.io)
