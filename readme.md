@@ -354,3 +354,6 @@
 
 ## Minimize Security Blast Radius, Maximize Development Agility
 ![](https://github.com/geoffreylink/Projects/blob/master/images/MinimizeBlastRadius.png)
+
+## Perishable Insights
+![](https://github.com/geoffreylink/Projects/blob/master/images/PerishableInsights.png)
