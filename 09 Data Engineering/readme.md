@@ -34,6 +34,7 @@
 * [Once You’re in the Cloud, How Expensive Is It to Get Out?](https://www.nefiber.com/blog/cloud-egress-charges/)
 * [Apache Spark: how to choose the correct data abstraction?](https://medium.com/quantyca/apache-spark-how-to-choose-the-correct-data-abstraction-8df7c6d8ec63)
 * [4 Tips for Advanced Feature Engineering and Preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
+* [Building an AWS Serverless ML Pipeline with Step Functions](https://tech.olx.com/building-an-aws-serverless-ml-pipeline-with-step-functions-b39feed12bab)
 * [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
 * [One Simple Trick for Speeding up your Python Code with Numpy](https://towardsdatascience.com/one-simple-trick-for-speeding-up-your-python-code-with-numpy-1afc846db418)
 * [Everything a Data Scientist Should Know About Data Management](https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42)
