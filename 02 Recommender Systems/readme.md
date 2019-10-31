@@ -17,6 +17,8 @@
 * [Building recommender systems with Azure Machine Learning service](https://azure.microsoft.com/en-us/blog/building-recommender-systems-with-azure-machine-learning-service/)
 * [Similarity and Distance Metrics for Data Science and Machine Learning](https://medium.com/dataseries/similarity-and-distance-metrics-for-data-science-and-machine-learning-e5121b3956f8)
 * [Build Your Own Clustering Based Recommendation Engine in 15 minutes](https://towardsdatascience.com/build-your-own-clustering-based-recommendation-engine-in-15-minutes-bdddd591d394)
+* [Solving Cold User problem for Recommendation system using Multi-Armed Bandit](https://towardsdatascience.com/solving-cold-user-problem-for-recommendation-system-using-multi-armed-bandit-d36e42fe8d44)
+
 
 ## Personalization
 ![](https://github.com/geoffreylink/Projects/blob/master/02%20Recommender%20Systems/images/Personalization.png)
