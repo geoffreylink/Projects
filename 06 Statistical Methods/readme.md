@@ -12,6 +12,7 @@
 * [Python & Holt-Winters](https://grisha.org/blog/2016/01/29/triple-exponential-smoothing-forecasting/)
 * [GLMs at Scale with H2O](https://www.youtube.com/watch?v=5UCZngHX7EI)
 * [ML Days | Amazon Forecast](https://youtu.be/NCmHoHomP1A)
+* [Overview of data distributions](https://medium.com/@ciortanmadalina/overview-of-data-distributions-87d95a5cbf0a)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
 * [Generalized Additive Models](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
 * [Poisson Distribution Intuition](https://medium.com/@aerinykim/poisson-distribution-intuition-and-derivation-1059aeab90d)
