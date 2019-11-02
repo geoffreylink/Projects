@@ -18,6 +18,7 @@
 * [Poisson Distribution Intuition](https://medium.com/@aerinykim/poisson-distribution-intuition-and-derivation-1059aeab90d)
 * [Hypothesis tests with Python](https://medium.com/analytics-vidhya/hypothesis-tests-with-python-bfff05955c43)
 * [Logistic Regression In Python](https://towardsdatascience.com/logistic-regression-python-7c451928efee)
+* [Overview of data distributions](https://medium.com/@ciortanmadalina/overview-of-data-distributions-87d95a5cbf0a)
 * [Interpolation and curve fitting](http://teaching.csse.uwa.edu.au/units/CITS5502//workshops/CITS2401-lect09--curve-fitting.pdf)
 * [Real World Bayesian Examples](https://www.datascience.com/blog/introduction-to-bayesian-inference-learn-data-science-tutorials)
 * [Regression Model Assumptions](https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html)
