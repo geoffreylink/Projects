@@ -24,6 +24,7 @@
 * [Linear Discriminant Analysis](https://medium.com/@srishtisawla/linear-discriminant-analysis-d38decf48105)
 * [The Curse of Dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+* [Hyperparameters Optimization](https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d)
 * [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Dimensionality Reduction 101](https://towardsdatascience.com/dimensionality-reduction-101-for-dummies-like-me-abcfb2551794)
 * [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)
