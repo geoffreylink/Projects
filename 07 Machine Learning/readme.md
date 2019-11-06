@@ -55,6 +55,7 @@
 * [Feature Scaling with Python’s scikit-learn](https://medium.com/towards-artificial-intelligence/feature-scaling-with-pythons-scikit-learn-10ab42119ae0)
 * [7 Things You Should Know about ROC AUC](https://medium.com/hiredscore-engineering/7-things-you-should-know-about-roc-auc-b4389ea2b2e3)
 * [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#)
+* [Machine Learning Model Fairness in Practice](https://medium.com/swlh/machine-learning-model-fairness-in-practice-bdebeaa76ee8)
 * [The Curse of Dimensionality in classification](https://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 * [What is Hidden in the Hidden Markov Model?](https://medium.com/acing-ai/what-is-hidden-in-the-hidden-markov-models-eee7bab45ac3)
 * [Introduction to Principal Component Analysis](https://towardsdatascience.com/introduction-to-principle-component-analysis-d705d27b88b6)
