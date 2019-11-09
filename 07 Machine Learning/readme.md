@@ -52,6 +52,7 @@
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Discriminative vs. Generative Classifiers](https://towardsdatascience.com/a-generative-approach-to-classification-17a0b5876729)
 * [What are Eigenvalues and Eigenvectors?](https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47)
+* [Get the Optimal K in K-Means Clustering](https://medium.com/towards-artificial-intelligence/get-the-optimal-k-in-k-means-clustering-d45b5b8a4315)
 * [Feature Scaling with Python’s scikit-learn](https://medium.com/towards-artificial-intelligence/feature-scaling-with-pythons-scikit-learn-10ab42119ae0)
 * [7 Things You Should Know about ROC AUC](https://medium.com/hiredscore-engineering/7-things-you-should-know-about-roc-auc-b4389ea2b2e3)
 * [Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#)
