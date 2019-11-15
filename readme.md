@@ -254,6 +254,7 @@
 
 ## A Visual Guide to Data Science
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
+![](https://github.com/geoffreylink/Projects/blob/master/images/HardestPartofMLisnotMLitsData.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/3DimensionalVectorSpace.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/InterpretabilityAccuracy.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/WhatAComputerSees.jpg)
