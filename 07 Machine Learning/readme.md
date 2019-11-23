@@ -83,6 +83,7 @@
 * [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production/answer/Håkon-Hapnes-Strand)
 * [6 amateur mistakes I’ve made working with train-test splits](https://towardsdatascience.com/6-amateur-mistakes-ive-made-working-with-train-test-splits-916fabb421bb)
 * [From Machine Learning to Reinforcement Learning Mastery](https://medium.com/better-programming/from-machine-learning-to-reinforcement-learning-mastery-47f33d9f6b41)
+* [The 5 most useful Techniques to Handle Imbalanced datasets](https://towardsdatascience.com/the-5-most-useful-techniques-to-handle-imbalanced-datasets-6cdba096d55a)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [How to code Gaussian Mixture Models from scratch in Python](https://towardsdatascience.com/how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252)
 * [Machine Learning Cheat Sheet — Data Processing Techniques](https://medium.com/swlh/machine-learning-cheat-sheet-data-processing-71faf3b26db8)
