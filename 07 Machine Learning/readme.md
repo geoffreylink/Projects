@@ -116,8 +116,8 @@
 * [Do most machine learning algorithms run in batch, or do they run every time they get a new bit of data?](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/Håkon-Hapnes-Strand)
 * [How to Use a Machine Learning Checklist to Get Accurate Predictions, Reliably (even if you are a beginner)](https://machinelearningmastery.com/machine-learning-checklist/)
 
-## Hand Written ML Workflow
-![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/HandWrittenMLWorkflow.png)
+## Whiteboard ML Workflow
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/WhiteboardMLWorkFlow.png)
 
 ## Data Science is 70% classification problems
 Three of the most popular classifiers within Machine Learning (which use 3 different mathematical approaches to classify data) are:
