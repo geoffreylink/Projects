@@ -42,6 +42,7 @@
 * [5 Powerful Scikit-Learn Examples](https://towardsdatascience.com/5-powerful-scikit-learn-models-e9b12375320d)
 * [Introduction to Bayesian Networks](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e)
 * [Chapter 1: Intro to AWS SageMaker](https://towardsdatascience.com/chapter-1-intro-to-aws-sagemaker-a1ecf00ec761)
+* [A Doomed Marriage of ML and Agile](https://towardsdatascience.com/a-doomed-marriage-of-ml-and-agile-b91b95b37e35)
 * [SVM: Feature Selection and Kernels](https://towardsdatascience.com/svm-feature-selection-and-kernels-840781cc1a6c)
 * [Get started with Bayesian Inference](https://medium.com/@andreasherman/get-started-with-bayesian-inference-cec9ad4ccd55)
 * [Dimensionality Reduction and UMAP](https://cw.fel.cvut.cz/b181/_media/courses/xp36vpd/vpd_dimensionality_reduction.pdf)
