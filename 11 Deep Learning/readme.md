@@ -23,6 +23,7 @@
 * [Introduction to Neural Networks](https://towardsdatascience.com/simple-introduction-to-neural-networks-ac1d7c3d7a2c)
 * [China’s Big AI Advantage: Humans](https://www.youtube.com/watch?v=tMZgRTQ-hv4)
 * [Neural Networks Bias And Weights](https://medium.com/fintechexplained/neural-networks-bias-and-weights-10b53e6285da)
+* [What learning rate should I use?](http://www.bdhammel.com/learning-rates/)
 * [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 * [An Introduction to Transfer Learning](https://medium.com/georgian-impact-blog/transfer-learning-part-1-ed0c174ad6e7)
