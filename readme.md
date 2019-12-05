@@ -113,6 +113,7 @@
 * [AWS Builders Day](https://www.youtube.com/results?search_query=AWS+Builders+Day)
 * [Dive Into Python 3](https://diveintopython3.problemsolving.io)
 * [Deep Learning Book](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
+* [Dive into Deep Learning](https://www.d2l.ai/index.html)
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 * [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 * [A Course in Machine Learning](http://ciml.info)
