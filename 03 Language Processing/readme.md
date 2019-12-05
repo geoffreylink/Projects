@@ -2,6 +2,7 @@
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [Berkeley 266-project](https://github.com/bwputman/266-project)
 * [Beginners Guide to Topic Modeling](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
+* [Deep NLP: Word Vectors with Word2Vec](https://medium.com/deep-learning-demystified/deep-nlp-word-vectors-with-word2vec-d62cb29b40b3)
 * [Calculating String Similarity in Python](https://towardsdatascience.com/calculating-string-similarity-in-python-276e18a7d33a)
 * [CS 349: Natural Language Processing](http://wellesleynlp.github.io/spring16/)
 * [Twitter Sentiment Analysis using fastText](https://towardsdatascience.com/twitter-sentiment-analysis-using-fasttext-9ccd04465597)
