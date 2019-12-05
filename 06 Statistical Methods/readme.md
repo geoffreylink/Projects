@@ -38,6 +38,7 @@
 * [Time Series Analysis of SFO Traffic Growth](https://towardsdatascience.com/time-series-analysis-of-sfo-traffic-growth-5c7d03cf52b2)
 * [ARIMA-TimeSeries Analysis of Tractor Sales](http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html)
 * [Creating Time Series Forecast using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python?utm_source=blog&utm_medium=TimeSeriesForecastComprehensivearticle)
+* [An overview of time series forecasting models](https://towardsdatascience.com/an-overview-of-time-series-forecasting-models-a2fa7a358fcb)
 * [Probability Learning III: Maximum Likelihood](https://towardsdatascience.com/probability-learning-iii-maximum-likelihood-e78d5ebea80c)
 * [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
 * [Time Series for Business: A general introduction](https://medium.com/@fenjiro/time-series-for-business-a-general-introduction-50968346e660)
