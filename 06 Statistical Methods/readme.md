@@ -55,6 +55,7 @@
 * [Linear Regression from Scratch with NumPy — Intuition](https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-5485abc9f2e4)
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
 * [Comparison between Naïve Bayes and Logistic Regression](https://dataespresso.com/en/2017/10/24/comparison-between-naive-bayes-and-logistic-regression/)
+* [Statistical Modeling with Python: How-to & Top Libraries](https://medium.com/kitepython/statistical-modeling-with-python-how-to-top-libraries-44f6c8cc7ece)
 * [The 5 discrete distributions every Statistician should know](https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782)
 * [MultiVariate Time Series Analysis For Data Science Rookies](https://www.analyticsindiamag.com/multivariate-time-series-analysis-for-data-science-rookies/)
 * [What is a Support Vector Machine, and Why Would I Use it?](https://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
