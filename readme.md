@@ -6,6 +6,7 @@
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Alternative Data in Financial Services](https://github.com/geoffreylink/Projects/blob/master/AlternativeDatainFinancialServices.pdf)
 * [Machine Learning for Business Groups](https://www.aws.training/Details/eLearning?id=27052)
+* [Conversation with Jeff Bezos Founder, Amazon, & Blue Origin - Fireside 2 Chat](https://youtu.be/u2LusJWZ6c4)
 * [Apple’s Tim Cook on his close relationship with Trump: ‘I believe in direct conversation’](https://www.marketwatch.com/story/apples-tim-cook-on-his-close-relationship-with-trump-i-believe-in-direct-conversation-2019-11-20?mod=home-page)
 
 ## Microsoft Azure
