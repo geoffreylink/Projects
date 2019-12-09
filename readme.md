@@ -10,6 +10,7 @@
 * [Apple’s Tim Cook on his close relationship with Trump: ‘I believe in direct conversation’](https://www.marketwatch.com/story/apples-tim-cook-on-his-close-relationship-with-trump-i-believe-in-direct-conversation-2019-11-20?mod=home-page)
 
 ## Microsoft Azure
+* [Microsoft Channel 9](https://channel9.msdn.com/Browse/AllContent)
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 * [Get started with Azure](https://azure.microsoft.com/en-ca/get-started/)
 * [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs/)
