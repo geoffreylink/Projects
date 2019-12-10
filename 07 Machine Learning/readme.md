@@ -131,6 +131,7 @@ Three of the most popular classifiers within Machine Learning (which use 3 diffe
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSAlogorithms.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/AWSBuiltInAlgorithms.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/MicrosoftAzureMachineLearningAlgorithmCheatSheet.png)
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/azure-machine-learning-algorithm-cheat-sheet-nov2019.pdf)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/MachineLearningAlgorithmsCheatSheet.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/TheMachineLearningProcess.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/HPOApproaches.png)
