@@ -73,6 +73,7 @@
 * [Forecasting Electricity Price Time Series Data in Python using a VAR Model](https://towardsdatascience.com/analyzing-electricity-price-time-series-data-using-python-time-series-decomposition-and-price-4cd61924ef49)
 * [A Multivariate Time Series Guide to Forecasting and Modeling (with Python codes)](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/)
 * [A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* [Under the Hood:Plotting various regression models and data preparation- from Machine Learning to Deep Learning Models](https://medium.com/@xijianlim/part-1-of-guerrilla-ml-ab5731bf94ed)
 
 ## Wisdom
 ![](https://github.com/geoffreylink/Projects/blob/master/06%20Statistical%20Methods/images/AllModelsAreWrong_01.png)
