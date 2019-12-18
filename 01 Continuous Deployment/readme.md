@@ -29,3 +29,6 @@
 ## DevOps
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/DevOps.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/AgileDevOps1.png)
+
+## Unit Testing
+![](https://github.com/geoffreylink/Projects/blob/master/01%20Continuous%20Deployment/images/UnitTestingMotivation.png)
