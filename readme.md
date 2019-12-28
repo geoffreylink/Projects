@@ -69,6 +69,7 @@
 * [Why I Write a Data Science Blog](https://towardsdatascience.com/why-i-write-a-data-science-blog-7726c3c7d3d9)
 * [The Mathematics of Web Search](http://pi.math.cornell.edu/~mec/Winter2009/RalucaRemus/index.html)
 * [Practical Machine Learning Problems](https://machinelearningmastery.com/practical-machine-learning-problems/)
+* [Top 7 Data Science Courses on GitHub](https://towardsdatascience.com/top-7-data-science-course-repositories-on-github-11a47e4b8dc2)
 * [The Data Science Interview Study Guide](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 * [Which Data Science Bootcamp is right for you?](https://towardsdatascience.com/which-data-science-bootcamp-is-right-for-you-ab2f7bf49d28)
 * [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
