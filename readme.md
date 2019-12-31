@@ -119,6 +119,7 @@
 * [Deep Learning Book](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
 * [Dive into Deep Learning](https://www.d2l.ai/index.html)
 * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 * [A Course in Machine Learning](http://ciml.info)
 * [A Full Course in Econometrics](https://youtu.be/M_5SLG7sUa0?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
