@@ -25,6 +25,7 @@
 * [Frequentist vs Bayesian Examples](https://www.quantstart.com/articles/Bayesian-Statistics-A-Beginners-Guide)
 * [P-values Explained By Data Scientist](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8)
 * [How the Naive Bayes Algorithm Works](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
+* [Top 3 Methods for Handling Skewed Data](https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45)
 * [Anomaly Detection Learning Resources](https://github.com/yzhao063/anomaly-detection-resources)
 * [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 * [Support Vector Machines - Scikit Learn](https://scikit-learn.org/stable/modules/svm.html)
