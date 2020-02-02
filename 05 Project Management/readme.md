@@ -13,6 +13,7 @@
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun)
 * [Socratic method](https://en.wikipedia.org/wiki/Socratic_method)
+* [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership)
 * [Large Scale Scrum](https://less.works)
 * [Atlassian Confluence](https://www.atlassian.com/software/confluence)
 * [Cloud Transformation](https://www.dynatrace.com/news/blog/what-i-learned-in-my-80-hours-with-singapore-cloud-transformation-leaders/)
