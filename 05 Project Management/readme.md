@@ -120,3 +120,6 @@ The role of Scribe is to:
 
 ## Project Management Triangle
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ProjectManagementTriangle.png)
+
+## Kanban Board
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/KanbanBoard.png)
