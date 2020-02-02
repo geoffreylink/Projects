@@ -15,6 +15,7 @@
 * [Scrum at Scale](https://www.scrumatscale.com/scrum-at-scale-guide-read-online/)
 * [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
 * [Follow-the-sun](https://en.wikipedia.org/wiki/Follow-the-sun)
+* [Burn down chart](https://en.wikipedia.org/wiki/Burn_down_chart)
 * [Socratic method](https://en.wikipedia.org/wiki/Socratic_method)
 * [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership)
 * [Large Scale Scrum](https://less.works)
