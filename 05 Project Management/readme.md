@@ -9,6 +9,7 @@
 * [Coggle](https://coggle.it)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 * [Scrum Guide](https://www.scrumguides.org/index.html)
+* [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board)
 * [Atlassian Jira](https://www.atlassian.com/software/jira?r=APMT)
 * [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker)
 * [Scrum at Scale](https://www.scrumatscale.com/scrum-at-scale-guide-read-online/)
