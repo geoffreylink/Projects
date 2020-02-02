@@ -80,6 +80,7 @@ The role of Scribe is to:
 1) Set the agenda for the meeting
 2) Assign time limits to discussion topics
 3) Record all decisions, actions, and issues noted by the group
+4) Have the information available to answer the question "How did we get here?" and provide a timeline.
 
 ## Agile Product Roadmap
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/AgileProductRoadmap.png)
