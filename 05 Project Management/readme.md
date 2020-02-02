@@ -124,3 +124,6 @@ The role of Scribe is to:
 
 ## Kanban Board
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/KanbanBoard.png)
+
+## Sample Burndown Chart
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/SampleBurndownChart.png)
