@@ -5,6 +5,7 @@
 
 ## References
 * [Slack](https://slack.com/intl/en-ca/)
+* [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams)
 * [Coggle](https://coggle.it)
 * [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 * [Scrum Guide](https://www.scrumguides.org/index.html)
