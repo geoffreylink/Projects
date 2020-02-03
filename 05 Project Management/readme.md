@@ -1,3 +1,6 @@
+## Peter Drucker
+"Efficiency is doing things right. Effectiveness is doing the right things."
+
 ## Agile + Cloud + Continuous Deployment = Reduced Risk
 1) Agile -> Sprint Retrospectives allow for incremental team growth based upon outcomes (no major team ramp-ups)
 2) Cloud -> Resources can be incrementally grown based upon need (no major capital expenditures)
