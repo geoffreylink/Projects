@@ -47,6 +47,7 @@
 * [5 Reasons To Have Fixed-Length Sprints](https://www.knowledgehut.com/blog/agile/5-reasons-to-have-fixed-length-sprints)
 * [The Team Data Science Process Lifecycle](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 * [What is the Project Management Triangle?](https://en.wikipedia.org/wiki/Project_management_triangle)
+* [OKRs: The Magic Key to Strategy Deployment](https://medium.com/swlh/okrs-the-magic-key-to-strategy-deployment-d0a070ad4bf1)
 * [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 * [The top project management methodologies](https://monday.com/blog/top-project-management-methodologies/)
 * [There are no new ideas, just better execution](https://www.businessinsider.com/there-are-no-new-business-ideas-2012-9)
