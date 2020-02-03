@@ -89,6 +89,9 @@ The role of Scribe is to:
 4) Have the information available to answer the question "How did we get here?" and provide a timeline.
 
 ## Agile Product Roadmap
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/DevelopmentTeam.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ProductOwner.png)
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ScrumMaster.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/AgileProductRoadmap.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/SCRUMUX.png)
 
