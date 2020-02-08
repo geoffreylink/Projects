@@ -5,8 +5,8 @@
 * [The Twelve-Factor App](https://12factor.net)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
-* [PEP 8 -- Style Guide for Python Code]
-* [Pylint -- code analysis for Python]
+* [Pylint -- code analysis for Python](https://www.pylint.org)
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Alternative Data in Financial Services](https://github.com/geoffreylink/Projects/blob/master/AlternativeDatainFinancialServices.pdf)
 * [Machine Learning for Business Groups](https://www.aws.training/Details/eLearning?id=27052)
 * [Conversation with Jeff Bezos Founder, Amazon, & Blue Origin - Fireside 2 Chat](https://youtu.be/u2LusJWZ6c4)
