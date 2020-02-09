@@ -131,3 +131,8 @@
 ## AWS Sagemaker Endpoints
 * [AWS Sagemaker Endpoints](https://youtu.be/KFuc2KWrTHs?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSSagemakerEndpoints.png)
+
+## AWS Lake Formation
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSLakeFormation_01.png)
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSLakeFormation_02.png)
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSLakeFormation_03.png)
