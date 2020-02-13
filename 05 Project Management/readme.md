@@ -139,5 +139,5 @@ The role of Scribe is to:
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/OKR_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/OKR_03.png)
 
-## Portfolio For JIRA
+## Atlassian Portfolio For JIRA
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/PortfolioForJIRA.png)
