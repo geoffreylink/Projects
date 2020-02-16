@@ -142,5 +142,5 @@ The role of Scribe is to:
 ## Atlassian Portfolio For JIRA
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/PortfolioForJIRA.png)
 
-## Code Pipeline
-![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/CodePipeline.png)
+## Progressive Web App Project Management Template
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ProgressiveWebAppProjectManagementTemplate.png)
