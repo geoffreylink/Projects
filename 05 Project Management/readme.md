@@ -144,3 +144,6 @@ The role of Scribe is to:
 
 ## Progressive Web App Project Management Template
 ![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/ProgressiveWebAppProjectManagementTemplate.png)
+
+## QA Automation with AWS Code Pipeline
+![](https://github.com/geoffreylink/Projects/blob/master/05%20Project%20Management/images/QAAutomationWithAWSCodePipeline.png)
