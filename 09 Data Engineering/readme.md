@@ -5,6 +5,7 @@
 * [Numba](https://numba.pydata.org)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Awesome Python](https://awesome-python.com)
+* [Learning-PySpark](https://github.com/PacktPublishing/Learning-PySpark)
 * [Imbalanced-Learn](http://imbalanced-learn.org/en/stable/index.html)
 * [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
 * [Building a Data Lake in AWS](https://medium.com/people-ai-engineering/building-a-data-lake-in-aws-9c1fb3876e23)
