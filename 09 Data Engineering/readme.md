@@ -18,6 +18,7 @@
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 * [ML in Snowflake Part 2: k-means clustering](https://towardsdatascience.com/ml-in-snowflake-part-2-k-means-clustering-b943c829477)
 * [9 Amazing Articles on Python Programming](https://medium.com/better-programming/10-great-articles-on-python-development-6f54dd38437f)
+* [My top 5 gotchas working with AWS Glue](https://www.linkedin.com/pulse/my-top-5-gotchas-working-aws-glue-tanveer-uddin/)
 * [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
 * [Auto-scaling scikit-learn with Apache Spark](https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-apache-spark.html)
 * [3 Programming Concepts for Data Scientists](https://towardsdatascience.com/three-programming-concepts-for-data-scientists-c264fc3b1de8)
