@@ -56,6 +56,10 @@
 * [Accelerating the Machine Learning Lifecycle with MLflow 1.0 | M. Zaharia, A. Davidson, G. Buehrer](https://youtu.be/QJW_kkRWAUs)
 * [How to write four million lines of Python: Lessons from Dropbox on using the programming language at scale](https://www.techrepublic.com/article/how-to-write-four-million-lines-of-python-lessons-from-dropbox-on-using-the-programming-language-at-scale/)
 
+## Cloud Monitoring Tools
+* [Sumo Logic](https://www.sumologic.com)
+* [New Relic](https://newrelic.com)
+* [Data Dog](https://www.datadoghq.com)
 
 ## Privacy
 * Removal
