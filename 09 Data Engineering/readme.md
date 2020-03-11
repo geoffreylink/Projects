@@ -57,9 +57,9 @@
 * [How to write four million lines of Python: Lessons from Dropbox on using the programming language at scale](https://www.techrepublic.com/article/how-to-write-four-million-lines-of-python-lessons-from-dropbox-on-using-the-programming-language-at-scale/)
 
 ## Cloud Monitoring Tools
-* [Sumo Logic](https://www.sumologic.com)
-* [New Relic](https://newrelic.com)
 * [Data Dog](https://www.datadoghq.com)
+* [New Relic](https://newrelic.com)
+* [Sumo Logic](https://www.sumologic.com)
 
 ## Privacy
 * Removal
