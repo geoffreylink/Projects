@@ -1,8 +1,6 @@
 # Welcome!
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="geoffreylink"><a class="LI-simple-link" href='https://ca.linkedin.com/in/geoffreylink?trk=profile-badge'>Geoffrey Link</a></div>
-
-* [Geoffrey Link](https://www.linkedin.com/in/geoffreylink/)
+* [Geoffrey Link LinkedIn](https://www.linkedin.com/in/geoffreylink/)
 * [Data Science Map](https://www.saedsayad.com/data_mining_map.htm)
 * [The Twelve-Factor App](https://12factor.net)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
