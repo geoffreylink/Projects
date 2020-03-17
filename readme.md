@@ -1,6 +1,6 @@
 # Welcome!
 
-* [Geoffrey Link LinkedIn](https://www.linkedin.com/in/geoffreylink/)
+* [LinkedIn](https://www.linkedin.com/in/geoffreylink/)
 * [Data Science Map](https://www.saedsayad.com/data_mining_map.htm)
 * [The Twelve-Factor App](https://12factor.net)
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
