@@ -142,3 +142,6 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSLakeFormation_01.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSLakeFormation_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSLakeFormation_03.png)
+
+## AWS Network Segmentation
+![](https://github.com/geoffreylink/Projects/blob/master/09%20Data%20Engineering/images/AWSNetworkSegmentation.png)
