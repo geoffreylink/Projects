@@ -101,6 +101,7 @@
 * [CS229 - Projects](http://cs229.stanford.edu/projects2016.html)
 * [Academic Torrents](http://academictorrents.com)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [Terence's Data Science Repository](https://docs.google.com/document/d/1UV6pvCi9du37cYAcKNtuj-2rkCfbt7kBJieYhSRuwHw/edit#)
 * [Google's Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/)
 * [CS565500 Large-Scale Machine Learning](http://www.cs.nthu.edu.tw/~shwu/courses/ml/)
