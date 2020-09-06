@@ -86,8 +86,8 @@
 * [How to Explain Each Machine Learning Model at an Interview](https://towardsdatascience.com/how-to-explain-each-machine-learning-model-at-an-interview-499d82f91470)
 * [3 Things To Do When You Don’t Have a Computer Science Degree](https://medium.com/@kerisavoca/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d)
 * [Fantastic Data Scientists: where to find them and how to become one](https://medium.com/@alexrachnog/fantastic-data-scientists-where-to-find-them-and-how-to-become-one-5b5d5169565b)
-* [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 * [How to become a developer and get your first job as quickly as possible](https://www.freecodecamp.org/news/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6/?source=email-57940e023ce1-1558953718025-digest.reader------3-50------------------9e13b338_6903_40c4_8fca_355ca5d05507-1&sectionName=top)
+* [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [How I Consistently Improve My Machine Learning Models From 80% to Over 90% Accuracy](https://towardsdatascience.com/how-i-consistently-improve-my-machine-learning-models-from-80-to-over-90-accuracy-6097063e1c9a)
 
