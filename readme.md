@@ -90,6 +90,7 @@
 * [What I learned from interviewing at multiple AI companies and start-ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc)
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [How I Consistently Improve My Machine Learning Models From 80% to Over 90% Accuracy](https://towardsdatascience.com/how-i-consistently-improve-my-machine-learning-models-from-80-to-over-90-accuracy-6097063e1c9a)
+* [Giving Some Tips For Data Science Interviews, After Interviewing 60 Candidates at Expedia](https://towardsdatascience.com/giving-some-tips-for-data-science-interviews-after-interviewing-60-candidates-at-expedia-395fff7e073b)
 
 ## Reference
 * [DataTau](http://www.datatau.com)
