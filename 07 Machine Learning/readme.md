@@ -127,6 +127,9 @@
 ## AWS Sagemaker Autopilot Use Cases
 ![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/SagemakerAutopilotUseCases.png)
 
+## Sagemaker Endpoints
+![](https://github.com/geoffreylink/Projects/blob/master/07%20Machine%20Learning/images/SagemakerEndpoints.png)
+
 ## Data Science is 80% classification problems
 Three of the most popular classifiers within Machine Learning (which use 3 different mathematical approaches to classify data) are:
 1) Naive Bayes, which uses a statistical (Bayesian) approach
