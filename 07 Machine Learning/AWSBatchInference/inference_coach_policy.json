@@ -1,0 +1,39 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "cloudwatch:PutMetricAlarm",
+                "secretsmanager:GetSecretValue",
+                "cloudwatch:DeleteAlarms",
+                "cloudwatch:DescribeAlarms",
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::project1-landing",
+                "arn:aws:secretsmanager:us-east-1:888888888888:secret:rds-db-credentials/cluster-888888888888/postgres-888888",
+                "arn:aws:cloudwatch:*:888888888888:alarm:*"
+            ]
+        },
+        {
+            "Sid": "VisualEditor1",
+            "Effect": "Allow",
+            "Action": [
+                "sagemaker:CreateEndpoint",
+                "application-autoscaling:RegisterScalableTarget",
+                "sagemaker:DescribeEndpointConfig",
+                "batch:SubmitJob",
+                "sagemaker:DeleteEndpoint",
+                "rds-data:*",
+                "application-autoscaling:PutScalingPolicy",
+                "batch:ListJobs",
+                "sagemaker:DescribeEndpoint",
+                "sagemaker:UpdateEndpointWeightsAndCapacities",
+                "application-autoscaling:DeregisterScalableTarget"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
