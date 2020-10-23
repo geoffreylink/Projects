@@ -1,0 +1,16 @@
+import datetime
+import meteomatics.api
+
+# https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=portland
+# https://www.meteomatics.com/en/api/getting-started/
+# pip install meteomatics
+
+print (meteomatics.api.query_time_series(
+    latlon_tuple_list = [(45.581,-122.375)]                                 ,
+    startdate         = datetime.datetime.strptime('2020-10-23', '%Y-%m-%d'),
+    enddate           = datetime.datetime.strptime('2020-10-23', '%Y-%m-%d'),
+    interval          = datetime.timedelta(days=1)                          ,
+    parameters        = ['t_2m:C', 'precip_1h:mm', 'wind_speed_10m:ms']     ,
+    username          = 'python-community'                                  ,
+    password          = 'Umivipawe179'
+                                        ).head())
