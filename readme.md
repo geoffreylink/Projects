@@ -272,6 +272,10 @@
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_02.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/DynamicPricing_03.png)
 
+## Psychographic Segmentation
+* [Psychographic Segmentation Definition, Variables and Examples](https://www.garyfox.co/psychographic-segmentation/)
+![](https://github.com/geoffreylink/Projects/blob/master/images/PsychographicSegmentation.png)0
+
 ## A Visual Guide to Data Science
 ![](https://github.com/geoffreylink/Projects/blob/master/images/SimplestExplanationOfDataScience.png)
 ![](https://github.com/geoffreylink/Projects/blob/master/images/HardestPartofMLisnotMLitsData.png)
