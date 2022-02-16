@@ -114,7 +114,6 @@
 * [Summary of Machine Learning Ensemble Techniques](https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/)
 
 ## Free Online Books
-* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 * [Welch Labs](https://youtu.be/bxe2T-V8XRs?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Think Python](https://greenteapress.com/wp/think-python-2e/)
@@ -131,6 +130,7 @@
 * [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 * [A Course in Machine Learning](http://ciml.info)
 * [A Full Course in Econometrics](https://youtu.be/M_5SLG7sUa0?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Scikit-Learn Cookbook, 2nd Ed.](https://github.com/PacktPublishing/scikit-learn-Cookbook-Second-Edition)
